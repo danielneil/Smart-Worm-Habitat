@@ -10,8 +10,6 @@ A smart worm bin system that monitors the health of a worm bin using a Raspberry
 
 & with pretty graphs too!
 
-## Does it send alerts? 
-
-Yes! 
+## It sends alerts, too 
 
 It will email you if any of monitored items go above or below declared thresholds. 
