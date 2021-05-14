@@ -3,10 +3,12 @@ A smart worm bin system that monitors the health of a worm bin using a Raspberry
 
 ## What does it monitor? 
 
-Outdoor Temp
-Soil Temperature 
-Soil Moisture level
-Soil PH level 
+* Outdoor Temp
+* Soil Temperature 
+* Soil Moisture level
+* Soil PH level 
+
+& with pretty graphs too!
 
 ## Does it send alerts? 
 
