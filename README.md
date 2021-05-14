@@ -1,5 +1,6 @@
 # Smart-Worm-Bin
-A smart worm bin system that monitors the health of a worm bin using a Raspberry Pi.
+
+A smart worm bin system that monitors the health of a worm bin using a little computer (nawww).
 
 ## What does it monitor? 
 
@@ -13,3 +14,9 @@ A smart worm bin system that monitors the health of a worm bin using a Raspberry
 ## It sends alerts, too 
 
 It will email you if any of monitored items go above or below declared thresholds. 
+
+## And it can watch them ;)
+
+The infrared camera will takes a happy snap every 30 minutes. 
+
+Ps.s they always go for the water melon first. 
