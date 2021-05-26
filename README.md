@@ -24,7 +24,7 @@ It will email you if any of monitored items go above or below declared threshold
 
 The infrared camera will takes a happy snap every 30 minutes. 
 
-Ps.s they always go for the water melon first. 
+P.s they always go for the water melon first. 
 
 ## Want to help? I need developers and wormfarmers!  
 
