@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/danielneil/Smart-Worm-Bin/blob/main/shark/files/ui_patches/logofullsize.png?raw=true">
+  <img src="https://github.com/danielneil/Smart-Worm-Bin/blob/main/images/worm.jpg?raw=true">
 </p>
 
 
