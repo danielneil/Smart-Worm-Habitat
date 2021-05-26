@@ -1,6 +1,6 @@
 
 
-# Computer
+# Little Computer (Nawwww)
 
 * 4GB+
 * 1CPU+
@@ -14,6 +14,8 @@ https://www.amazon.com.au/Raspberry-Model-Complete-Starter-Pack/dp/B07ZMMGJ24/re
 # Infrared camera 
 
 To watch them! :)
+
+It needs to be infrared as worms are photosensitive.
 
 # Soil Temp Monitor
 
