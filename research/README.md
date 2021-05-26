@@ -5,7 +5,7 @@
 * 4GB+
 * 1CPU+
 * 20GB
-* 5 USB ports needed :/
+* 4 USB ports 
 
 Initially, the Raspberry Pi 4 Model B 4GB, will serve as a prototype.
 
@@ -17,10 +17,14 @@ To watch them! :)
 
 It needs to be infrared as worms are photosensitive.
 
-# Soil Temp Monitor
+# Soil Temp and Moisture Monitor
 
-# Soil Moisture Monitor
+https://www.instrumentchoice.com.au/th30s-b-temperature-and-humidity-probe-ic-th30s-b-usb
 
 # Outside Temp
 
+https://www.instrumentchoice.com.au/th30s-b-temperature-and-humidity-probe-ic-th30s-b-usb
+
 # Soil PH Monitor 
+
+Hmmmmmmmmm
