@@ -1,4 +1,4 @@
-<p align="center" style="max-width: 300px; max-height: 300px; ">>
+<p align="center" style="width: 100px; height: 100px; ">>
   <img src="https://github.com/danielneil/Smart-Worm-Bin/blob/main/images/worm.jpg?raw=true"
 </p>
 
