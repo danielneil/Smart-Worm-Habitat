@@ -28,5 +28,5 @@ Ps.s they always go for the water melon first.
 3. Create a Raspberry-PI Virtual Box with the freshly downloaded image.
 4. From a shell on the Pi, run the below shell snippet:
 ``` 
-git clone  
+git clone  https://github.com/danielneil/Smart-Worm-Bin.git && cd ./Smart-Worm-Bin && build.sh
 ```
