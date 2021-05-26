@@ -1,8 +1,5 @@
 <p align="center">
-  <img src="https://github.com/danielneil/Smart-Worm-Bin/blob/main/images/worm.jpg?raw=true" style="height: auto; 
-    width: auto; 
-    max-width: 50px; 
-    max-height: 50px;">
+  <img src="https://github.com/danielneil/Smart-Worm-Bin/blob/main/images/worm.jpg?raw=true" style="height: auto; width: auto; ">
 </p>
 
 
