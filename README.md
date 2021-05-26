@@ -9,7 +9,7 @@ A (proposed) smart worm bin system that monitors the health of a worm bin using 
 
 ## What does it monitor? 
 
-* Outdoor Temp
+* Outside Temperature
 * Soil Temperature 
 * Soil Moisture level
 * Soil PH level 
