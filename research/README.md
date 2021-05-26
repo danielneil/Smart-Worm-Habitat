@@ -1,6 +1,6 @@
 
 
-# Little Computer (Nawwww)
+# Little Computer (nawwww)
 
 * 4GB+
 * 1CPU+
