@@ -25,6 +25,4 @@ Ps.s they always go for the water melon first.
 
 1. Install Virtual Box 
 2. Download the [Raspberry Pi Desktop](https://www.raspberrypi.org/software/raspberry-pi-desktop/)
-3. ``` 
-asf
-```
+3. ``` asdf ```
