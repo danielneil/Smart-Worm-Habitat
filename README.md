@@ -30,6 +30,6 @@ Ps.s they always go for the water melon first.
 3. Create a Raspberry-PI Virtual Box with the freshly downloaded image ([help](https://roboticsbackend.com/install-raspbian-desktop-on-a-virtual-machine-virtualbox/)).
 4. From a shell on the Pi, run the below shell snippet:
 ``` 
-git clone  https://github.com/danielneil/Smart-Worm-Bin.git && cd Smart-Worm-Bin && ./build.sh
+git clone https://github.com/danielneil/Smart-Worm-Bin.git && cd Smart-Worm-Bin && ./build.sh
 ```
 5. Have a peek around the codebase for a bit that interests you, and send me a pull request. 
