@@ -26,7 +26,7 @@ The infrared camera will takes a happy snap every 30 minutes.
 
 Ps.s they always go for the water melon first. 
 
-## Want to help? I need developers and wormfarmers to help!  
+## Want to help? I need developers and wormfarmers!  
 
 1. Install Virtual Box 
 2. Download the [Raspberry Pi Desktop](https://www.raspberrypi.org/software/raspberry-pi-desktop/) image.
