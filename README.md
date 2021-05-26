@@ -1,6 +1,6 @@
 # Smart-Worm-Bin
 
-A smart worm bin system that monitors the health of a worm bin using a little computer (nawww).
+A (proposed) smart worm bin system that monitors the health of a worm bin using a little computer (nawww).
 
 ## What does it monitor? 
 
