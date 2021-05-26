@@ -2,9 +2,9 @@
 
 # Computer
 
-* 8GB+
-* 4 CPU
-* 80GB
+* 4GB+
+* 1CPU+
+* 20GB
 * 5 USB ports needed :/
 
 Initially, the Raspberry Pi 4 Model B 4GB, will serve as a prototype.
