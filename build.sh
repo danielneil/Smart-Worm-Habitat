@@ -7,7 +7,7 @@ set -e
 InstallDeps() {
  if [ $(dpkg -l | grep "$1" | wc -l) ];
  then 
-  sudo apt-get install "$1"
+  sudo apt-get install "$1" -y
  fi
 }
 
