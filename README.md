@@ -11,7 +11,7 @@ A (proposed) design for a smart worm farm that monitors the health of itself usi
     
 ## What does it look like?  
 
-An ideal of the project is that the little computer (nawwww) will be compatiable with any type of worm farm, but our system will be a [continous flow system](https://urbanwormcompany.com/complete-guide-to-continuous-flow-vermicomposting/), which might end up looking like the below:
+An ideal of the project is that the little computer (nawwww) will be compatiable with any type of worm farm, but our farm will be a [continous flow system](https://urbanwormcompany.com/complete-guide-to-continuous-flow-vermicomposting/), which might end up looking like the below:
 
 <p align="center">
   <img src="https://github.com/danielneil/Smart-Worm-Bin/blob/main/images/cf-bin.jpg?raw=true">
