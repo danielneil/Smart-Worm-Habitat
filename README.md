@@ -5,7 +5,7 @@
 
 # Smart-Worm-Farm
 
-A (proposed) design for a smart worm farm system that monitors the health of itself using a little computer (nawww).
+A (proposed) design for a smart worm farm that monitors the health of itself using a little computer (nawww).
     
 [But why?!?!?!!?](https://github.com/danielneil/Smart-Worm-Bin/blob/main/mantra.md)
 
