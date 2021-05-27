@@ -15,7 +15,7 @@ https://www.amazon.com.au/Raspberry-Model-Complete-Starter-Pack/dp/B07ZMMGJ24/re
 
 ## Worm Farm 
 
-An ideal of the project is that the software will be compatiable with any type of worm farm, but our system be a [continous flow system](https://urbanwormcompany.com/complete-guide-to-continuous-flow-vermicomposting/), which might end up looking like the below:
+An ideal of the project is that the little Computer (nawwww) will be compatiable with any type of worm farm, but our system be a [continous flow system](https://urbanwormcompany.com/complete-guide-to-continuous-flow-vermicomposting/), which might end up looking like the below:
 
 <p align="center">
   <img src="https://github.com/danielneil/Smart-Worm-Bin/blob/main/images/cf-bin.jpg?raw=true">
