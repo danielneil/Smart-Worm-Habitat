@@ -30,7 +30,7 @@ To finance construction, I plan to crowdfund it.
     
 Any other ideas?
 
-## It sends alerts, too 
+## It sends alerts, too!
 
 It will email you if any of the monitored items go above or below the declared thresholds. 
 
