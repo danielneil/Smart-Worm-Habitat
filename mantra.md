@@ -2,7 +2,7 @@
 
 We need to move towards circular economies, and away from the take-make-waste model to something far more environmentally responsible/sustainable. 
 
-One of the ways we can be more environmentally responsible, is to use worms to process food waste and save it from entering landfill (and stop from becoming methane in the atmosphere!). 
+One of the ways we can be more environmentally responsible, is to use worms to process food waste and save it from entering landfill (and thus becoming methane in the atmosphere!). 
 
 Worms have been on the planet for over 200 million years, and provide us with a wonderful service in their ability to consume food waste and turn it into the best fertlise known to mankind - vermicast!. 
 
