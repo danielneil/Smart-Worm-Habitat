@@ -7,7 +7,7 @@ This doc is to help with R&D of our little system, so this this should be your f
 
 Initially, the Raspberry Pi 4 Model B 4GB, will serve as a prototype, but R&D will occur with VirtualBox and [the Raspberry Pi Desktop](https://www.raspberrypi.org/software/raspberry-pi-desktop/), so no need to purchase a Raspberry Pi just yet.
 
-Depending on the results of battle testing the design will serve to tell us whether the Pi is up to the challenge.  
+Depending on the results of battle testing the design, we'll know whether the Pi is up to the challenge.  
 
 #### Prototype hardware: 
 
