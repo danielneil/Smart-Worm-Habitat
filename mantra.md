@@ -1,12 +1,12 @@
 # Why Create a Smart Worm Bin?
 
-We need to move towards circular economies, and away from the take-make-waste model to something far more environmentally responsible/sustainable.
+We need to move towards circular economies, and away from the take-make-waste model to something far more environmentally responsible/sustainable. 
 
-Worms are the 2nd oldest creature on the planet (next to the jelly fish), and are able to provide us with a wonderful service in their natural ability to consume food waste and turn it into the best fertlise known to man kind. 
+One of the ways we can be more environmentally responsible, is to use worms to process food waste and save it from entering landfill (and stop from becoming methane in the atmosphere!). 
 
-Worms are like us, they need specific conditions to thrive, so this project strives to enable worm farmers to manage the conditions of their worm farmers to ensure their optimal operation. 
+Worms have been on the planet for over 200 million years, and provide us with a wonderful service in their ability to consume food waste and turn it into the best fertlise known to mankind - vermicast!. 
 
-
+Worms are like us, they need specific conditions to thrive, so this project strives to enable worm farmers to manage the conditions of their worm farmes to ensure their optimal operation. 
 
 Have a read of the facts below.
 
