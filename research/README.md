@@ -7,13 +7,15 @@ This doc is to help with R&D of our little system, so this this should be your f
 
 Initially, the Raspberry Pi 4 Model B 4GB, will serve as a prototype, but R&D will occur with VirtualBox and [the Raspberry Pi Desktop](https://www.raspberrypi.org/software/raspberry-pi-desktop/), so no need to purchase a Raspberry Pi just yet.
 
+Depending on the results of battle testing the design as to whether the Pi will serve as the final 
+
 #### Prototype hardware: 
 
 https://www.amazon.com.au/Raspberry-Model-Complete-Starter-Pack/dp/B07ZMMGJ24/ref=asc_df_B07ZMMGJ24
 
 ## Worm Farm 
 
-The ideal is that the software will be compatiable with any type of worm farm, but our system be a [continous flow system](https://urbanwormcompany.com/complete-guide-to-continuous-flow-vermicomposting/), which looks something like the below:
+An ideal of the project is that the software will be compatiable with any type of worm farm, but our system be a [continous flow system](https://urbanwormcompany.com/complete-guide-to-continuous-flow-vermicomposting/), which might end up looking like the below:
 
 <p align="center">
   <img src="https://github.com/danielneil/Smart-Worm-Bin/blob/main/images/cf-bin.jpg?raw=true">
