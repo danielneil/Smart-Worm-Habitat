@@ -74,7 +74,7 @@ These items were referenced from https://www.ozharvest.org/sustainability/food-w
 
 (Source: National Food Waste Baseline, 2019)
 
-**Food is lost or wasted across the entire supply chain; 1/3 from our homes, 1/3 from farms and 1/3 from food industry, retail and hospitality
+**Food is lost or wasted across the entire supply chain; 1/3 from our homes, 1/3 from farms and 1/3 from food industry, retail and hospitality**
 
 (Source: National Food Waste Baseline, 2019)
 
