@@ -11,7 +11,7 @@ InstallDeps() {
  fi
 }
 
-InstallDeps("ansible")
+InstallDeps "ansible"
 
 echo "We are not quite ready yet! :)"
 exit 0;
