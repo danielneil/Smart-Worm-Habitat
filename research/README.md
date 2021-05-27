@@ -22,7 +22,7 @@ The ideal is that the system will be compatiable with any type of worm farm, but
 To finance construction, I plan to crowdfund it.
 
 #### Prototype hardware: 
-Worm farm design considerations. 
+[Worm farm design considerations](https://github.com/danielneil/Smart-Worm-Farm/blob/main/research/bin-design-considerations.txt).
 
 ## Infrared camera 
 
