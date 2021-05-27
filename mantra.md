@@ -1,4 +1,4 @@
-# Why Create a Smart Worm Bin?
+# Why Create a Smart Worm Farm?
 
 We need to move towards circular economies, and away from the take-make-waste model to something far more environmentally responsible/sustainable. 
 
@@ -6,7 +6,7 @@ One of the ways we can be more environmentally responsible, is to use worms to p
 
 Worms have been on the planet for over 200 million years (about as old as mammals and dinosaurs), and they provide us with a wonderful service in their ability to consume food waste and turn it into the best fertlise known to mankind - vermicast!
 
-Worms are like us, they need specific conditions to thrive, so this project strives to enable worm farmers to manage the conditions of their worm farmes to ensure their optimal operation. 
+Worms are like us, they need specific conditions to thrive, so this project strives to enable worm farmers to manage the conditions of their worm farms to ensure their optimal operation. 
 
 Have a read of the facts below.
 
