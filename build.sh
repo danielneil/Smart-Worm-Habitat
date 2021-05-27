@@ -5,9 +5,9 @@ set -e
 
 # Install our deps
 InstallDeps() {
- if [ $(dpkg -l | grep $1 | wc -l) ];
+ if [ $(dpkg -l | grep "$1" | wc -l) ];
  then 
-  apt-get install $1
+  apt-get install "$1"
  fi
 }
 
