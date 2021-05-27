@@ -3,7 +3,7 @@
 </p>
 
 
-# Smart-Worm-Bin
+# Smart-Worm-Farm
 
 A (proposed) smart worm farm system that monitors the health of a worm farm using a little computer (nawww).
     
