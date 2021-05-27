@@ -21,6 +21,9 @@ The ideal is that the system will be compatiable with any type of worm bin, but 
 
 To finance construction, I plan to crowdfund it.
 
+#### Prototype hardware: 
+Worm bin design. 
+
 ## Infrared camera 
 
 To watch them! :)
