@@ -25,10 +25,10 @@ To finance construction, I plan to crowdfund it.
 * Inside Temperature 
 * Soil Moisture level
 * Soil PH level 
-    
-Any other ideas?
 
 & with pretty graphs too!
+    
+Any other ideas?
 
 ## It sends alerts, too 
 
