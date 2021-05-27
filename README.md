@@ -6,6 +6,8 @@
 # Smart-Worm-Bin
 
 A (proposed) smart worm bin system that monitors the health of a worm bin using a little computer (nawww).
+    
+[But why?!?!?!!?](https://github.com/danielneil/Smart-Worm-Bin/blob/main/mantra.md)
 
 ## What does it monitor? 
 
