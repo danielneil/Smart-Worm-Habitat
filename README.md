@@ -32,7 +32,7 @@ Any other ideas?
 
 ## It sends alerts, too!
 
-It will email you if any of the monitored items go above or below the declared thresholds. 
+It will alert you if any of the monitored items go above or below the declared thresholds. 
 
 ## And it can watch them ;)
 
