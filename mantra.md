@@ -12,7 +12,7 @@ Have a read of the facts below.
 
 # Food Waste Facts
 
-These items were copied from https://www.ozharvest.org/sustainability/food-waste-facts/. 
+These items were referenced from https://www.ozharvest.org/sustainability/food-waste-facts/. 
 
 ## Global Waste Facts
 
