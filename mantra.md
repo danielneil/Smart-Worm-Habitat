@@ -1,4 +1,10 @@
-# FOOD WASTE FACTS
+##### Table of Contents  
+[FOOD WASTE FACTS](#FOOD WASTE FACTS)  
+<a name="FOOD WASTE FACTS"/>
+[Global Waste Facts](#Global Waste Facts)  
+<a name="Global Waste Facts"/>
+
+ FOOD WASTE FACTS
 
 These items were copied from https://www.ozharvest.org/sustainability/food-waste-facts/. 
 
