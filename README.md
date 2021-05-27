@@ -12,7 +12,7 @@ A (proposed) design for a smart worm farm system that monitors the health of its
 ## What does it monitor? 
 
 * Outside Temperature
-* Soil Temperature 
+* Inside Temperature 
 * Soil Moisture level
 * Soil PH level 
     
