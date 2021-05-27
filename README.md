@@ -15,12 +15,14 @@ A (proposed) smart worm farm system that monitors the health of a worm farm usin
 * Soil Temperature 
 * Soil Moisture level
 * Soil PH level 
+    
+Any other ideas?
 
 & with pretty graphs too!
 
 ## It sends alerts, too 
 
-It will email you if any of monitored items go above or below declared thresholds. 
+It will email you if any of the monitored items go above or below the declared thresholds. 
 
 ## And it can watch them ;)
 
