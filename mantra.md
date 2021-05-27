@@ -1,8 +1,8 @@
-#FOOD WASTE FACTS
+# FOOD WASTE FACTS
 
 These items were copied from https://www.ozharvest.org/sustainability/food-waste-facts/. 
 
-##Global Waste Facts
+## Global Waste Facts
 
 **There is enough food produced in the world to feed everyone.** 
 (Source: 2016 World Hunger and Poverty Facts and Statistics)
