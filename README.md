@@ -37,4 +37,4 @@ P.s they always go for the water melon first.
 ``` 
 git clone https://github.com/danielneil/Smart-Worm-Bin.git && cd Smart-Worm-Bin && ./build.sh
 ```
-5. Have a peek around the codebase for a bit that interests you, and send me a pull request. 
+5. If you wish to participate, have a peek around the codebase for a bit that interests you, read the [R&D guide](https://github.com/danielneil/Smart-Worm-Bin/tree/main/research), and send me a pull request. 
