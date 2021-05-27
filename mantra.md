@@ -1,12 +1,6 @@
-##### Table of Contents  
+# Why Create a smart worm bin?
 
-[FOOD WASTE FACTS](#FOOD WASTE FACTS)  
-
-<a name="FOOD WASTE FACTS"/>
-
-[Global Waste Facts](#Global Waste Facts)  
-
-<a name="Global Waste Facts"/>
+We need to move towards circular economies, and away from the take-make-waste model to something far more environmentally responsible/sustainable.
 
 # Food Waste Facts
 
