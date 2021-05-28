@@ -4,8 +4,8 @@
   hosts: wormfarm 
   become: true
   vars:
-          shark_webui_auth_user: shark
-          shark_webui_auth_pass: shark
+          nagios_webui_auth_user: worms
+          nagios_webui_auth_pass: worms
   roles:
    - httpd
    - nagios-from-source
