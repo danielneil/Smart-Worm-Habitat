@@ -10,7 +10,8 @@ eventually harvested from the bottom.
 
 This top-to-bottom "flow" allows for harvesting vermicast from the bottom while worms working in the top layers of the bin remain undisturbed.
 
-It looks like a rectangular prism without a bottom, and a soft/hard(?) top in order to give the worms some privacy ;).  
+## The "bin"
+Well, It looks like a rectangular prism without a bottom, and a soft/hard(?) top in order to give the worms some privacy ;).  
 
 <p align="center">
   <img src="https://github.com/danielneil/Smart-Worm-Bin/blob/main/images/cf-bin.jpg?raw=true">
@@ -18,7 +19,7 @@ It looks like a rectangular prism without a bottom, and a soft/hard(?) top in or
 
 The design aims to be modular, so it can be lengthed to allow for an increase in capacity.   
 
-## The Bin's Bottom (Or lack there of)
+## The bin's bottom (Or lack there of)
 
 The bin is bottomless, and instead has a steel mesh/grate which stops the vermicast from falling out.
 
@@ -26,17 +27,17 @@ The bin is bottomless, and instead has a steel mesh/grate which stops the vermic
 	  <img src="https://github.com/danielneil/Smart-Worm-Bin/blob/main/images/cf-bin-grate-underside.jpg?raw=true">
 </p>
 
-## The Bin's Breaker Bar
+## The bin's breaker bar
 
-A cutting bar or “breaker” bar is pushed or pulled just above the mesh, releasing the bottom 1-2 inches of finished vermicompost through the mesh to the floor or conveyor below.
+A cutting or “breaker” bar is pushed or pulled just above the mesh, releasing the bottom 1-2 inches of finished vermicompost through the mesh to the floor or conveyor below.
 
 <p align="center">
 <img src="https://github.com/danielneil/Smart-Worm-Bin/blob/main/images/cf-bin-grate.jpg?raw=true">
 </p>
 
-Ideally, the breaker bar can be "raised" or "lowered" several inches, to increase the size of the "cut". 
+Ideally, the breaker bar can be raised or lowered several inches, to increase the size of the "cut". 
 
-## The Breaker Bar's Winch
+## The breaker bar's winch
 
 The breaker bar is pulled by an electric or hydraulically powered winch, which drags the breaker bar, end-to-end, using a long length of thick wire.
 
