@@ -38,7 +38,7 @@ Ideally, the breaker bar can be "raised" or "lowered" several inches, to increas
 
 ## The Breaker Bar's Winch
 
-The breaker bar is pulled by an electrical or hydraulically powered winch, which drags the breaker bar end-to-end using a long thick wire.
+The breaker bar is pulled by an electric or hydraulically powered winch, which drags the breaker bar, end-to-end, using a long length of thick wire.
 
 ## Design Drafting 
 
@@ -71,3 +71,6 @@ Constants:
 	Therefore 
 
 	Volume = 200cm x 150cm X 8cm
+
+
+** Include the autocad designs of the bin
