@@ -17,7 +17,9 @@ An ideal of the project is that the little computer (nawwww) will be compatiable
   <img src="https://github.com/danielneil/Smart-Worm-Bin/blob/main/images/cf-bin.jpg?raw=true">
 </p>
 
-## What does the software monitor? 
+## What is it "smart"? 
+
+Well, it uses a computer to monitor the following: 
 
 * Outside Temperature
 * Inside Temperature 
