@@ -13,7 +13,7 @@ The Smart Worm Farm system will be a [continous flow system](https://urbanwormco
 
 With a little computer (nawwww) mounted somewhere external, and with probes inside to record metrics. 
 
-#### Prototype hardware: 
+#### Prototype Design: 
 [Worm farm design considerations](https://github.com/danielneil/Smart-Worm-Farm/blob/main/research/bin-design.md).
 
 ## Little Computer (nawwww)
@@ -22,7 +22,7 @@ Initially, the Raspberry Pi 4 Model B 4GB, will serve as a prototype, but R&D wi
 
 Depending on the results of battle testing the design, we'll know whether the Pi is up to the challenge.  
 
-#### Prototype hardware: 
+#### Prototype Design: 
 
 https://www.amazon.com.au/Raspberry-Model-Complete-Starter-Pack/dp/B07ZMMGJ24/ref=asc_df_B07ZMMGJ24
 
@@ -35,13 +35,13 @@ To watch them! :)
 It needs to be infrared as worms are photosensitive.
 
 ### Soil Temp and Moisture Monitor
-##### Prototype hardware: 
+##### Prototype Design: 
 https://www.instrumentchoice.com.au/th30s-b-temperature-and-humidity-probe-ic-th30s-b-usb
 
 ### Outside Temp
-##### Prototype hardware: 
+##### Prototype Design: 
 https://www.instrumentchoice.com.au/th30s-b-temperature-and-humidity-probe-ic-th30s-b-usb
 
 ### Soil PH Monitor 
-##### Prototype hardware: 
+##### Prototype Design: 
 Hmmmmmmmmm - what to choose?
