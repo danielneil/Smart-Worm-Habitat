@@ -5,7 +5,7 @@ This doc is to help with R&D of our Smart Worm Farm, so this this should be your
 
 ## Smart Worm Farm - Continuous Flow Design 
 
-The Smart Worm Farm system will be a [continous flow system](https://urbanwormcompany.com/complete-guide-to-continuous-flow-vermicomposting/), which might end up looking like the below:
+The Smart Worm Farm will be a [continous flow system](https://urbanwormcompany.com/complete-guide-to-continuous-flow-vermicomposting/), which might end up looking like the below:
 
 <p align="center">
   <img src="https://github.com/danielneil/Smart-Worm-Bin/blob/main/images/cf-bin.jpg?raw=true">
