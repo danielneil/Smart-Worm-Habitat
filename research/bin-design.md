@@ -11,13 +11,20 @@ eventually harvested from the bottom.
 This top-to-bottom "flow" allows for harvesting vermicast from the bottom while worms working in the top layers of the bin remain undisturbed.
 
 ## The "bin"
-Well, It looks like a rectangular prism without a bottom, and a soft/hard(?) top in order to give the worms some privacy ;).  
+
+Well, it is shaped like a rectangular prism without a bottom, and has a hinged top covering in order to give the worms some privacy ;).  
+
+It might look something like this..
 
 <p align="center">
   <img src="https://github.com/danielneil/Smart-Worm-Bin/blob/main/images/cf-bin.jpg?raw=true">
 </p>
 
 The design aims to be modular, so it can be lengthed to allow for an increase in capacity.   
+
+<p align="center">
+  <img src="https://github.com/danielneil/Smart-Worm-Bin/blob/main/images/cf-bin-long.jpg?raw=true">
+</p>
 
 ## The bin's bottom (Or lack there of)
 
