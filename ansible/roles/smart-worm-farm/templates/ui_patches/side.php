@@ -67,28 +67,6 @@
 </div>
 	
 <div class="navsection">
-	<div class="navsectiontitle">Backtesting</div>
-	<div class="navsectionlinks">
-		<ul class="navsectionlinks">
-			<li><a href="/shark/backtest/index-summary.py" target="<?php echo $link_target;?>">Summary</a>
-			<ul>
-				<li><a href="/shark/backtest/index-reports.py" target="<?php echo $link_target;?>">Reports</a></li>
-				<li><a href="/shark/backtest/index-transactions.py" target="<?php echo $link_target;?>">Transactions</a></li>
-				<li><a href="/shark/backtest/index-data.py" target="<?php echo $link_target;?>">Ticker Data</a></li>
-			</ul>
-			</li>
-			<li>
-				<a href="<?php echo $cfg["cgi_base_url"];?>/status.cgi?servicegroup=all&amp;style=overview" target="<?php echo $link_target;?>">Strategy</a>
-				<ul>
-					<li><a href="<?php echo $cfg["cgi_base_url"];?>/status.cgi?servicegroup=all&amp;style=summary" target="<?php echo $link_target;?>">Management</a></li>
-					<li><a href="" target="<?php echo $link_target;?>">Development</a></li>
-				</ul>
-			</li>
-		</ul>
-	</div>
-</div>	
-	
-<div class="navsection">
 	<div class="navsectiontitle">Reports</div>
 	<div class="navsectionlinks">
 		<ul class="navsectionlinks">
@@ -113,18 +91,6 @@
 	</div>
 </div>
 	
-<div class="navsection">
-	<div class="navsectiontitle" style="background-color: red; color: white; text-align: center">Development</div>
-	<div class="navsectionlinks">
-		<ul class="navsectionlinks">
-			<li><a href="http://{{ hostvars['rabbitmq']['ansible_host'] }}:15672" target="_blank">RabbitMQ WebUI</a></li>
-			<li><a href="http://{{ hostvars['apache_drill']['ansible_host'] }}:8047" target="_blank">Apache Drill WebUI</a></li>
-			<li><a href="http://{{ hostvars['nifi']['ansible_host'] }}:8080/nifi" target="_blank">Apache NiFi WebUI</a></li>
-			<li><a href="http://{{ hostvars['shark']['ansible_host'] }}/shark" target="_blank">Shark Web</a></li>
-			<li><a href="http://{{ hostvars['nagios']['ansible_host'] }}:81" target="_blank">Shark Monitoring</a></li>
-		</ul>
-	</div>
-</div>
 
 </body>
 </html>
