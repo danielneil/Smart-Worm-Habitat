@@ -8,7 +8,9 @@ eventually harvested from the bottom.
   <img src="https://github.com/danielneil/Smart-Worm-Bin/blob/main/images/cf-bin.jpg?raw=true">
 </p>
 
-This bottom-to-top flow requires a rectanglar prism like container that allows for harvesting from the bottom to allow the worms working in the top layers of the bin to remain undisturbed.
+This bottom-to-top flow requires a rectanglar prism like container that allows for harvesting from the bottom while worms working in the top layers of the bin remain undisturbed.
+
+The bin is bottomless, but has a wire/mess grate which stops the vermicast from 
 
 A cutting bar or “breaker” bar is pushed or pulled just above the mesh, releasing the bottom 1-2 inches of finished vermicompost through the mesh to the floor or conveyor below.
 
