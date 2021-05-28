@@ -1,5 +1,5 @@
 
-# Smart Worm Farm - Bin Design Considerations
+# Bin Design Considerations
 
 The Smart Worm Farm is based on the premise of a continous flow vermicomposting system.
 
