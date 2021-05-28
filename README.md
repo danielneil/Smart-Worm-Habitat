@@ -17,7 +17,7 @@ An ideal of the project is that the little computer (nawwww) will be compatiable
   <img src="https://github.com/danielneil/Smart-Worm-Bin/blob/main/images/cf-bin.jpg?raw=true">
 </p>
 
-To finance construction, I plan to crowdfund it.
+To finance construction, [a gofund.me campaign is running](https://gofund.me/1dbc1ac6).
 
 ## What does the software monitor? 
 
