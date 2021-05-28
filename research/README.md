@@ -24,7 +24,7 @@ The Smart Worm Farm system will be a [continous flow system](https://urbanwormco
 With a little computer (nawwww) mounted somewhere external, and with probes inside to record metrics. 
 
 #### Prototype hardware: 
-[Worm farm design considerations](https://github.com/danielneil/Smart-Worm-Farm/blob/main/research/bin-design.MD).
+[Worm farm design considerations](https://github.com/danielneil/Smart-Worm-Farm/blob/main/research/bin-design.md).
 
 ## Infrared camera 
 
