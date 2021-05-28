@@ -24,7 +24,7 @@ Depending on the results of battle testing the design, we'll know whether the Pi
 
 #### Prototype Design: 
 
-[Worm farm design considerations](https://github.com/danielneil/Smart-Worm-Farm/blob/main/research/computer-design.md).
+[Computer design considerations](https://github.com/danielneil/Smart-Worm-Farm/blob/main/research/computer-design.md).
 
 ## Sensors
 
