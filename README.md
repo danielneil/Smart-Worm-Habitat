@@ -27,8 +27,6 @@ Well, it uses a little computer (nawww) to monitor the following:
 * Soil PH level 
 
 & with pretty graphs too!
-    
-Any other ideas?
 
 ## It sends alerts, too!
 
