@@ -17,9 +17,9 @@ An ideal of the project is that the little computer (nawwww) will be compatiable
   <img src="https://github.com/danielneil/Smart-Worm-Bin/blob/main/images/cf-bin.jpg?raw=true">
 </p>
 
-## What is it "smart"? 
+## How is it "smart"? 
 
-Well, it uses a computer to monitor the following: 
+Well, it uses a little computer (nawww) to monitor the following: 
 
 * Outside Temperature
 * Inside Temperature 
@@ -36,9 +36,9 @@ It will alert you if any of the monitored items go above or below the declared t
 
 ## And it can watch them ;)
 
-The infrared camera will takes a happy snap every 30 minutes. 
+An infrared camera will takes a happy snap every 30 minutes. 
 
-P.s they always go for the water melon first. 
+P.s they always go for the water watermelon . 
 
 ## Want to help? 
 
