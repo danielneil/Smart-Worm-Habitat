@@ -13,7 +13,7 @@ Depending on the results of battle testing the design, we'll know whether the Pi
 
 https://www.amazon.com.au/Raspberry-Model-Complete-Starter-Pack/dp/B07ZMMGJ24/ref=asc_df_B07ZMMGJ24
 
-## Worm Farm 
+## Continuous Flow Worm Farm 
 
 An ideal of the project is that the little Computer (nawwww) will be compatiable with any type of worm farm, but our system be a [continous flow system](https://urbanwormcompany.com/complete-guide-to-continuous-flow-vermicomposting/), which might end up looking like the below:
 
@@ -21,10 +21,10 @@ An ideal of the project is that the little Computer (nawwww) will be compatiable
   <img src="https://github.com/danielneil/Smart-Worm-Bin/blob/main/images/cf-bin.jpg?raw=true">
 </p>
 
-To finance construction, [a gofund.me campaign is running](https://gofund.me/1dbc1ac6).
+
 
 #### Prototype hardware: 
-[Worm farm design considerations](https://github.com/danielneil/Smart-Worm-Farm/blob/main/research/bin-design-considerations.txt).
+[Worm farm design considerations](https://github.com/danielneil/Smart-Worm-Farm/blob/main/research/bin-design.MD).
 
 ## Infrared camera 
 
