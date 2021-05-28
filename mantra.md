@@ -4,7 +4,7 @@ We need to move towards circular economies, and away from the take-make-waste mo
 
 One of the ways we can be more environmentally responsible, is to use worms to process food waste and save it from entering landfill, and save it from ending up as methane in the atmosphere! 
 
-Worms have been on the planet for over 200 million years (they're about as old as mammals and dinosaurs), and they provide us with a wonderful service in their ability to consume green waste and turn it into the best fertlise known to mankind - vermicast!
+Worms have been on the planet for over 200 million years (they're about as old as mammals and dinosaurs), and they provide us with a wonderful service in their ability to consume green waste and turn it into the best fertiliser known to mankind - vermicast!
 
 Worms are like us, they need specific conditions to thrive, so this project strives to enable worm farmers to manage the conditions of their worm farms to ensure their optimal operation. 
 
