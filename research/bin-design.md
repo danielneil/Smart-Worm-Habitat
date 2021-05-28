@@ -10,9 +10,9 @@ eventually harvested from the bottom.
 
 This top-to-bottom "flow" allows for harvesting vermicast from the bottom while worms working in the top layers of the bin remain undisturbed.
 
-## The "bin"
+## The "bin"?
 
-Well, it is shaped like a rectangular prism without a bottom, and has a hinged top covering in order to give the worms some privacy ;).  
+Well, it is more like a rectangular prism without a bottom, and has a hinged top covering in order to give the worms some privacy ;).  
 
 It might look something like this..
 
@@ -26,7 +26,7 @@ The design aims to be modular, so it can be lengthed to allow for an increase in
   <img src="https://github.com/danielneil/Smart-Worm-Bin/blob/main/images/cf-bin-long.jpg?raw=true">
 </p>
 
-## The bin's bottom (Or lack there of)
+## The bin's bottom (or lack thereof)
 
 The bin is bottomless, and instead has a steel mesh/grate which stops the vermicast from falling out.
 
@@ -50,7 +50,7 @@ The breaker bar is pulled by an electric or hydraulically powered winch, which d
 
 ## Design Drafting 
 
-### Rectangle Prism Calculations ( Worm Bin )
+### Rectangle Prism (Bin) Calculations 
 
 Metrics for 1 unit of a modular system. 
 
