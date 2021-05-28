@@ -14,6 +14,11 @@ git clone https://github.com/danielneil/Smart-Worm-Farm.git
 
 ## Monitoring System
 
-The monitoring system for the Smart Worm Farm utilises Nagios Core. 
+The monitoring system for the Smart Worm Farm will be based on Nagios Core. 
 
-Nagios Core usually monitors computer infrastructure, but its code is amended in order to monitor specific sensors. 
+Nagios Core usually monitors computer infrastructure, but in this case, its code is amended in order to monitor and alert of specific sensors e.g. soil, moisture and ph levels.
+
+To access the Nagios Core UI, enter the follow into a URL on the Pi (credentials are worms/worms).
+``` 
+http://127.0.0.1/nagios/
+```
