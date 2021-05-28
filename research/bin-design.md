@@ -1,4 +1,8 @@
 
+# Smart Worm Farm - Bin Desigh Considerations
+
+The Smart Worm Farm is based on the premise of a continous flow vermicomposting system.
+
 ## What is Continuous Flow Vermicomposting?
 
 Continuous flow vermicomposting is a method of vermicomposting where composting worms are fed organic matter from the top and worm castings are 
@@ -14,6 +18,7 @@ The bin is bottomless, but has a mesh grate which stops the vermicast from falli
 
 <p align="center">
   <img src="https://github.com/danielneil/Smart-Worm-Bin/blob/main/images/cf-bin-grate.jpg?raw=true">
+	  <img src="https://github.com/danielneil/Smart-Worm-Bin/blob/main/images/cf-bin-grate-underside.jpg?raw=true">
 </p>
 
 A cutting bar or “breaker” bar is pushed or pulled just above the mesh, releasing the bottom 1-2 inches of finished vermicompost through the mesh to the floor or conveyor below.
