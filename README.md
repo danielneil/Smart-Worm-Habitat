@@ -49,4 +49,4 @@ git clone https://github.com/danielneil/Smart-Worm-Farm.git && cd Smart-Worm-Far
 ```
 5. If you wish to participate, have a peek around the codebase for a bit that interests you, read the [R&D guide](https://github.com/danielneil/Smart-Worm-Bin/tree/main/research), and send me a pull request. 
 
-6. Or you can also participate in the [gofund.me campaign is running](https://gofund.me/1dbc1ac6).
+6. Or you can also participate in the [gofund.me campaign](https://gofund.me/1dbc1ac6)!
