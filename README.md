@@ -17,8 +17,6 @@ An ideal of the project is that the little computer (nawwww) will be compatiable
   <img src="https://github.com/danielneil/Smart-Worm-Bin/blob/main/images/cf-bin.jpg?raw=true">
 </p>
 
-To finance construction, [a gofund.me campaign is running](https://gofund.me/1dbc1ac6).
-
 ## What does the software monitor? 
 
 * Outside Temperature
@@ -50,3 +48,5 @@ P.s they always go for the water melon first.
 git clone https://github.com/danielneil/Smart-Worm-Farm.git && cd Smart-Worm-Farm && ./build.sh
 ```
 5. If you wish to participate, have a peek around the codebase for a bit that interests you, read the [R&D guide](https://github.com/danielneil/Smart-Worm-Bin/tree/main/research), and send me a pull request. 
+
+6. Or you can also participate in the [gofund.me campaign is running](https://gofund.me/1dbc1ac6).
