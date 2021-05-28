@@ -1,0 +1,28 @@
+---
+# tasks file for httpd
+- name: Install apache2 
+  apt:
+   name: apache2
+   
+- name: Install apache2 development headers.
+  apt:
+   name: apache2-dev
+   
+- name: Installing php deps
+  apt:
+   name: "{{ item }}"
+  with_items: 
+   - php
+   - libapache2-mod-php
+
+- name: Removing default landing page
+  file:
+    path: /var/www/html/index.html
+    state: absent
+  notify: restart-apache2
+
+- name: Starting apache
+  service:
+   name: apache2 
+   state: started
+

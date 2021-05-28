@@ -1,0 +1,29 @@
+---
+# tasks file for base-from-source
+
+- name: Including build essentials
+  include: build_essentials.yml
+
+- name: Unpacking zip file into temp
+  unarchive:
+   src: nagios-4.4.6.tar.gz
+   dest: /tmp
+
+- name: Copying our build script 
+  copy:
+   src: build_nagios.sh
+   dest: /tmp
+   mode: 0755
+
+- name: Building nagios from source
+  shell: bash /tmp/build_nagios.sh 
+
+- name: Restart apache2
+  service: 
+   name: apache2
+   state: restarted
+
+- name: Restart / Start nagios
+  service:
+   name: nagios
+   state: restarted

@@ -1,0 +1,11 @@
+---
+######################################
+- name: Building nagios from source 
+  hosts: wormfarm 
+  become: true
+  vars:
+          shark_webui_auth_user: shark
+          shark_webui_auth_pass: shark
+  roles:
+   - httpd
+   - nagios-from-source
