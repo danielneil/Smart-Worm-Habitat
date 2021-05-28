@@ -40,7 +40,7 @@ Ideally, the breaker bar can be "raised" or "lowered" several inches, to increas
 
 The breaker bar is pulled by an electrical or hydraulically powered winch, which drags the breaker bar end-to-end using a long thick wire.
 
-## Bin Measurements
+## Design Drafting 
 
 Rectangle Prism Calculations ( Worm Bin )
 
