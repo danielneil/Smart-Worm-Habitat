@@ -17,5 +17,3 @@ The following will provide an appropriate development environment for the Smart 
 ``` 
 git clone https://github.com/danielneil/Smart-Worm-Farm.git 
 ```
-
-## 
