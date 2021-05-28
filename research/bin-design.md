@@ -42,7 +42,7 @@ The breaker bar is pulled by an electric or hydraulically powered winch, which d
 
 ## Design Drafting 
 
-Rectangle Prism Calculations ( Worm Bin )
+###Rectangle Prism Calculations ( Worm Bin )
 
 Metrics for 1 unit of a modular system. 
 
@@ -57,7 +57,7 @@ Constants:
 
 	Volume = 200cm x 150cm X 63.5cm
 
-## Bin Measurements Rectangle Prism Calculations ( Breaker Bar )
+### Bin Measurements Rectangle Prism Calculations ( Breaker Bar )
 
 Metrics for 1 unit of a scrape. 
 
