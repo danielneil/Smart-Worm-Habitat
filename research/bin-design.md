@@ -14,11 +14,15 @@ eventually harvested from the bottom.
 
 This bottom-to-top flow requires a rectanglar prism like container that allows for harvesting from the bottom while worms working in the top layers of the bin remain undisturbed.
 
+## The Bin's bottom (Or lack there of)
+
 The bin is bottomless, but has a steel mesh which stops the vermicast from falling out.
 
 <p align="center">
 	  <img src="https://github.com/danielneil/Smart-Worm-Bin/blob/main/images/cf-bin-grate-underside.jpg?raw=true">
 </p>
+
+## The Bin's Breaker Bar
 
 A cutting bar or “breaker” bar is pushed or pulled just above the mesh, releasing the bottom 1-2 inches of finished vermicompost through the mesh to the floor or conveyor below.
 
@@ -26,9 +30,13 @@ A cutting bar or “breaker” bar is pushed or pulled just above the mesh, rele
 <img src="https://github.com/danielneil/Smart-Worm-Bin/blob/main/images/cf-bin-grate.jpg?raw=true">
 </p>
 
-This cutting bar is powered electrically, hydraulically, or through the use of a manual winch for smaller systems.
+## The Breaker Bar's Winch
+
+This breaker bar is pulled by a electrically or hydraulically powered winch .
 
 Ideally, the breaker bar can be "raised" or "lowered" several inches, to increase the size of the "cut". 
+
+
 
 Rectangle Prism Calculations ( Worm Bin )
 
@@ -48,9 +56,7 @@ Constants:
 Harvesting
 A scrape is produced by dragging a metal bar accross the bottom of the bin, which dislodges vermicast which causes it to  drop to the area below the bin, ready for harvesting.
 
-Rectangle Prism Calculations ( Scrape )
-
-
+## Bin Measurements Rectangle Prism Calculations ( Breaker Bar)
 
 
 Metrics for 1 unit of a scrape. 
