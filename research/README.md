@@ -22,15 +22,11 @@ Initially, the Raspberry Pi 4 Model B 4GB, will serve as a prototype, but R&D wi
 
 Depending on the results of battle testing the design, we'll know whether the Pi is up to the challenge.  
 
-#### Prototype Design: 
-
 [Computer design considerations](https://github.com/danielneil/Smart-Worm-Farm/blob/main/research/computer-design.md).
 
 ## Software 
 
-#### Prototype Design: 
-
-[Computer design considerations](https://github.com/danielneil/Smart-Worm-Farm/blob/main/research/software-design.md).
+[Software Design considerations](https://github.com/danielneil/Smart-Worm-Farm/blob/main/research/software-design.md).
 
 ## Sensors
 
@@ -41,13 +37,10 @@ To watch them! :)
 It needs to be infrared as worms are photosensitive.
 
 ### Soil Temp and Moisture Monitor
-##### Prototype Design: 
 https://www.instrumentchoice.com.au/th30s-b-temperature-and-humidity-probe-ic-th30s-b-usb
 
 ### Outside Temp
-##### Prototype Design: 
 https://www.instrumentchoice.com.au/th30s-b-temperature-and-humidity-probe-ic-th30s-b-usb
 
 ### Soil PH Monitor 
-##### Prototype Design: 
 Hmmmmmmmmm - what to choose?
