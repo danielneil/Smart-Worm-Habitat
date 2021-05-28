@@ -24,7 +24,7 @@ Depending on the results of battle testing the design, we'll know whether the Pi
 
 #### Prototype Design: 
 
-https://www.amazon.com.au/Raspberry-Model-Complete-Starter-Pack/dp/B07ZMMGJ24/ref=asc_df_B07ZMMGJ24
+[Worm farm design considerations](https://github.com/danielneil/Smart-Worm-Farm/blob/main/research/computer-design.md).
 
 ## Sensors
 
