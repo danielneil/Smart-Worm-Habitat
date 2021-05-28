@@ -38,7 +38,7 @@ It will alert you if any of the monitored items go above or below the declared t
 
 An infrared camera will takes a happy snap every 30 minutes. 
 
-P.s they always go for the water watermelon . 
+P.s. they always go for the watermelon first. 
 
 ## Want to help? 
 
