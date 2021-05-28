@@ -16,6 +16,8 @@ It looks like a rectangular prism without a bottom, and a soft/hard(?) top in or
   <img src="https://github.com/danielneil/Smart-Worm-Bin/blob/main/images/cf-bin.jpg?raw=true">
 </p>
 
+The design aims to be modular, so it can be lengthed to allow for an increase in capacity.   
+
 ## The Bin's Bottom (Or lack there of)
 
 The bin is bottomless, and instead has a steel mesh/grate which stops the vermicast from falling out.
