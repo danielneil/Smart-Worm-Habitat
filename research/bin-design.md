@@ -32,11 +32,11 @@ A cutting bar or “breaker” bar is pushed or pulled just above the mesh, rele
 <img src="https://github.com/danielneil/Smart-Worm-Bin/blob/main/images/cf-bin-grate.jpg?raw=true">
 </p>
 
+Ideally, the breaker bar can be "raised" or "lowered" several inches, to increase the size of the "cut". 
+
 ## The Breaker Bar's Winch
 
-This breaker bar is pulled by an electrical or hydraulically powered winch, which drags the breaker bar with a long wire.
-
-Ideally, the breaker bar can be "raised" or "lowered" several inches, to increase the size of the "cut". 
+The breaker bar is pulled by an electrical or hydraulically powered winch, which drags the breaker bar end-to-end using a long thick wire.
 
 ## Bin Measurements
 
