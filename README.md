@@ -1,14 +1,14 @@
+# Smart-Worm-Farm
+
+A (proposed) design for a modular Smart Worm Farm that monitors the health of itself using a little computer (nawww). [But why?!?!?!!?](https://github.com/danielneil/Smart-Worm-Bin/blob/main/mantra.md)
+
 <p align="center">
   <img src="https://github.com/danielneil/Smart-Worm-Farm/blob/main/images/cad-concept2.png?raw=true">
 </p>
 
-# Smart-Worm-Farm
+## What is a Smart Worm Farm? 
 
-A (proposed) design for a modular Smart Worm Farm that monitors the health of itself using a little computer (nawww). [But why?!?!?!!?](https://github.com/danielneil/Smart-Worm-Bin/blob/main/mantra.md)
-    
-## What does it look like?  
-
-An ideal of the project is that the little computer (nawwww) will be compatiable with any type of worm farm, but our farm will be a [continous flow system](https://urbanwormcompany.com/complete-guide-to-continuous-flow-vermicomposting/), which might end up looking like the below:
+The Smart Worm Farm is a [continous flow worm farm](https://urbanwormcompany.com/complete-guide-to-continuous-flow-vermicomposting/) that turns foodwaste into the best ferliser known to mankind, vermcicast! It has a little computer (nawww) and monitors the health of the worms using a bunch of sensors, namely moisture, PH level and temperature.
 
 <p align="center">
   <img src="https://github.com/danielneil/Smart-Worm-Bin/blob/main/images/cf-bin.jpg?raw=true">
