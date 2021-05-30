@@ -18,6 +18,7 @@ It might end up looking like this..
 
 <p align="center">
   <img src="https://github.com/danielneil/Smart-Worm-Bin/blob/main/images/cf-bin.jpg?raw=true">
+  <br />
   <a href ="https://urbanwormcompany.com/complete-guide-to-continuous-flow-vermicomposting">Image Reference</a>
 </p>
 
