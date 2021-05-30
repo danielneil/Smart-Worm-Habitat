@@ -18,14 +18,16 @@ The Smart Worm Farm is a [continous flow worm farm](https://urbanwormcompany.com
 
 ## How is it "smart"? 
 
-Well, it uses a little computer (nawww) to monitor the following: 
+Think smart phone, your phone is "smart" because it has a computer inside it, same dealio with the Smart Worm Bin - it has a computer inside it.
+
+It uses a little computer (nawww) to monitor the following: 
 
 * Outside Temperature
 * Inside Temperature 
 * Soil Moisture level
 * Soil PH level 
 
-& with pretty graphs too!
+& with pretty graphs!
 
 ## It sends alerts, too!
 
