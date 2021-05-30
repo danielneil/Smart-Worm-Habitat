@@ -1,10 +1,10 @@
 <p align="center">
-    <img src="https://github.com/danielneil/Smart-Worm-Bin/blob/main/images/worm.jpg?raw=true"
+  <img src="https://github.com/danielneil/Smart-Worm-Farm/blob/main/images/cad-concept2.png?raw=true">
 </p>
 
 # Smart-Worm-Farm
 
-A (proposed) design for a smart worm farm that monitors the health of itself using a little computer (nawww). [But why?!?!?!!?](https://github.com/danielneil/Smart-Worm-Bin/blob/main/mantra.md)
+A (proposed) design for a modular Smart Worm Farm that monitors the health of itself using a little computer (nawww). [But why?!?!?!!?](https://github.com/danielneil/Smart-Worm-Bin/blob/main/mantra.md)
     
 ## What does it look like?  
 
@@ -12,10 +12,6 @@ An ideal of the project is that the little computer (nawwww) will be compatiable
 
 <p align="center">
   <img src="https://github.com/danielneil/Smart-Worm-Bin/blob/main/images/cf-bin.jpg?raw=true">
-</p>
-<br />
-<p align="center">
-  <img src="https://github.com/danielneil/Smart-Worm-Farm/blob/main/images/cad-concept2.png?raw=true">
 </p>
 
 ## How is it "smart"? 
