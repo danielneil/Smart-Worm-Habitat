@@ -18,6 +18,7 @@ It might end up looking like this..
 
 <p align="center">
   <img src="https://github.com/danielneil/Smart-Worm-Bin/blob/main/images/cf-bin.jpg?raw=true">
+  (image reference: https://urbanwormcompany.com/complete-guide-to-continuous-flow-vermicomposting)
 </p>
 
 ## How is it "smart"? 
