@@ -1,6 +1,6 @@
 # Smart-Worm-Farm
 
-A (proposed) design for a modular Smart Worm Farm that monitors the health of itself using a little computer (nawww). 
+An open source design for a modularised worm habitat that excels at converting food waste into vermicast, and monitors the health of itself using a little computer (nawww). 
 
 [But why do this?!?!?!!?](https://github.com/danielneil/Smart-Worm-Bin/blob/main/mantra.md)
 
