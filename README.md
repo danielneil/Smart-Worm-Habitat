@@ -10,7 +10,9 @@ A (proposed) design for a modular Smart Worm Farm that monitors the health of it
 
 ## What is a Smart Worm Farm? 
 
-The Smart Worm Farm is a [continous flow worm habitat](https://urbanwormcompany.com/complete-guide-to-continuous-flow-vermicomposting/) that converts foodwaste into the best fertiliser known to mankind, vermicast! It uses a little computer (nawww) to monitor the health of the worm habitat using sensors, namely moisture, PH level and temperature.
+The Smart Worm Farm is a [continous flow worm habitat](https://urbanwormcompany.com/complete-guide-to-continuous-flow-vermicomposting/) that converts foodwaste into the best fertiliser known to mankind, vermicast! 
+
+It uses a little computer (nawww) to monitor the health of the habitat using several sensors, namely moisture, PH level and temperature.
 
 It might end up looking like this..
 
