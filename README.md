@@ -1,6 +1,8 @@
 # Smart-Worm-Farm
 
-A (proposed) design for a modular Smart Worm Farm that monitors the health of itself using a little computer (nawww). [But why?!?!?!!?](https://github.com/danielneil/Smart-Worm-Bin/blob/main/mantra.md)
+A (proposed) design for a modular Smart Worm Farm that monitors the health of itself using a little computer (nawww). 
+
+[But why?!?!?!!?](https://github.com/danielneil/Smart-Worm-Bin/blob/main/mantra.md)
 
 <p align="center">
   <img src="https://github.com/danielneil/Smart-Worm-Farm/blob/main/images/cad-concept2.png?raw=true">
