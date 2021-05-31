@@ -8,8 +8,6 @@ Worms have been on the planet for over 200 million years (they're about as old a
 
 Worms are like us, they need specific conditions to thrive, so this project strives to enable worm farmers to manage the conditions of their worm farms to ensure their optimal operation. 
 
-Have a read of the facts below.
-
 # Food Waste Facts
 
 These items were referenced from https://www.ozharvest.org/sustainability/food-waste-facts/. 
