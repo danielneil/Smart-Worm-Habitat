@@ -31,16 +31,14 @@ How can we ascertain the health of the Smart Worm Habitat, given that worms requ
 
 ### Suggested Solution: 
 
-The Smart Worm Habitat requires a computer to process recorded telemetry data gathered from connected(USB) sensors, namely: 
+The Smart Worm Habitat requires a computer to process recorded telemetry data gathered from connected(USB?) sensors, namely: 
 
 * An external temperature sensor 
 * An internal temperature sensor 
 * Vermicast pH (acidity) sensor 
 * An internal moisture sensor
 
-Using sensor derived data, the computer is able alert stakeholders in the event of 
-
-The Smart Worm Habitat also requires the computer be power enough to power all connected sensors.  
+Using sensor derived data, the computer is able alert stakeholders in the event of conditions in the Smart Worm Habitat being less than ideal e.g. tempature is too cold, acidity is too high or moisture content is too low. 
 
 
 ## b. Glossary  or Terminology
