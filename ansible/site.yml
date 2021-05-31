@@ -9,4 +9,5 @@
   roles:
    - httpd
    - nagios-from-source
+   - nagios-plugins-from-source
    - data-entry
