@@ -18,15 +18,15 @@ With a little computer (nawwww) mounted externally, and with sensors located ins
 
 ## Little Computer (nawwww)
 
-Initially, the Raspberry Pi 4 Model B 4GB, will serve as a prototype, but R&D will occur with VirtualBox and [the Raspberry Pi Desktop](https://www.raspberrypi.org/software/raspberry-pi-desktop/), so no need to purchase a Raspberry Pi just yet.
+[Little Computer Design considerations](https://github.com/danielneil/Smart-Worm-Habitat/blob/main/research/computer-design.md).
 
-Depending on the results of battle testing the design, we'll know whether the Pi is up to the challenge.  
+## Alerting System 
 
-[Computer design considerations](https://github.com/danielneil/Smart-Worm-Habitat/blob/main/research/computer-design.md).
+[Alerting System Design considerations](https://github.com/danielneil/Smart-Worm-Habitat/blob/main/research/software-design.md).
 
-## Software 
+## Data Entry System
 
-[Software Design considerations](https://github.com/danielneil/Smart-Worm-Habitat/blob/main/research/software-design.md).
+[Data Entry System Design considerations](https://github.com/danielneil/Smart-Worm-Habitat/blob/main/research/data-entry-design.md).
 
 ## Sensors
 

@@ -10,7 +10,7 @@ An open source design for a modular worm habitat that efficiently converts food 
 
 ## What is a Smart Worm Habitat? 
 
-The Smart Worm Habitat is a [continuous flow](https://urbanwormcompany.com/complete-guide-to-continuous-flow-vermicomposting/) worm habitat that converts foodwaste into the best fertiliser known to mankind, vermicast! The continuous flow system vastly improves the efficiency of the harvesting process, and allows the worms to remain undisturbed.   
+The Smart Worm Habitat is a [continuous flow](https://urbanwormcompany.com/complete-guide-to-continuous-flow-vermicomposting/) worm habitat that converts foodwaste into the best fertiliser known to mankind, vermicast! The continuous flow system vastly improves the efficiency of the harvesting process, and allows the worms to remain undisturbed in the layers above.   
 
 It uses a computer to monitor the health of the habitat using several sensors, namely moisture, PH level and temperature.
 
@@ -37,9 +37,9 @@ Well, you know how your smart phone is "smart" because it has a computer inside 
 
 The primary purpose of the habitat is to be able to efficiently covert captured food waste into vermicast, and reduce the associated greenhouse gases should that food waste had of ended up in landfill.
 
-The habitat will stop **5,198.40kg** of CO2-e entering the atmosphere, every month, and that's just a single unit - imagine if we had lots of them!
+The habitat will stop **5,198.40kg** of CO2-e entering the atmosphere (equivalent to 11.24 petrol tanks), every single month, and that's just one unit - imagine if we had lots of them!
 
-The software will also provide a data entry tool to enable the farmer to record the weights of input, to calculate total emission savings.
+The software will also provide a data entry tool to record the weights of input to calculate total emission savings.
 
 ## It sends alerts, too!
 
@@ -53,12 +53,5 @@ P.s. they always go for the watermelon first.
 
 ## Want to help? 
 
-1. Install Virtual Box ([help](https://www.virtualbox.org/manual/ch02.html)).
-2. Download the [Raspberry Pi Desktop](https://www.raspberrypi.org/software/raspberry-pi-desktop/) image.
-3. Create a Raspberry-PI Virtual Box with the freshly downloaded image ([help](https://roboticsbackend.com/install-raspbian-desktop-on-a-virtual-machine-virtualbox/)).
-4. From a shell on the Pi, run the below shell snippet:
-``` 
-git clone https://github.com/danielneil/Smart-Worm-Habitat.git && cd Smart-Worm-Habitat && ./build.sh
-```
-5. If you wish to participate, have a peek around the codebase for a bit that interests you, read the [R&D guide](https://github.com/danielneil/Smart-Worm-Habitat/tree/main/research), and send me a pull request. 
-6. Or you can also participate in the [gofund.me campaign](https://gofund.me/1dbc1ac6)!
+1. If you wish to participate in R&D, read the [guide](https://github.com/danielneil/Smart-Worm-Habitat/tree/main/research).
+2. Or please consider giving us a donation - [gofund.me campaign](https://gofund.me/1dbc1ac6).
