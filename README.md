@@ -41,7 +41,7 @@ The habitat will stop 5,198.40kg of methane entering the atmosphere, every month
 
 ## It sends alerts, too!
 
-It will alert you if any of the monitored items go above or below the declared thresholds. 
+The system will monitor specific items and send alerts whenever they go above or below the declared thresholds. 
 
 ## And it can watch them ;)
 
