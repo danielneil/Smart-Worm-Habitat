@@ -6,7 +6,11 @@ The system is a proposed way to record the metrics of input (how much greenwaste
 
 Time series data should also be available, allowing measurements from days, weeks, months or even years.
 
-Opensource software is to be utilised. 
+## What technologies does the Data Entry system use? 
 
+Opensource software comprising of the LAMP stack is to be utilised. 
+
+* Apache for the web server
 * Code Ingiter for the Web Form
 * MariaDB for the database
+* PHP For the programming language
