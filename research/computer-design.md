@@ -58,22 +58,21 @@ When the computer detects suboptimal worm habitat conditions (e.g. too dry), it 
 
 *Origin of the problem*
 
-Traditional Worm environments must be monitored in an ardous manner  
+Traditional Worm environments must be monitored by manual inspection and instrument readings also taken manually - using a computer will automate both of these requirements.
 
 *How the problem affects users and company goals*
 
-*Past efforts made to solve the solution and why they were not effective*
-
-*How the product relates to team goals, OKRs*
-
-*How the solution fits into the overall product roadmap and strategy*
+Currently, determining the health of any worm environment requires users to conduct manual and ardous tasks. 
 
 *How the solution fits into the technical strategy*
 
+Given that modern computers now come in small configurations and are much more affordable, utilish this approach is neither clunky, or cost-prohibitive.   
 
 ## d. Goals or Product and Technical Requirements
 
 * Product requirements in the form of user stories 
+
+
 * Technical requirements
 
 ## e. Non-Goals or Out of Scope
