@@ -39,6 +39,8 @@ The primary purpose of the project is to capture and then process food waste div
 
 The habitat will stop 5,198.40kg of CO2-e entering the atmosphere, every month, and that's just a single unit - imagine if we had lots of them!
 
+The software will also provide a data entry tool to enable the farmer to record the weights of input, to calculate total emission savings.
+
 ## It sends alerts, too!
 
 The system will monitor specific items and send alerts whenever they go above or below the declared thresholds. 
