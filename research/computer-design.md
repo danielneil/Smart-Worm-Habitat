@@ -1,12 +1,12 @@
-# Detailed Design - Document Template
+# Detailed Design - Little Computer (nawww)
 
-* Title 
-* Author(s)
-* Team
-* Reviewer(s)
-* Created on
-* Last updated
-* Epic, ticket, issue, or task tracker reference link
+* Title: Detailed Design concerning the Little Computer (nawww)
+* Author(s): Daniel N
+* Team: NA
+* Reviewer(s): Anthony M
+* Created on: 01/06/2021
+* Last updated: NA
+* Epic, ticket, issue, or task tracker reference link: NA
 
 # Table of Contents
 * [1. Introduction](#Introduction)
