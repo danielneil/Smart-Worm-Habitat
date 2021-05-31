@@ -1,4 +1,4 @@
-# 2. Detailed Design - Document Template
+# 1. Detailed Design - Document Template
 
 Title 
 Author(s)
