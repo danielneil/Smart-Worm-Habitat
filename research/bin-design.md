@@ -26,7 +26,7 @@ The design aims to be modular, so it can be lengthed to allow for an increase in
   <img src="https://github.com/danielneil/Smart-Worm-Bin/blob/main/images/cf-bin-long.jpg?raw=true">
 </p>
 
-## The bin's bottom (or lack thereof)
+## The bottom (or lack thereof)
 
 The bin is bottomless, and instead has a steel mesh/grate which stops the vermicast from falling out.
 
@@ -34,7 +34,7 @@ The bin is bottomless, and instead has a steel mesh/grate which stops the vermic
 	  <img src="https://github.com/danielneil/Smart-Worm-Habitat/blob/main/images/cf-bin-grate-underside.jpg?raw=true">
 </p>
 
-## The bin's breaker bar
+## The breaker bar
 
 A cutting or “breaker” bar is pushed or pulled just above the mesh, releasing the bottom 1-2 inches of finished vermicompost through the mesh to the floor or conveyor below.
 
@@ -44,7 +44,7 @@ A cutting or “breaker” bar is pushed or pulled just above the mesh, releasin
 
 Ideally, the breaker bar can be raised or lowered several inches, to increase the size of the "cut". 
 
-## The breaker bar's winch
+## The winch
 
 The breaker bar is pulled by an electric or hydraulically powered winch, which drags the breaker bar, end-to-end, using a long length of thick wire.
 
