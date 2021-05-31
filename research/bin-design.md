@@ -10,14 +10,14 @@ eventually harvested from the bottom.
 
 This top-to-bottom "flow" allows for harvesting vermicast from the bottom while worms working in the top layers of the bin remain undisturbed.
 
-## The "bin"?
+## What exactly is the "Habitat"?
 
 Well, it is more like a rectangular prism without a bottom, and has a hinged top covering in order to give the worms some privacy ;).  
 
 It might look something like this..
 
 <p align="center">
-  <img src="https://github.com/danielneil/Smart-Worm-Bin/blob/main/images/cf-bin.jpg?raw=true">
+  <img src="https://github.com/danielneil/Smart-Worm-Habitat/blob/main/images/cf-bin.jpg?raw=true">
 </p>
 
 The design aims to be modular, so it can be lengthed to allow for an increase in capacity.   
@@ -31,7 +31,7 @@ The design aims to be modular, so it can be lengthed to allow for an increase in
 The bin is bottomless, and instead has a steel mesh/grate which stops the vermicast from falling out.
 
 <p align="center">
-	  <img src="https://github.com/danielneil/Smart-Worm-Bin/blob/main/images/cf-bin-grate-underside.jpg?raw=true">
+	  <img src="https://github.com/danielneil/Smart-Worm-Habitat/blob/main/images/cf-bin-grate-underside.jpg?raw=true">
 </p>
 
 ## The bin's breaker bar
