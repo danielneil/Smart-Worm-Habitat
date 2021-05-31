@@ -33,7 +33,7 @@ Well, you know how your smart phone is "smart" because it has a computer inside 
 
 ## Emissions Reduction 
 
-The primary purpose of the project is process divert food waste from landfill and reduce the associated methane gas.
+The primary purpose of the project is to capture and then process diverted food waste from landfill and reduce the associated methane gas.
 
 ## It sends alerts, too!
 
