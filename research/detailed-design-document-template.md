@@ -9,10 +9,8 @@
 * Epic, ticket, issue, or task tracker reference link
 
 #### Table of Contents
-[Introduction](#Introduction)  
-
+[Introduction](#Introduction)
 [Solutions](#Solutions)
-
 [Further Considerations](#FurtherConsiderations)
 
 <a name="Introduction"/>
