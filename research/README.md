@@ -30,6 +30,8 @@ Depending on the results of battle testing the design, we'll know whether the Pi
 
 ## Data Entry System
 
+[Software Design considerations](https://github.com/danielneil/Smart-Worm-Habitat/blob/main/research/data-entry-design.md).
+
 ## Sensors
 
 ### Infrared camera 
