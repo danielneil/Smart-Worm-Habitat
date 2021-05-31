@@ -52,7 +52,13 @@ The computer periodically takes sensors reading at a specific time interval e.g.
 
 *Reasons why the problem is worth solving*
 
+Worms are most productive when conditions of their environment are ideal. When conditions are not ideal, their reproductions rates slow down and they eat far less food. Being able to acutely monitor the specifics of their environment ensures their ability to optimally convert greenwaste into vermicast. 
+
+When the computer detects suboptimal worm habitat conditions (e.g. too dry), it is able to alert farmers that appropriate counter measures are required (add moisture). 
+
 *Origin of the problem*
+
+Traditional Worm environments must be monitored in an ardous manner  
 
 *How the problem affects users and company goals*
 
