@@ -1,4 +1,5 @@
-# Front matter
+# 2. Detailed Design - Document Template
+
 Title 
 Author(s)
 Team
@@ -9,9 +10,11 @@ Epic, ticket, issue, or task tracker reference link
 
 ##### Table of Contents  
 [Introduction](#Introduction)  
+[Solutions](#Solutions)  
 
 <a name="Introduction"/>
-# Introduction
+# 2. Introduction
+
 ## a. Overview, Problem Description, Summary, or Abstract
 
 Summary of the problem (from the perspective of the user), the context, suggested solution, and the stakeholders. 
@@ -41,7 +44,10 @@ Product and technical requirements slated for a future time
 ## g. Assumptions
 
 Conditions and resources that need to be present and accessible for the solution to work as described. 
+
+<a name="Solutions"/>
 # 3. Solutions
+
 ## a. Current or Existing Solution / Design
 
 Current solution description
