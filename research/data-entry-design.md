@@ -7,3 +7,6 @@ The system is a proposed way to record the metrics of input (how much greenwaste
 Time series data should also be available, allowing measurements from days, weeks, months or even years.
 
 Opensource software is to be utilised. 
+
+* Code Ingiter for the Web Form
+* MariaDB for the database
