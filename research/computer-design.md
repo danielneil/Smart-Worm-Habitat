@@ -93,6 +93,12 @@ Given that modern computers now come in small configurations and are much more a
 * The computer must have an appropriate CPU.
 * The computer must have an appropriate amount of hard disk. 
 * The computer must either connected to LAN or WiFi in order for the alter system to contact external stake holders. 
+* An appropriate (USB?) sensor to determine the internal temperature of the Smart Worm Habitat, which connects to the computer.
+* An appropriate (USB?) sensor to determine the external temperature of the Smart Worm Habitat, which connects to the computer.
+* An appropriate (USB?) sensor to determine the moisture level of the Smart Worm Habitat, which connects to the computer.
+* An appropriate (USB?) sensor to determine the pH level (acidic) of the Smart Worm Habitat, which connects to the computer.
+* An appropriate infrared camera mounted inside the Smart Worm Habitat to take periodic images to monitor worm feeding and migratory behavior, which connects to the computer.
+* All sensor data is record on the local disk of the computer or in a relation database management system.  
 
 ## e. Non-Goals or Out of Scope
 
