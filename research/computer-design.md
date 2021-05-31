@@ -27,7 +27,7 @@
 
 ### The problem: 
 
-How can we ascertain the health of the Smart Worm Habitat, given that worms require very specific conditions in order to convert greenwaste into vermicast in an optimal fashion.  
+How can workers ascertain the health of the Smart Worm Habitat, given that worms require very specific conditions in order to convert greenwaste into vermicast in an optimal fashion.  
 
 ### Suggested Solution: 
 
@@ -49,6 +49,7 @@ The computer will also utilise a connected infrared camera to peroidically take 
 *New terms you come across as you research your design or terms you may suspect your readers/stakeholders not to know.*
 
 * Smart Worm Habitat - A continuous flow worm habitat capable of converting greenwaste into vermicast. 
+* Worker - a person tasked with the duties concerning the operation of the Smart Work Habitat.  
 
 ## c. Context or Background
 
@@ -56,7 +57,7 @@ The computer will also utilise a connected infrared camera to peroidically take 
 
 Worms are most productive when conditions of their environment are ideal. When conditions are not ideal, their reproductions rates slow down and they eat far less food. Being able to acutely monitor the specifics of their environment ensures their ability to optimally convert greenwaste into vermicast. 
 
-When the computer detects suboptimal worm habitat conditions (e.g. too dry), it is able to alert farmers that appropriate counter measures are required (add moisture). 
+When the computer detects suboptimal worm habitat conditions (e.g. too dry), it is able to alert workers that appropriate counter measures are required (add moisture). 
 
 *Origin of the problem*
 
