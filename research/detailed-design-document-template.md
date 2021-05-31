@@ -10,7 +10,7 @@
 
 [Introduction](#Introduction)  
 [Solutions](#Solutions)
-[Further Considerations](#Further Considerations)
+[Further Considerations](#FurtherConsiderations)
 
 <a name="Introduction"/>
 # 2. Introduction
