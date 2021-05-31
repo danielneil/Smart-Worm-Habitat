@@ -31,6 +31,10 @@ Well, you know how your smart phone is "smart" because it has a computer inside 
 
 & with pretty graphs!
 
+## Emissions Reduction 
+
+The primary purpose of the project is process divert food waste from landfill and reduce the associated methane gas.
+
 ## It sends alerts, too!
 
 It will alert you if any of the monitored items go above or below the declared thresholds. 
