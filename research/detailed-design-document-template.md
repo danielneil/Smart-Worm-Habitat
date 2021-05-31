@@ -101,39 +101,39 @@
 
 ## c. Test Plan
 
-Explanations of how the tests will make sure user requirements are met
-Unit tests
-Integrations tests
-QA
+* Explanations of how the tests will make sure user requirements are met
+* Unit tests
+* Integrations tests
+* QA
 
 ## d. Monitoring and Alerting Plan 
 
-Logging plan and tools
-Monitoring plan and tools
-Metrics to be used to measure health
-How to ensure observability
-Alerting plan and tools
+* Logging plan and tools
+* Monitoring plan and tools
+* Metrics to be used to measure health
+* How to ensure observability
+* Alerting plan and tools
 
 ## e. Release / Roll-out and Deployment Plan
 
-Deployment architecture 
-Deployment environments
-Phased roll-out plan e.g. using feature flags
-Plan outlining how to communicate changes to the users, for example, with release notes
+* Deployment architecture 
+* Deployment environments
+* Phased roll-out plan e.g. using feature flags
+* Plan outlining how to communicate changes to the users, for example, with release notes
 
 ## f. Rollback Plan
 
-Detailed and specific liabilities 
-Plan to reduce liabilities
-Plan describing how to prevent other components, services, and systems from being affected
+* Detailed and specific liabilities 
+* Plan to reduce liabilities
+* Plan describing how to prevent other components, services, and systems from being affected
 
 ## g. Alternate Solutions / Designs
 
-Short summary statement for each alternative solution
-Pros and cons for each alternative
-Reasons why each solution couldn’t work 
-Ways in which alternatives were inferior to the proposed solution
-Migration plan to next best alternative in case the proposed solution falls through
+* Short summary statement for each alternative solution
+* Pros and cons for each alternative
+* Reasons why each solution couldn’t work 
+* Ways in which alternatives were inferior to the proposed solution
+* Migration plan to next best alternative in case the proposed solution falls through
 
 <a name="FurtherConsiderations"/>
 
@@ -141,64 +141,65 @@ Migration plan to next best alternative in case the proposed solution falls thro
 
 ## a. Impact on other teams
 
-How will this increase the work of other people?
+*How will this increase the work of other people?*
+
 ## b. Third-party services and platforms considerations
 
-Is it really worth it compared to building the service in-house?
-What are some of the security and privacy concerns associated with the services/platforms?
-How much will it cost?
-How will it scale?
-What possible future issues are anticipated? 
+* Is it really worth it compared to building the service in-house?
+* What are some of the security and privacy concerns associated with the services/platforms?
+* How much will it cost?
+* How will it scale?
+* What possible future issues are anticipated? 
 
 ## c. Cost analysis
 
-What is the cost to run the solution per day?
-What does it cost to roll it out? 
+* What is the cost to run the solution per day?
+* What does it cost to roll it out? 
 
 ## d. Security considerations
 
-What are the potential threats?
-How will they be mitigated?
-How will the solution affect the security of other components, services, and systems?
+* What are the potential threats?
+* How will they be mitigated?
+* How will the solution affect the security of other components, services, and systems?
 
 ## e. Privacy considerations
 
-Does the solution follow local laws and legal policies on data privacy?
-How does the solution protect users’ data privacy?
-What are some of the tradeoffs between personalization and privacy in the solution? 
+* Does the solution follow local laws and legal policies on data privacy?
+* How does the solution protect users’ data privacy?
+* What are some of the tradeoffs between personalization and privacy in the solution? 
 
 ## f. Regional considerations
 
-What is the impact of internationalization and localization on the solution?
-What are the latency issues?
-What are the legal concerns?
-What is the state of service availability?
-How will data transfer across regions be achieved and what are the concerns here? 
+* What is the impact of internationalization and localization on the solution?
+* What are the latency issues?
+* What are the legal concerns?
+* What is the state of service availability?
+* How will data transfer across regions be achieved and what are the concerns here? 
 
 ## g. Accessibility considerations
 
-How accessible is the solution?
-What tools will you use to evaluate its accessibility? 
+* How accessible is the solution?
+* What tools will you use to evaluate its accessibility? 
 
 ## h. Operational considerations
 
-Does this solution cause adverse aftereffects?
-How will data be recovered in case of failure?
-How will the solution recover in case of a failure?
-How will operational costs be kept low while delivering increased value to the users? 
+* Does this solution cause adverse aftereffects?
+* How will data be recovered in case of failure?
+* How will the solution recover in case of a failure?
+* How will operational costs be kept low while delivering increased value to the users? 
 
 ## i. Risks
 
-What risks are being undertaken with this solution?
-Are there risks that once taken can’t be walked back?
-What is the cost-benefit analysis of taking these risks? 
+* What risks are being undertaken with this solution?
+* Are there risks that once taken can’t be walked back?
+* What is the cost-benefit analysis of taking these risks? 
 
 ## j. Support considerations
 
-How will the support team get across information to users about common issues they may face while interacting with the changes?
-How will we ensure that the users are satisfied with the solution and can interact with it with minimal support?
-Who is responsible for the maintenance of the solution?
-How will knowledge transfer be accomplished if the project owner is unavailable? 
+* How will the support team get across information to users about common issues they may face while interacting with the changes?
+* How will we ensure that the users are satisfied with the solution and can interact with it with minimal support?
+* Who is responsible for the maintenance of the solution?
+* How will knowledge transfer be accomplished if the project owner is unavailable? 
 
 <a name="SuccessEvaluation"/>
 
@@ -206,15 +207,15 @@ How will knowledge transfer be accomplished if the project owner is unavailable?
 
 ## a. Impact
 
-Security impact
-Performance impact
-Cost impact
-Impact on other components and services
+* Security impact
+* Performance impact
+* Cost impact
+* Impact on other components and services
 
 ## b. Metrics
 
-List of metrics to capture
-Tools to capture and measure metrics
+* List of metrics to capture
+* Tools to capture and measure metrics
 
 <a name="Work"/>
 
@@ -222,21 +223,22 @@ Tools to capture and measure metrics
 
 ## a. Work estimates and timelines
 
-List of specific, measurable, and time-bound tasks
-Resources needed to finish each task
-Time estimates for how long each task needs to be completed
+* List of specific, measurable, and time-bound tasks
+* Resources needed to finish each task
+* Time estimates for how long each task needs to be completed
 
 ## b. Prioritization
 
-Categorization of tasks by urgency and impact
+* Categorization of tasks by urgency and impact
 
 ## c. Milestones
 
-Dated checkpoints when significant chunks of work will have been completed
-Metrics to indicate the passing of the milestone
+* Dated checkpoints when significant chunks of work will have been completed
+* Metrics to indicate the passing of the milestone
+
 ## d. Future work
 
-List of tasks that will be completed in the future
+* List of tasks that will be completed in the future
 
 <a name="Deliberation"/>
 
@@ -244,10 +246,11 @@ List of tasks that will be completed in the future
 
 ## a. Discussion
 
-Elements of the solution that members of the team do not agree on and need to be debated further to reach a consensus.
+* Elements of the solution that members of the team do not agree on and need to be debated further to reach a consensus.
+
 ## b. Open Questions
 
-Questions about things you do not know the answers to or are unsure that you pose to the team and stakeholders for their input. These may include aspects of the problem you don’t know how to resolve yet. 
+*Questions about things you do not know the answers to or are unsure that you pose to the team and stakeholders for their input. These may include aspects of the problem you don’t know how to resolve yet.*
 
 <a name="EndMatter"/>
 
@@ -255,7 +258,7 @@ Questions about things you do not know the answers to or are unsure that you pos
 
 ## a. Related Work
 
-Any work external to the proposed solution that is similar to it in some way and is worked on by different teams. It’s important to know this to enable knowledge sharing between such teams when faced with related problems. 
+*Any work external to the proposed solution that is similar to it in some way and is worked on by different teams. It’s important to know this to enable knowledge sharing between such teams when faced with related problems.* 
 ## b. References
 
 Links to documents and resources that you used when coming up with your design and wish to credit. 
