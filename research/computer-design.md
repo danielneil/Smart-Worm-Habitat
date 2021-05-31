@@ -74,12 +74,15 @@ Given that modern computers now come in small configurations and are much more a
 
 * Product requirements in the form of user stories 
 
-
 *Technical requirements*
 
-* A small form factor computer 
-* Four(4) USB ports are required 
-
+* A small form factor computer
+* A small form factor computer case to house the computing unit. 
+* Four(4) USB ports to connect the computer with the sensors and camera.
+* The Smart Worm Habitat must be relatively close to a power source.
+* The computer must have an appropriate amount of RAM.
+* The computer must have an appropriate CPU.
+* The computer must have an appropriate amount of hard disk. 
 
 ## e. Non-Goals or Out of Scope
 
