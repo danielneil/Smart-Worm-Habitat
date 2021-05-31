@@ -1,4 +1,4 @@
-1. Front matter
+# Front matter
 Title 
 Author(s)
 Team
@@ -6,14 +6,15 @@ Reviewer(s)
 Created on
 Last updated
 Epic, ticket, issue, or task tracker reference link
-2. Introduction
-a. Overview, Problem Description, Summary, or Abstract
+
+# Introduction
+## a. Overview, Problem Description, Summary, or Abstract
 
 Summary of the problem (from the perspective of the user), the context, suggested solution, and the stakeholders. 
-b. Glossary  or Terminology
+## b. Glossary  or Terminology
 
 New terms you come across as you research your design or terms you may suspect your readers/stakeholders not to know.  
-c. Context or Background
+## c. Context or Background
 
 Reasons why the problem is worth solving
 Origin of the problem
@@ -22,25 +23,27 @@ Past efforts made to solve the solution and why they were not effective
 How the product relates to team goals, OKRs
 How the solution fits into the overall product roadmap and strategy
 How the solution fits into the technical strategy
-d. Goals or Product and Technical Requirements
+
+## d. Goals or Product and Technical Requirements
 
 Product requirements in the form of user stories 
 Technical requirements
- e. Non-Goals or Out of Scope
+## e. Non-Goals or Out of Scope
 
 Product and technical requirements that will be disregarded
-f. Future Goals
+## f. Future Goals
 
 Product and technical requirements slated for a future time
-g. Assumptions
+## g. Assumptions
 
 Conditions and resources that need to be present and accessible for the solution to work as described. 
-3. Solutions
-a. Current or Existing Solution / Design
+# 3. Solutions
+## a. Current or Existing Solution / Design
 
 Current solution description
 Pros and cons of the current solution
-b. Suggested or Proposed Solution / Design 
+
+## b. Suggested or Proposed Solution / Design 
 
 External components that the solution will interact with and that it will alter
 Dependencies of the current solution
@@ -73,38 +76,43 @@ How will the solution scale?
 What are the limitations of the solution?
 How will it recover in the event of a failure?
 How will it cope with future requirements?
-c. Test Plan
+
+## c. Test Plan
 
 Explanations of how the tests will make sure user requirements are met
 Unit tests
 Integrations tests
 QA
-d. Monitoring and Alerting Plan 
+
+## d. Monitoring and Alerting Plan 
 
 Logging plan and tools
 Monitoring plan and tools
 Metrics to be used to measure health
 How to ensure observability
 Alerting plan and tools
-e. Release / Roll-out and Deployment Plan
+## e. Release / Roll-out and Deployment Plan
 
 Deployment architecture 
 Deployment environments
 Phased roll-out plan e.g. using feature flags
 Plan outlining how to communicate changes to the users, for example, with release notes
-f. Rollback Plan
+
+## f. Rollback Plan
 
 Detailed and specific liabilities 
 Plan to reduce liabilities
 Plan describing how to prevent other components, services, and systems from being affected
-g. Alternate Solutions / Designs
+
+## g. Alternate Solutions / Designs
 
 Short summary statement for each alternative solution
 Pros and cons for each alternative
 Reasons why each solution couldn’t work 
 Ways in which alternatives were inferior to the proposed solution
 Migration plan to next best alternative in case the proposed solution falls through
-4. Further Considerations
+
+# 4. Further Considerations
 a. Impact on other teams
 
 How will this increase the work of other people?
