@@ -1,12 +1,12 @@
 # 1. Detailed Design - Document Template
 
-Title 
-Author(s)
-Team
-Reviewer(s)
-Created on
-Last updated
-Epic, ticket, issue, or task tracker reference link
+* Title 
+* Author(s)
+* Team
+* Reviewer(s)
+* Created on
+* Last updated
+* Epic, ticket, issue, or task tracker reference link
 
 [Introduction](#Introduction)  
 [Solutions](#Solutions)  
