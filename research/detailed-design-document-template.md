@@ -21,7 +21,7 @@
 
 # 1. Introduction
 
-## a. Overview, Problem Description, Summary, or Abstract
+## a. Overview - Problem Description / Summary / Abstract
 
 *Summary of the problem (from the perspective of the user), the context, suggested solution, and the stakeholders.*
 
