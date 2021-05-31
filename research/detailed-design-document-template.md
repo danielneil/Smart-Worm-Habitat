@@ -91,6 +91,7 @@ Monitoring plan and tools
 Metrics to be used to measure health
 How to ensure observability
 Alerting plan and tools
+
 ## e. Release / Roll-out and Deployment Plan
 
 Deployment architecture 
@@ -206,6 +207,7 @@ Metrics to indicate the passing of the milestone
 ## d. Future work
 
 List of tasks that will be completed in the future
+
 # 7. Deliberation
 
 ## a. Discussion
