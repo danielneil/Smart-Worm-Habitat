@@ -25,9 +25,11 @@
 
 *Summary of the problem (from the perspective of the user), the context, suggested solution, and the stakeholders.*
 
-The problem: 
+### The problem: 
 
-Using technology, how can we ascertain the health of the Smart Worm Habitat, given that worms require specific conditions in order to thrive e.g. optimally convert greenwaste into vermicast.  
+How can we ascertain the health of the Smart Worm Habitat, given that worms require very specific conditions in order to convert greenwaste into vermicast in an optimal fashion.  
+
+### Suggested Solution: 
 
 The Smart Worm Habitat requires a computer to process recorded telemetry data gathered from connected(USB) sensors, namely: 
 
@@ -36,7 +38,7 @@ The Smart Worm Habitat requires a computer to process recorded telemetry data ga
 * Vermicast pH (acidity) sensor 
 * An internal moisture sensor
 
-Using sensor derived data, the computer is able alert the stake holder in the event  
+Using sensor derived data, the computer is able alert stakeholders in the event of 
 
 The Smart Worm Habitat also requires the computer be power enough to power all connected sensors.  
 
