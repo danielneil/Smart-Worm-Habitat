@@ -31,27 +31,30 @@
 
 ## c. Context or Background
 
-Reasons why the problem is worth solving
-Origin of the problem
-How the problem affects users and company goals
-Past efforts made to solve the solution and why they were not effective
-How the product relates to team goals, OKRs
-How the solution fits into the overall product roadmap and strategy
-How the solution fits into the technical strategy
+* Reasons why the problem is worth solving
+* Origin of the problem
+* How the problem affects users and company goals
+* Past efforts made to solve the solution and why they were not effective
+* How the product relates to team goals, OKRs
+* How the solution fits into the overall product roadmap and strategy
+* How the solution fits into the technical strategy
 
 ## d. Goals or Product and Technical Requirements
 
-Product requirements in the form of user stories 
-Technical requirements
+* Product requirements in the form of user stories 
+* Technical requirements
+
 ## e. Non-Goals or Out of Scope
 
-Product and technical requirements that will be disregarded
+* Product and technical requirements that will be disregarded
+
 ## f. Future Goals
 
-Product and technical requirements slated for a future time
+* Product and technical requirements slated for a future time
+
 ## g. Assumptions
 
-Conditions and resources that need to be present and accessible for the solution to work as described. 
+*Conditions and resources that need to be present and accessible for the solution to work as described.*
 
 <a name="Solutions"/>
 
@@ -59,42 +62,42 @@ Conditions and resources that need to be present and accessible for the solution
 
 ## a. Current or Existing Solution / Design
 
-Current solution description
-Pros and cons of the current solution
+* Current solution description
+* Pros and cons of the current solution
 
 ## b. Suggested or Proposed Solution / Design 
 
-External components that the solution will interact with and that it will alter
-Dependencies of the current solution
-Pros and cons of the proposed  solution 
-Data Model / Schema Changes
-Schema definitions
-New data models
-Modified data models
-Data validation methods
-Business Logic
-API changes
-Pseudocode
-Flowcharts
-Error states
-Failure scenarios
-Conditions that lead to errors and failures
-Limitations
-Presentation Layer
-User requirements
-UX changes
-UI changes
-Wireframes with descriptions
-Links to UI/UX designer’s work
-Mobile concerns
-Web concerns
-UI states
-Error handling
-Other questions to answer
-How will the solution scale?
-What are the limitations of the solution?
-How will it recover in the event of a failure?
-How will it cope with future requirements?
+* External components that the solution will interact with and that it will alter
+* Dependencies of the current solution
+* Pros and cons of the proposed  solution 
+* Data Model / Schema Changes
+* Schema definitions
+* New data models
+* Modified data models
+* Data validation methods
+* Business Logic
+* API changes
+* Pseudocode
+* Flowcharts
+* Error states
+* Failure scenarios
+* Conditions that lead to errors and failures
+* Limitations
+* Presentation Layer
+* User requirements
+* UX changes
+* UI changes
+* Wireframes with descriptions
+* Links to UI/UX designer’s work
+* Mobile concerns
+* Web concerns
+* UI states
+* Error handling
+* Other questions to answer
+* How will the solution scale?
+* What are the limitations of the solution?
+* How will it recover in the event of a failure?
+* How will it cope with future requirements?
 
 ## c. Test Plan
 
