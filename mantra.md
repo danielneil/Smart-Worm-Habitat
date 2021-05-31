@@ -1,4 +1,4 @@
-# Why Create a Smart Worm Farm?
+# Why Create a Smart Worm Habitat?
 
 We need to move towards circular economies, and away from the take-make-waste model to something far more environmentally responsible/sustainable. 
 
