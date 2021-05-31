@@ -8,6 +8,7 @@
 * Last updated
 * Epic, ticket, issue, or task tracker reference link
 
+#### Table of Contents
 [Introduction](#Introduction)  
 
 [Solutions](#Solutions)
@@ -15,6 +16,7 @@
 [Further Considerations](#FurtherConsiderations)
 
 <a name="Introduction"/>
+
 # 2. Introduction
 
 ## a. Overview, Problem Description, Summary, or Abstract
