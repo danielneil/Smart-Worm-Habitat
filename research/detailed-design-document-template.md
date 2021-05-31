@@ -9,10 +9,10 @@
 * Epic, ticket, issue, or task tracker reference link
 
 [Introduction](#Introduction)  
-[Solutions](#Solutions)  
+[Solutions](#Solutions)
+[Further Considerations](#Further Considerations)
 
 <a name="Introduction"/>
-
 # 2. Introduction
 
 ## a. Overview, Problem Description, Summary, or Abstract
@@ -124,7 +124,9 @@ Reasons why each solution couldn’t work
 Ways in which alternatives were inferior to the proposed solution
 Migration plan to next best alternative in case the proposed solution falls through
 
+<a name="Further Considerations"/>
 # 4. Further Considerations
+
 ## a. Impact on other teams
 
 How will this increase the work of other people?
