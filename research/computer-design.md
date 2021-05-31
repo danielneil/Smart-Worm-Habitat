@@ -103,8 +103,13 @@ Given that modern computers now come in small configurations and are much more a
 
 ## a. Current or Existing Solution / Design
 
-* Current solution description
-* Pros and cons of the current solution
+*Current solution description*
+
+There is no current solution - the computer system described as above does not exist.
+
+*Pros and cons of the current solution*
+
+NA
 
 ## b. Suggested or Proposed Solution / Design 
 
