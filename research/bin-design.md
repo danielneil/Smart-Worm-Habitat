@@ -1,7 +1,7 @@
 
 # Worm Habitat Design Considerations
 
-The Smart Worm Farm is based on the premise of a continous flow vermicomposting system.
+The Smart Worm Habitat is based on the premise of a continous flow vermicomposting system.
 
 ## What is Continuous Flow Vermicomposting?
 
