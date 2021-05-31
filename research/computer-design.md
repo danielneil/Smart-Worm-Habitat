@@ -40,7 +40,7 @@ The Smart Worm Habitat requires a computer to process recorded telemetry data ga
 
 Using sensor derived data, the computer is able alert stakeholders in the event of conditions in the Smart Worm Habitat being less than ideal e.g. temperature is too cold, acidity is too high or moisture content is too low. 
 
-The conmputer periodically takes a sensor reading at a specific time interval e.g. every 5 minutes. If the detected reading is not within a preconfigured range (e.g. the pH level is less than 7 indicating an acidic solution), the computer sends an email(?) to a predetermined e-mail address.
+The computer periodically takes sensors reading at a specific time interval e.g. every 5 minutes. If the detected reading is not within a preconfigured range (e.g. the pH level is less than 7 indicating an acidic solution), the computer sends an email(?) to a predetermined e-mail address.
 
 ## b. Glossary  or Terminology
 
