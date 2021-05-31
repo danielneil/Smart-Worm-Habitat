@@ -3,18 +3,18 @@
 
 This doc is to help with R&D of our Smart Worm Farm, so this this should be your first point of reference for getting to know the technicalities. 
 
-## Smart Worm Farm - Continuous Flow Design 
+## Smart Worm Habitat - Continuous Flow Design 
 
-The Smart Worm Farm will be a [continous flow system](https://urbanwormcompany.com/complete-guide-to-continuous-flow-vermicomposting/), which might end up looking like the below:
+The Smart Worm Habitat will be a [continous flow system](https://urbanwormcompany.com/complete-guide-to-continuous-flow-vermicomposting/), which might end up looking like the below:
 
 <p align="center">
-  <img src="https://github.com/danielneil/Smart-Worm-Bin/blob/main/images/cf-bin.jpg?raw=true">
+  <img src="https://github.com/danielneil/Smart-Worm-Habitat/blob/main/images/cf-bin.jpg?raw=true">
 </p>
 
 With a little computer (nawwww) mounted externally, and with sensors located inside to record metrics. 
 
 #### Prototype Design: 
-[Worm Habitat Design Considerations](https://github.com/danielneil/Smart-Worm-Farm/blob/main/research/bin-design.md).
+[Worm Habitat Design Considerations](https://github.com/danielneil/Smart-Worm-Habitat/blob/main/research/bin-design.md).
 
 ## Little Computer (nawwww)
 
@@ -22,11 +22,11 @@ Initially, the Raspberry Pi 4 Model B 4GB, will serve as a prototype, but R&D wi
 
 Depending on the results of battle testing the design, we'll know whether the Pi is up to the challenge.  
 
-[Computer design considerations](https://github.com/danielneil/Smart-Worm-Farm/blob/main/research/computer-design.md).
+[Computer design considerations](https://github.com/danielneil/Smart-Worm-Habitat/blob/main/research/computer-design.md).
 
 ## Software 
 
-[Software Design considerations](https://github.com/danielneil/Smart-Worm-Farm/blob/main/research/software-design.md).
+[Software Design considerations](https://github.com/danielneil/Smart-Worm-Habitat/blob/main/research/software-design.md).
 
 ## Sensors
 
