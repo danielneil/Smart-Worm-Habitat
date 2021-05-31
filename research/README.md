@@ -21,5 +21,5 @@ This doc is to help with R&D of our Smart Worm Habitat, so this this should be y
 * [Soil Moisture Sensor - Detailed Design](https://github.com/danielneil/Smart-Worm-Habitat/blob/main/research/data-entry-design.md).
 
 
-## Detailed Design Document Template 
+### Detailed Design Document Template 
 [Document Template](https://github.com/danielneil/Smart-Worm-Habitat/blob/main/research/detailed-design-document-template.md).
