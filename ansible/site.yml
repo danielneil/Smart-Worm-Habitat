@@ -9,4 +9,4 @@
   roles:
    - httpd
    - nagios-from-source
-   #- smart-worm-farm
+   - data-entry

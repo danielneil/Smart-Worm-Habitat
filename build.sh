@@ -12,6 +12,7 @@ InstallDeps() {
 }
 
 InstallDeps "ansible"
+InstallDeps "vim"
 
 # Start ssh and enable it at boot.
 sudo systemctl enable ssh && sudo systemctl start ssh
