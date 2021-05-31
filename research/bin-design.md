@@ -1,5 +1,5 @@
 
-# Worm Habitat Design Considerations
+# Smart Worm Habitat - Detailed Design
 
 The Smart Worm Habitat is based on the premise of a continous flow vermicomposting system.
 
