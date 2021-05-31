@@ -42,7 +42,7 @@ Using sensor derived data, the computer is able alert stakeholders in the event 
 
 The computer periodically takes sensors reading at a specific time interval e.g. every 5 minutes. If the detected reading is not within a preconfigured range (e.g. the pH level is less than 7 indicating an acidic solution), the computer sends an email(?) to a predetermined e-mail address.
 
-The computer will also utilise a connected infrared camera to peroidically take images in order to monitor worm feeding and migration patterns.
+The computer will also utilise a connected(USB?) infrared camera to peroidically take images in order to monitor worm feeding and migration patterns.
 
 ## b. Glossary  or Terminology
 
@@ -78,7 +78,7 @@ Given that modern computers now come in small configurations and are much more a
 *Technical requirements*
 
 * A small form factor computer
-* A small form factor computer case to house the computing unit. 
+* A small form factor computer case to house the computing unit, which can be mounted to the exterior of the Smart Work Habitat. 
 * Four(4) USB ports to connect the computer with the sensors and camera.
 * The Smart Worm Habitat must be relatively close to a power source.
 * The computer must have an appropriate amount of RAM.
