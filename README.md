@@ -39,7 +39,7 @@ The primary purpose of the habitat is to be able to efficiently covert captured 
 
 The habitat will stop **5,198.40kg** of CO2-e entering the atmosphere (equivalent to 11.24 petrol tanks), every single month, and that's just one unit - imagine if we had lots of them!
 
-The software will also provide a data entry tool to enable the farmer to record the weights of input, to calculate total emission savings.
+The software will also provide a data entry tool to record the weights of input to calculate total emission savings.
 
 ## It sends alerts, too!
 
