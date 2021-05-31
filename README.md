@@ -35,6 +35,8 @@ Well, you know how your smart phone is "smart" because it has a computer inside 
 
 The primary purpose of the project is to capture and then process diverted food waste from landfill and reduce the associated methane gas.
 
+The habitat will stop 5,198.40kg of methane entering the atmosphere, every month, and that's just a single unit - image if we had lots of them!
+
 ## It sends alerts, too!
 
 It will alert you if any of the monitored items go above or below the declared thresholds. 
