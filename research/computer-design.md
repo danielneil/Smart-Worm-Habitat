@@ -98,15 +98,17 @@ Given that modern computers now come in small configurations and are much more a
 * An appropriate (USB?) sensor to determine the moisture level of the Smart Worm Habitat, which connects to the computer.
 * An appropriate (USB?) sensor to determine the pH level (acidic) of the Smart Worm Habitat, which connects to the computer.
 * An appropriate infrared camera mounted inside the Smart Worm Habitat to take periodic images to monitor worm feeding and migratory behavior, which connects to the computer.
-* All sensor data is record on the local disk of the computer or in a relation database management system.  
+* All sensor data is recorded on the local disk or in a relation database management system on the computer.  
 
 ## e. Non-Goals or Out of Scope
 
-* Product and technical requirements that will be disregarded
+*Product and technical requirements that will be disregarded*
+
+NA
 
 ## f. Future Goals
 
-* Product and technical requirements slated for a future time
+*Product and technical requirements slated for a future time*
 
 ## g. Assumptions
 
