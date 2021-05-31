@@ -12,11 +12,10 @@
 * [1. Introduction](#Introduction)
 * [2. Solutions](#Solutions)
 * [3. Further Considerations](#FurtherConsiderations)
-* [4. Further Considerations](#FurtherConsiderations)
-* [5. Success Evaluation](#SuccessEvaluation)
-* [6. Work](#Work)
-* [7. Deliberation](#Deliberation)
-* [8. End Matter](#EndMatter)
+* [4. Success Evaluation](#SuccessEvaluation)
+* [5. Work](#Work)
+* [6. Deliberation](#Deliberation)
+* [7. End Matter](#EndMatter)
 
 <a name="Introduction"/>
 
