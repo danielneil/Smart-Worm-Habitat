@@ -19,7 +19,7 @@ The monitoring system will be based on Nagios Core.
 
 Nagios Core usually monitors computer infrastructure, but in this case, we'll amend the code in order to use specific sensors e.g. soil, moisture and ph levels.
 
-To access the Nagios Core UI, enter the follow into a URL on the Pi (credentials are worms/worms).
+To access the Nagios Core UI, enter the follow into a URL on the Pi (credentials are nagiosadmin/nagiosadmin).
 ``` 
 http://127.0.0.1/nagios/
 ```
