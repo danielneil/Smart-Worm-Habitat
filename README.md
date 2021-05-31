@@ -12,7 +12,7 @@ An open source design for a modularised worm habitat that efficiently converts f
 
 The Smart Worm Farm is a [continuous flow](https://urbanwormcompany.com/complete-guide-to-continuous-flow-vermicomposting/) worm habitat that converts foodwaste into the best fertiliser known to mankind, vermicast! The continuous flow system vastly improves the efficiency of the harvesting process, and allows the worms to remain undisturbed.   
 
-It uses a little computer (nawww) to monitor the health of the habitat using several sensors, namely moisture, PH level and temperature.
+It uses a computer to monitor the health of the habitat using several sensors, namely moisture, PH level and temperature.
 
 It might end up looking like this..
 
