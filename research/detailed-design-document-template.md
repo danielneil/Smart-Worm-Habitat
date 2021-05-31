@@ -129,6 +129,7 @@ Ways in which alternatives were inferior to the proposed solution
 Migration plan to next best alternative in case the proposed solution falls through
 
 <a name="FurtherConsiderations"/>
+
 # 4. Further Considerations
 
 ## a. Impact on other teams
@@ -192,6 +193,8 @@ How will we ensure that the users are satisfied with the solution and can intera
 Who is responsible for the maintenance of the solution?
 How will knowledge transfer be accomplished if the project owner is unavailable? 
 
+<a name="SuccessEvaluation"/>
+
 # 5. Success Evaluation
 
 ## a. Impact
@@ -205,6 +208,9 @@ Impact on other components and services
 
 List of metrics to capture
 Tools to capture and measure metrics
+
+<a name="Work"/>
+
 # 6. Work
 
 ## a. Work estimates and timelines
@@ -225,6 +231,8 @@ Metrics to indicate the passing of the milestone
 
 List of tasks that will be completed in the future
 
+<a name="Deliberation"/>
+
 # 7. Deliberation
 
 ## a. Discussion
@@ -233,6 +241,8 @@ Elements of the solution that members of the team do not agree on and need to be
 ## b. Open Questions
 
 Questions about things you do not know the answers to or are unsure that you pose to the team and stakeholders for their input. These may include aspects of the problem you don’t know how to resolve yet. 
+
+<a name="EndMatter"/>
 
 # 8. End Matter
 
