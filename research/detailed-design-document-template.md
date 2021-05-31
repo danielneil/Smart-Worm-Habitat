@@ -8,10 +8,10 @@
 * Last updated
 * Epic, ticket, issue, or task tracker reference link
 
-#### Table of Contents
-[Introduction](#Introduction)
-[Solutions](#Solutions)
-[Further Considerations](#FurtherConsiderations)
+# Table of Contents
+* [Introduction](#Introduction)
+* [Solutions](#Solutions)
+* [Further Considerations](#FurtherConsiderations)
 
 <a name="Introduction"/>
 
