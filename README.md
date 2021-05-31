@@ -53,12 +53,5 @@ P.s. they always go for the watermelon first.
 
 ## Want to help? 
 
-1. Install Virtual Box ([help](https://www.virtualbox.org/manual/ch02.html)).
-2. Download the [Raspberry Pi Desktop](https://www.raspberrypi.org/software/raspberry-pi-desktop/) image.
-3. Create a Raspberry-PI Virtual Box with the freshly downloaded image ([help](https://roboticsbackend.com/install-raspbian-desktop-on-a-virtual-machine-virtualbox/)).
-4. From a shell on the Pi, run the below shell snippet:
-``` 
-git clone https://github.com/danielneil/Smart-Worm-Habitat.git && cd Smart-Worm-Habitat && ./build.sh
-```
-5. If you wish to participate, have a peek around the codebase for a bit that interests you, read the [R&D guide](https://github.com/danielneil/Smart-Worm-Habitat/tree/main/research), and send me a pull request. 
-6. Or you can also participate in the [gofund.me campaign](https://gofund.me/1dbc1ac6)!
+1. If you wish to participate in R&D, read the [guide](https://github.com/danielneil/Smart-Worm-Habitat/tree/main/research).
+2. Or please consider giving us a donation - [gofund.me campaign](https://gofund.me/1dbc1ac6).
