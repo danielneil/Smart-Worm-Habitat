@@ -35,7 +35,7 @@ Well, you know how your smart phone is "smart" because it has a computer inside 
 
 ## Emissions Reduction 
 
-The primary purpose of the project is to capture and then process food waste diverted from landfill and reduce the associated methane gas.
+The primary purpose of the project is to be able to efficiently covert captured food waste into vermicast, and reduce the associated greenhouse gases should that food waste had of ended up in landfill.
 
 The habitat will stop 5,198.40kg of CO2-e entering the atmosphere, every month, and that's just a single unit - imagine if we had lots of them!
 
