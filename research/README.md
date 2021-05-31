@@ -1,7 +1,7 @@
 
 # R&D Guide
 
-This doc is to help with R&D of our Smart Worm Farm, so this this should be your first point of reference for getting to know the technicalities. 
+This doc is to help with R&D of our Smart Worm Habitat, so this this should be your first point of reference for getting to know the technicalities. 
 
 ## Smart Worm Habitat - Continuous Flow Design 
 
