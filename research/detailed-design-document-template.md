@@ -23,10 +23,12 @@
 
 ## a. Overview, Problem Description, Summary, or Abstract
 
-Summary of the problem (from the perspective of the user), the context, suggested solution, and the stakeholders. 
+*Summary of the problem (from the perspective of the user), the context, suggested solution, and the stakeholders.*
+
 ## b. Glossary  or Terminology
 
-New terms you come across as you research your design or terms you may suspect your readers/stakeholders not to know.  
+*New terms you come across as you research your design or terms you may suspect your readers/stakeholders not to know.*
+
 ## c. Context or Background
 
 Reasons why the problem is worth solving
