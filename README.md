@@ -1,6 +1,6 @@
 # Smart-Worm-Farm
 
-An open source design for a modularised worm habitat that efficiently converts food waste into vermicast, and monitors the health of itself using a little computer (nawww). [Why do this?!?!?!!?](https://github.com/danielneil/Smart-Worm-Bin/blob/main/mantra.md)
+An open source design for a modularised worm habitat that efficiently converts food waste into vermicast, and monitors the health of itself using a little computer (nawww). [Why?](https://github.com/danielneil/Smart-Worm-Bin/blob/main/mantra.md)
 
 <p align="center">
   <img src="https://github.com/danielneil/Smart-Worm-Farm/blob/main/images/cad-concept2.png?raw=true">
