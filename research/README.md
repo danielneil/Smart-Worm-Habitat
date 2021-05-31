@@ -26,11 +26,11 @@ Depending on the results of battle testing the design, we'll know whether the Pi
 
 ## Alerting System 
 
-[Software Design considerations](https://github.com/danielneil/Smart-Worm-Habitat/blob/main/research/software-design.md).
+[Alerting System Design considerations](https://github.com/danielneil/Smart-Worm-Habitat/blob/main/research/software-design.md).
 
 ## Data Entry System
 
-[Software Design considerations](https://github.com/danielneil/Smart-Worm-Habitat/blob/main/research/data-entry-design.md).
+[Data Entry System Design considerations](https://github.com/danielneil/Smart-Worm-Habitat/blob/main/research/data-entry-design.md).
 
 ## Sensors
 
