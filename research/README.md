@@ -5,11 +5,7 @@ This doc is to help with R&D of our Smart Worm Habitat, so this this should be y
 
 ## Smart Worm Habitat - Continuous Flow Design 
 
-The Smart Worm Habitat will be a [continous flow system](https://urbanwormcompany.com/complete-guide-to-continuous-flow-vermicomposting/), which might end up looking like the below:
-
-<p align="center">
-  <img src="https://github.com/danielneil/Smart-Worm-Habitat/blob/main/images/cf-bin.jpg?raw=true">
-</p>
+The Smart Worm Habitat will be a [continous flow system](https://urbanwormcompany.com/complete-guide-to-continuous-flow-vermicomposting/).
 
 With a little computer (nawwww) mounted externally, and with sensors located inside to record metrics. 
 
