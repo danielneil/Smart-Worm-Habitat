@@ -8,7 +8,6 @@ Created on
 Last updated
 Epic, ticket, issue, or task tracker reference link
 
-##### Table of Contents  
 [Introduction](#Introduction)  
 [Solutions](#Solutions)  
 
@@ -46,6 +45,7 @@ Product and technical requirements slated for a future time
 Conditions and resources that need to be present and accessible for the solution to work as described. 
 
 <a name="Solutions"/>
+
 # 3. Solutions
 
 ## a. Current or Existing Solution / Design
