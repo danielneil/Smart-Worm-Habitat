@@ -73,7 +73,15 @@ Given that modern computers now come in small configurations and are much more a
 
 ## d. Goals or Product and Technical Requirements
 
-* Product requirements in the form of user stories 
+*Product requirements in the form of user stories*
+
+* As someone who operates the Smart Worm Habitat, I want to know when conditions become too hot.
+* As someone who operates the Smart Worm Habitat, I want to know when conditions become too cold.
+* As someone who operates the Smart Worm Habitat, I want to know when conditions become too acidic.
+* As someone who operates the Smart Worm Habitat, I want to know when conditions become too wet.
+* As someone who operates the Smart Worm Habitat, I want to know when conditions become too dry.
+* As someone who operates the Smart Worm Habitat, I want to know see infrared images of the worms feeding behavior.
+* As someone who operates the Smart Worm Habitat, I want to know see infrared images of the worms migratory behavior.
 
 *Technical requirements*
 
