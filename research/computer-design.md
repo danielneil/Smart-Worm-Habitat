@@ -84,6 +84,7 @@ Given that modern computers now come in small configurations and are much more a
 * The computer must have an appropriate amount of RAM.
 * The computer must have an appropriate CPU.
 * The computer must have an appropriate amount of hard disk. 
+* The computer must either connected to LAN or WiFi in order for the alter system to contact external stake holders. 
 
 ## e. Non-Goals or Out of Scope
 
