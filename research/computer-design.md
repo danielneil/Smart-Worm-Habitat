@@ -42,6 +42,8 @@ Using sensor derived data, the computer is able alert stakeholders in the event 
 
 The computer periodically takes sensors reading at a specific time interval e.g. every 5 minutes. If the detected reading is not within a preconfigured range (e.g. the pH level is less than 7 indicating an acidic solution), the computer sends an email(?) to a predetermined e-mail address.
 
+The computer will also utilise a connected infrared camera to peroidically take images in order to monitor worm feeding and migration patterns.
+
 ## b. Glossary  or Terminology
 
 *New terms you come across as you research your design or terms you may suspect your readers/stakeholders not to know.*
@@ -73,7 +75,11 @@ Given that modern computers now come in small configurations and are much more a
 * Product requirements in the form of user stories 
 
 
-* Technical requirements
+*Technical requirements*
+
+* A small form factor computer 
+* Four(4) USB ports are required 
+
 
 ## e. Non-Goals or Out of Scope
 
