@@ -24,9 +24,11 @@ Depending on the results of battle testing the design, we'll know whether the Pi
 
 [Computer design considerations](https://github.com/danielneil/Smart-Worm-Habitat/blob/main/research/computer-design.md).
 
-## Software 
+## Alerting System 
 
 [Software Design considerations](https://github.com/danielneil/Smart-Worm-Habitat/blob/main/research/software-design.md).
+
+## Data Entry System
 
 ## Sensors
 
