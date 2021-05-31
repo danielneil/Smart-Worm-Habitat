@@ -24,7 +24,7 @@ It might end up looking like this..
 
 ## How is it "smart"? 
 
-Well, you know how your smart phone is "smart" because it has a computer inside it, same dealio with the Smart Worm Habitat - it has a computer inside it, and uses it to monitor the following: 
+Well, you know how your smart phone is "smart" because it has a computer inside it, same dealio with the Smart Worm Habitat - it uses a computer to monitor the following: 
 
 * Outside Temperature
 * Inside Temperature 
