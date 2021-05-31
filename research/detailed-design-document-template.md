@@ -8,9 +8,9 @@
 * Last updated
 * Epic, ticket, issue, or task tracker reference link
 
-[Introduction](#Introduction)  
-[Solutions](#Solutions)
-[Further Considerations](#FurtherConsiderations)
+* [Introduction](#Introduction)  
+* [Solutions](#Solutions)
+* [Further Considerations](#FurtherConsiderations)
 
 <a name="Introduction"/>
 # 2. Introduction
@@ -124,7 +124,7 @@ Reasons why each solution couldn’t work
 Ways in which alternatives were inferior to the proposed solution
 Migration plan to next best alternative in case the proposed solution falls through
 
-<a name="Further Considerations"/>
+<a name="FurtherConsiderations"/>
 # 4. Further Considerations
 
 ## a. Impact on other teams
