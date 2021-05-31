@@ -21,13 +21,31 @@
 
 # 1. Introduction
 
-## a. Overview, Problem Description, Summary, or Abstract
+## a. Overview - Problem Description / Summary / Abstract
 
 *Summary of the problem (from the perspective of the user), the context, suggested solution, and the stakeholders.*
+
+The problem: 
+
+Using technology, how can we ascertain the health of the Smart Worm Habitat, given that worms require specific conditions in order to thrive e.g. optimally convert greenwaste into vermicast.  
+
+The Smart Worm Habitat requires a computer to process recorded telemetry data gathered from connected(USB) sensors, namely: 
+
+* An external temperature sensor 
+* An internal temperature sensor 
+* Vermicast pH (acidity) sensor 
+* An internal moisture sensor
+
+Using sensor derived data, the computer is able alert the stake holder in the event  
+
+The Smart Worm Habitat also requires the computer be power enough to power all connected sensors.  
+
 
 ## b. Glossary  or Terminology
 
 *New terms you come across as you research your design or terms you may suspect your readers/stakeholders not to know.*
+
+* Smart Worm Habitat - A continuous flow worm habitat capable of converting greenwaste into vermicast. 
 
 ## c. Context or Background
 
