@@ -1,4 +1,4 @@
-# 1. Detailed Design - Document Template
+# Detailed Design - Document Template
 
 * Title 
 * Author(s)
@@ -9,15 +9,15 @@
 * Epic, ticket, issue, or task tracker reference link
 
 # Table of Contents
-* [2. Introduction](#Introduction)
-* [3. Solutions](#Solutions)
+* [1. Introduction](#Introduction)
+* [2. Solutions](#Solutions)
+* [3. Further Considerations](#FurtherConsiderations)
 * [4. Further Considerations](#FurtherConsiderations)
-* [5. Further Considerations](#FurtherConsiderations)
 * [5. Success Evaluation](#SuccessEvaluation)
 
 <a name="Introduction"/>
 
-# 2. Introduction
+# 1. Introduction
 
 ## a. Overview, Problem Description, Summary, or Abstract
 
@@ -51,7 +51,7 @@ Conditions and resources that need to be present and accessible for the solution
 
 <a name="Solutions"/>
 
-# 3. Solutions
+# 2. Solutions
 
 ## a. Current or Existing Solution / Design
 
@@ -130,7 +130,7 @@ Migration plan to next best alternative in case the proposed solution falls thro
 
 <a name="FurtherConsiderations"/>
 
-# 4. Further Considerations
+# 3. Further Considerations
 
 ## a. Impact on other teams
 
