@@ -9,7 +9,9 @@
 * Epic, ticket, issue, or task tracker reference link
 
 [Introduction](#Introduction)  
+
 [Solutions](#Solutions)
+
 [Further Considerations](#FurtherConsiderations)
 
 <a name="Introduction"/>
