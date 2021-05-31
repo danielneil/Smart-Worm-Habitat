@@ -14,7 +14,7 @@ The Smart Worm Farm will be a [continous flow system](https://urbanwormcompany.c
 With a little computer (nawwww) mounted externally, and with sensors located inside to record metrics. 
 
 #### Prototype Design: 
-[Worm farm design considerations](https://github.com/danielneil/Smart-Worm-Farm/blob/main/research/bin-design.md).
+[Worm Habitat Design Considerations](https://github.com/danielneil/Smart-Worm-Farm/blob/main/research/bin-design.md).
 
 ## Little Computer (nawwww)
 
