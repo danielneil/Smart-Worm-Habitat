@@ -79,11 +79,19 @@ eventually harvested from the bottom.
   <img src="https://github.com/danielneil/Smart-Worm-Habitat/blob/main/images/cf-bin.jpg?raw=true">
 </p>
 
+Continuous flow vermicomposting can be considered to be a raised bed or "flow-through" system. 
+
+Here the worms are fed an inch of "worm chow" across the top of the bed, and an inch of castings are harvested from below by pulling a breaker bar across the large mesh screen which forms the base of the bed.
+
 *Pros and cons of the current solution*
 
-The cons of the current design is that internal conditions of the bin require manual inspection to ensure they are optimal e.g. not too wet/dry/acidic, which makes using this method of vermiculture resource prohibitive   
+The cons of the current design is that internal conditions of the bin require manual inspection to ensure they are optimal e.g. not too wet/dry/acidic, which makes using this method of vermiculture resource prohibitive at large scale. 
+
+The pros of this design, is that its method of harvesting is easily automated, unlike Windrow composting, which (1) requires the ground underneath to be sealed, (2) requires machinery (like tractors), and (3) requires the periodically aerating. 
 
 ## b. Suggested or Proposed Solution / Design 
+
+The proposed solution is an extension of traditonal continuous flow vermicomposting, but with the inclusion of technology to automate the ardous tasks usually required of humans. 
 
 * External components that the solution will interact with and that it will alter
 * Dependencies of the current solution
