@@ -1,8 +1,9 @@
 
-# R&D Guide
+# Smart Worm Habitat - R&D Guide
+
 This doc is to help with R&D of our Smart Worm Habitat, so this this should be your first point of reference for getting to know the technicalities. 
 
-## Project Plan 
+## Project Battle Plan 
 [Project Timeline Document](https://github.com/danielneil/Smart-Worm-Habitat/blob/main/research/project-planning-checklist.MD).
 
 ## Techinical Design Considerations.
