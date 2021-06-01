@@ -86,6 +86,7 @@ Here the worms are fed an *inch(?)* of "worm chow" across the top of the bed, an
 <p align="center">
 <img src="https://github.com/danielneil/Smart-Worm-Habitat/blob/main/images/cf-bin-grate-underside.jpg?raw=true">
 <img src="https://github.com/danielneil/Smart-Worm-Bin/blob/main/images/cf-bin-grate.jpg?raw=true">
+<img src="https://github.com/danielneil/Smart-Worm-Bin/blob/main/images/winch.JPG?raw=true">
 </p>
 
 ### Habitat Size Calculations 
