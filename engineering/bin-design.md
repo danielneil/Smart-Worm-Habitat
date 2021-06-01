@@ -88,7 +88,9 @@ Here the worms are fed an *inch* of "worm chow" across the top of the bed, and a
 <img src="https://github.com/danielneil/Smart-Worm-Bin/blob/main/images/cf-bin-grate.jpg?raw=true">
 </p>
 
-### Habitat Calculations 
+### Habitat Size Calculations 
+
+The size of a standard continous flow system are used, and are included here for brevity. 
 
 #### Metrics for 1 unit of a modular system (Overall volume of the habitat). 
 
@@ -103,7 +105,7 @@ Constants:
 
 	Volume = 200cm x 150cm X 63.5cm 
 
-### Breaker Bar Calculations 
+### Volume of produce produced from a single Scrape  
 
 #### Metrics for 1 unit of a scrape (how much vermicast will a single scrape produce). 
 
