@@ -54,6 +54,8 @@ Traditional continuous flow worm bins require users to manually inspect the cond
 
 * Product and technical requirements that will be disregarded
 
+The design of the computer and associated software is not in scope of this document.
+
 ## f. Future Goals
 
 * Product and technical requirements slated for a future time
