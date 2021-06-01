@@ -47,7 +47,7 @@ The system will monitor specific items and send alerts whenever they go above or
 
 ## And it can watch them ;)
 
-An infrared camera will takes a happy snap every 30 minutes. 
+An infrared camera will takes a happy snap every 30 minutes, with its primary purpose to monitor worm feeding and migration patterns.
 
 P.s. they always go for the watermelon first. 
 
