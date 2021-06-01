@@ -103,12 +103,9 @@ Constants:
 
 ### Measurements Rectangle Prism Calculations ( Breaker Bar )
 
-Metrics for 1 unit of a scrape. 
+*Metrics for 1 unit of a scrape (how much vermicast will a scrape produce). 
 
-`
- Formula:
-
-	Volume =  Length x Width x Height
+`Volume =  Length x Width x Height`
 
  Constants:
 
