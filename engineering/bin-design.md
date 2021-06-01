@@ -90,7 +90,7 @@ Here the worms are fed an *inch* of "worm chow" across the top of the bed, and a
 
 ### Habitat Calculations 
 
-#### Metrics for 1 unit of a modular system (how much vermicast will a habitat hold). 
+#### Metrics for 1 unit of a modular system (Overall volume of the habitat). 
 
 Formula:
 	Volume =  Length x Width x Height (Rectangle Prism)  
