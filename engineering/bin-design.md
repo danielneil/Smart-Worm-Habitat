@@ -81,7 +81,9 @@ eventually harvested from the bottom.
 
 Continuous flow vermicomposting can be considered to be a raised bed or "flow-through" system. 
 
-Here the worms are fed an *inch(?)* of "worm chow" across the top of the bed, and an *inch(?)* of castings are harvested from below by pulling a breaker bar across the large mesh screen which forms the base of the bed. The breaker bar is connected via cicular length of wire which is driven my an electronic winch. 
+Here the worms are fed an *inch(?)* of "worm chow" across the top of the bed, and an *inch(?)* of castings are harvested from below by pulling a breaker bar across the large mesh screen which forms the base of the bed. 
+
+The breaker bar is connected via cicular length of wire which is driven my an electronic winch. 
 
 <p align="center">
 <img src="https://github.com/danielneil/Smart-Worm-Habitat/blob/main/images/cf-bin-grate-underside.jpg?raw=true">
