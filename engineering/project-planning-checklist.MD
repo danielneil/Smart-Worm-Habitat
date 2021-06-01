@@ -7,7 +7,7 @@
 
 ## Engineering Design and Requirements Analysis (Stage 2) 
 
-- [ ] Habitat - Detailed Design.
+- [ ] Smart Worm Habitat - Detailed Design.
 - [ ] Little Computer (nawwww) - Detailed Design.
 - [ ] Data Entry System - Detailed Design.
 - [ ] Alerting System - Detailed Design.
