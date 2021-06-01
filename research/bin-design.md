@@ -1,84 +1,268 @@
+# Detailed Design - Smart Worm Habitat
 
-# Smart Worm Habitat - Detailed Design
+* Title: Detailed Design for Smart Worm Habitat
+* Author(s): Daniel N
+* Team: NA
+* Reviewer(s): Anthony 
+* Created on: 01/06/2021
+* Last updated: NA
+* Epic, ticket, issue, or task tracker reference link: NA
 
-The Smart Worm Habitat is based on the premise of a continous flow vermicomposting system.
+# Table of Contents
+* [1. Introduction](#Introduction)
+* [2. Solutions](#Solutions)
+* [3. Further Considerations](#FurtherConsiderations)
+* [4. Success Evaluation](#SuccessEvaluation)
+* [5. Work](#Work)
+* [6. Deliberation](#Deliberation)
+* [7. End Matter](#EndMatter)
 
-## What is Continuous Flow Vermicomposting?
+<a name="Introduction"/>
 
-Continuous flow vermicomposting is a method of vermicomposting where composting worms are fed organic matter from the top and worm castings are 
-eventually harvested from the bottom. 
+# 1. Introduction
 
-This top-to-bottom "flow" allows for harvesting vermicast from the bottom while worms working in the top layers of the bin remain undisturbed.
+## a. Overview - Problem Description / Summary / Abstract
 
-## What exactly is the "Habitat"?
+*Summary of the problem (from the perspective of the user), the context, suggested solution, and the stakeholders.*
 
-Well, it is more like a rectangular prism without a bottom, and has a hinged top covering in order to give the worms some privacy ;).  
+## b. Glossary  or Terminology
 
-It might look something like this..
+*New terms you come across as you research your design or terms you may suspect your readers/stakeholders not to know.*
 
-<p align="center">
-  <img src="https://github.com/danielneil/Smart-Worm-Habitat/blob/main/images/cf-bin.jpg?raw=true">
-</p>
+## c. Context or Background
 
-The design aims to be modular, so it can be lengthed to allow for an increase in capacity.   
+* Reasons why the problem is worth solving
+* Origin of the problem
+* How the problem affects users and company goals
+* Past efforts made to solve the solution and why they were not effective
+* How the product relates to team goals, OKRs
+* How the solution fits into the overall product roadmap and strategy
+* How the solution fits into the technical strategy
 
-<p align="center">
-  <img src="https://github.com/danielneil/Smart-Worm-Bin/blob/main/images/cf-bin-long.jpg?raw=true">
-</p>
+## d. Goals or Product and Technical Requirements
 
-## The bottom (or lack thereof)
+* Product requirements in the form of user stories 
+* Technical requirements
 
-The bin is bottomless, and instead has a steel mesh/grate which stops the vermicast from falling out.
+## e. Non-Goals or Out of Scope
 
-<p align="center">
-	  <img src="https://github.com/danielneil/Smart-Worm-Habitat/blob/main/images/cf-bin-grate-underside.jpg?raw=true">
-</p>
+* Product and technical requirements that will be disregarded
 
-## The breaker bar
+## f. Future Goals
 
-A cutting or “breaker” bar is pushed or pulled just above the mesh, releasing the bottom 1-2 inches of finished vermicompost through the mesh to the floor or conveyor below.
+* Product and technical requirements slated for a future time
 
-<p align="center">
-<img src="https://github.com/danielneil/Smart-Worm-Bin/blob/main/images/cf-bin-grate.jpg?raw=true">
-</p>
+## g. Assumptions
 
-Ideally, the breaker bar can be raised or lowered several inches, to increase the size of the "cut". 
+*Conditions and resources that need to be present and accessible for the solution to work as described.*
 
-## The winch
+<a name="Solutions"/>
 
-The breaker bar is pulled by an electric or hydraulically powered winch, which drags the breaker bar, end-to-end, using a long length of thick wire.
+# 2. Solutions
 
-## Design Drafting 
+## a. Current or Existing Solution / Design
 
-### Rectangle Prism (Bin) Calculations 
+* Current solution description
+* Pros and cons of the current solution
 
-Metrics for 1 unit of a modular system. 
+## b. Suggested or Proposed Solution / Design 
 
-Formula:
-	Volume =  Length x Width x Height 
+* External components that the solution will interact with and that it will alter
+* Dependencies of the current solution
+* Pros and cons of the proposed  solution 
+* Data Model / Schema Changes
+* Schema definitions
+* New data models
+* Modified data models
+* Data validation methods
+* Business Logic
+* API changes
+* Pseudocode
+* Flowcharts
+* Error states
+* Failure scenarios
+* Conditions that lead to errors and failures
+* Limitations
+* Presentation Layer
+* User requirements
+* UX changes
+* UI changes
+* Wireframes with descriptions
+* Links to UI/UX designer’s work
+* Mobile concerns
+* Web concerns
+* UI states
+* Error handling
+* Other questions to answer
+* How will the solution scale?
+* What are the limitations of the solution?
+* How will it recover in the event of a failure?
+* How will it cope with future requirements?
 
-Constants:
-	Height: 63.5cm (Height based on worm behavior) 
-	Width: 150cm 
-	Length: 200cm
-	Therefore 
+## c. Test Plan
 
-	Volume = 200cm x 150cm X 63.5cm
+* Explanations of how the tests will make sure user requirements are met
+* Unit tests
+* Integrations tests
+* QA
 
-### Bin Measurements Rectangle Prism Calculations ( Breaker Bar )
+## d. Monitoring and Alerting Plan 
 
-Metrics for 1 unit of a scrape. 
+* Logging plan and tools
+* Monitoring plan and tools
+* Metrics to be used to measure health
+* How to ensure observability
+* Alerting plan and tools
 
-Formula:
-	Volume =  Length x Width x Height 
-1350 
-Constants:
-	Height: 8cm (Height based on worm behavior) 
-	Width: 150cm 
-	Length: 200cm
-	Therefore 
+## e. Release / Roll-out and Deployment Plan
 
-	Volume = 200cm x 150cm X 8cm
+* Deployment architecture 
+* Deployment environments
+* Phased roll-out plan e.g. using feature flags
+* Plan outlining how to communicate changes to the users, for example, with release notes
 
+## f. Rollback Plan
 
-** Include the autocad designs of the bin
+* Detailed and specific liabilities 
+* Plan to reduce liabilities
+* Plan describing how to prevent other components, services, and systems from being affected
+
+## g. Alternate Solutions / Designs
+
+* Short summary statement for each alternative solution
+* Pros and cons for each alternative
+* Reasons why each solution couldn’t work 
+* Ways in which alternatives were inferior to the proposed solution
+* Migration plan to next best alternative in case the proposed solution falls through
+
+<a name="FurtherConsiderations"/>
+
+# 3. Further Considerations
+
+## a. Impact on other teams
+
+*How will this increase the work of other people?*
+
+## b. Third-party services and platforms considerations
+
+* Is it really worth it compared to building the service in-house?
+* What are some of the security and privacy concerns associated with the services/platforms?
+* How much will it cost?
+* How will it scale?
+* What possible future issues are anticipated? 
+
+## c. Cost analysis
+
+* What is the cost to run the solution per day?
+* What does it cost to roll it out? 
+
+## d. Security considerations
+
+* What are the potential threats?
+* How will they be mitigated?
+* How will the solution affect the security of other components, services, and systems?
+
+## e. Privacy considerations
+
+* Does the solution follow local laws and legal policies on data privacy?
+* How does the solution protect users’ data privacy?
+* What are some of the tradeoffs between personalization and privacy in the solution? 
+
+## f. Regional considerations
+
+* What is the impact of internationalization and localization on the solution?
+* What are the latency issues?
+* What are the legal concerns?
+* What is the state of service availability?
+* How will data transfer across regions be achieved and what are the concerns here? 
+
+## g. Accessibility considerations
+
+* How accessible is the solution?
+* What tools will you use to evaluate its accessibility? 
+
+## h. Operational considerations
+
+* Does this solution cause adverse aftereffects?
+* How will data be recovered in case of failure?
+* How will the solution recover in case of a failure?
+* How will operational costs be kept low while delivering increased value to the users? 
+
+## i. Risks
+
+* What risks are being undertaken with this solution?
+* Are there risks that once taken can’t be walked back?
+* What is the cost-benefit analysis of taking these risks? 
+
+## j. Support considerations
+
+* How will the support team get across information to users about common issues they may face while interacting with the changes?
+* How will we ensure that the users are satisfied with the solution and can interact with it with minimal support?
+* Who is responsible for the maintenance of the solution?
+* How will knowledge transfer be accomplished if the project owner is unavailable? 
+
+<a name="SuccessEvaluation"/>
+
+# 5. Success Evaluation
+
+## a. Impact
+
+* Security impact
+* Performance impact
+* Cost impact
+* Impact on other components and services
+
+## b. Metrics
+
+* List of metrics to capture
+* Tools to capture and measure metrics
+
+<a name="Work"/>
+
+# 6. Work
+
+## a. Work estimates and timelines
+
+* List of specific, measurable, and time-bound tasks
+* Resources needed to finish each task
+* Time estimates for how long each task needs to be completed
+
+## b. Prioritization
+
+* Categorization of tasks by urgency and impact
+
+## c. Milestones
+
+* Dated checkpoints when significant chunks of work will have been completed
+* Metrics to indicate the passing of the milestone
+
+## d. Future work
+
+* List of tasks that will be completed in the future
+
+<a name="Deliberation"/>
+
+# 7. Deliberation
+
+## a. Discussion
+
+* Elements of the solution that members of the team do not agree on and need to be debated further to reach a consensus.
+
+## b. Open Questions
+
+*Questions about things you do not know the answers to or are unsure that you pose to the team and stakeholders for their input. These may include aspects of the problem you don’t know how to resolve yet.*
+
+<a name="EndMatter"/>
+
+# 8. End Matter
+
+## a. Related Work
+
+*Any work external to the proposed solution that is similar to it in some way and is worked on by different teams. It’s important to know this to enable knowledge sharing between such teams when faced with related problems.* 
+## b. References
+
+Links to documents and resources that you used when coming up with your design and wish to credit. 
+
+## c. Acknowledgments
+
+Credit people who have contributed to the design that you wish to recognize.
