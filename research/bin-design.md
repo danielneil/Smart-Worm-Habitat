@@ -105,7 +105,9 @@ Constants:
 
 *Metrics for 1 unit of a scrape (how much vermicast will a scrape produce). 
 
-`Volume =  Length x Width x Height`
+`
+Volume =  Length x Width x Height
+`
 
  Constants:
 
