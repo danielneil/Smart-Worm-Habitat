@@ -68,7 +68,7 @@ Traditional continuous flow worm bins require users to manually inspect the cond
 
 ## a. Current or Existing Solution / Design
 
-*Current solution description
+* Current solution description
 
 Continuous flow vermicomposting is a method of vermicomposting where composting worms are fed organic matter from the top and worm castings are 
 eventually harvested from the bottom. 
