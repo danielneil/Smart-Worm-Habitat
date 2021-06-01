@@ -146,34 +146,19 @@ It will monitor the following specifics of the Habitat:
 It will not alter/interfere with the habitat in anyway, it will merely "watch" it. 
 
 *Dependencies of the current solution
-*Pros and cons of the proposed  solution 
-*Data Model / Schema Changes
-*Schema definitions
-*New data models
-*Modified data models
-*Data validation methods
-*Business Logic
-*API changes
-*Pseudocode
-*Flowcharts
-*Error states
-*Failure scenarios
-*Conditions that lead to errors and failures
-*Limitations
-*Presentation Layer
+
+The current solution requires an appropriate environment in regards to its optimal operation. Namely temp, pH, moisture.
+
+The Habitat also requires regular input (feeding) to ensure the worms have adequate nutrition in regards to their replication characteristics.  
+
+*Pros and cons of the proposed solution 
+
+There is no way (other than via ardous process) to monitor temp, pH, moisture.
+
 *User requirements
-*UX changes
-*UI changes
-*Wireframes with descriptions
-*Links to UI/UX designer’s work
-*Mobile concerns
-*Web concerns
-*UI states
-*Error handling
-*Other questions to answer
+*Transportation concerns
 *How will the solution scale?
 *What are the limitations of the solution?
-*How will it recover in the event of a failure?
 *How will it cope with future requirements?
 
 ## c. Test Plan
