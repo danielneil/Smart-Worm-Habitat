@@ -45,7 +45,7 @@ The software will also provide a data entry tool to record the weights of input 
 
 The system will monitor specific items and alert workers whenever they go above or below the declared thresholds.
 
-The alerts will be a WebUI tool coupled with email notification. 
+The alerts will be a pretty WebUI  coupled with email notification. 
 
 ## And it can watch them ;)
 
