@@ -25,9 +25,17 @@
 
 *Summary of the problem (from the perspective of the user), the context, suggested solution, and the stakeholders.*
 
+The problem: 
+
+How can one monitor a continuous flow worm system to ensure internal conditions encourage worm procreation and their ability to consume food waste and convert it into vermicast.
+
+Traditional continuous flow worm bins require users to manually inspect the conditions of the bin, this is mutually exclusive with performing vermiculture at large scale. The Smart Worm Habitat will utilise computer technology to monitor and alert users when the conditions of the habtitat are suboptimal. 
+
 ## b. Glossary  or Terminology
 
 *New terms you come across as you research your design or terms you may suspect your readers/stakeholders not to know.*
+
+
 
 ## c. Context or Background
 
