@@ -35,8 +35,6 @@ Traditional continuous flow worm bins require users to manually inspect the cond
 
 *New terms you come across as you research your design or terms you may suspect your readers/stakeholders not to know.*
 
-
-
 ## c. Context or Background
 
 * Reasons why the problem is worth solving
@@ -84,15 +82,48 @@ Continuous flow vermicomposting can be considered to be a raised bed or "flow-th
 Here the worms are fed an *inch* of "worm chow" across the top of the bed, and an inch of castings are harvested from below by pulling a breaker bar across the large mesh screen which forms the base of the bed.
 
 <p align="center">
-	  <img src="https://github.com/danielneil/Smart-Worm-Habitat/blob/main/images/cf-bin-grate-underside.jpg?raw=true">
-    <img src="https://github.com/danielneil/Smart-Worm-Bin/blob/main/images/cf-bin-grate.jpg?raw=true">
+<img src="https://github.com/danielneil/Smart-Worm-Habitat/blob/main/images/cf-bin-grate-underside.jpg?raw=true">
+<img src="https://github.com/danielneil/Smart-Worm-Bin/blob/main/images/cf-bin-grate.jpg?raw=true">
 </p>
+
+### Habitat Calculations - (Rectangle Prism)  
+
+Metrics for 1 unit of a modular system. 
+
+Formula:
+	Volume =  Length x Width x Height 
+
+Constants:
+	Height: 63.5cm (Height based on worm behavior) 
+	Width: 150cm 
+	Length: 200cm
+	Therefore 
+
+	Volume = 200cm x 150cm X 63.5cm
+
+### Measurements Rectangle Prism Calculations ( Breaker Bar )
+
+Metrics for 1 unit of a scrape. 
+
+`Formula:
+	Volume =  Length x Width x Height 
+1350 
+Constants:
+	Height: 8cm (Height based on worm behavior) 
+	Width: 150cm 
+	Length: 200cm
+	Therefore 
+
+	Volume = 200cm x 150cm X 8cm
+
+** Include the cad designs of the bin
+`
 
 *Pros and cons of the current solution
 
-The cons of the current design is that internal conditions of the bin require manual inspection to ensure they are optimal e.g. not too wet/dry/acidic, which makes using this method of vermiculture resource prohibitive at large scale. 
-
 The pros of this design, is that its method of harvesting is easily automated, unlike Windrow composting, which (1) requires the ground underneath to be sealed, (2) requires machinery (like tractors), and (3) requires periodically aerating the compost. 
+
+The cons of the current design is that internal conditions of the bin require manual inspection to ensure they are optimal e.g. not too wet/dry/acidic, which makes using this method of vermiculture resource prohibitive at large scale. 
 
 ## b. Suggested or Proposed Solution / Design 
 
