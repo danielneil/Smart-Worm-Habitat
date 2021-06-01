@@ -187,15 +187,17 @@ The Habitat also requires regular input (feeding) to ensure the worms have adequ
 
 ## f. Rollback Plan
 
-* Detailed and specific liabilities 
+*Detailed and specific liabilities 
 
 NA
 
-* Plan to reduce liabilities
+*Plan to reduce liabilities
 
 NA
 
-* Plan describing how to prevent other components, services, and systems from being affected
+*Plan describing how to prevent other components, services, and systems from being affected
+
+NA
 
 ## g. Alternate Solutions / Designs
 
