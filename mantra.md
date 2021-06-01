@@ -4,15 +4,15 @@
 
 We need to move towards circular economies, and away from the take-make-waste model to something far more environmentally responsible/sustainable. 
 
-One of the ways we can be more environmentally responsible, is to use worms to process food waste and save it from entering landfill, and save it from ending up as methane in the atmosphere! 
+One of the ways we can be more environmentally responsible, is to use worms to process food waste and save it from entering landfill, and save it from ending up as methane in the atmosphere.
 
 Worms have been on the planet for over 200 million years (they're about as old as mammals and dinosaurs), and they provide us with a wonderful service in their ability to consume green waste and turn it into the best fertiliser known to mankind - vermicast!
 
 Worms are like us, they need specific conditions to thrive, so this project strives to enable worm farmers to manage the conditions of their worm farms to ensure their optimal operation. 
 
-# Food Waste Facts
+# Food waste is a wicked problem.
 
-These items were referenced from https://www.ozharvest.org/sustainability/food-waste-facts/. 
+"A wicked problem is a social or cultural problem that is difficult or impossible to solve for as many as four reasons: incomplete or contradictory knowledge, the number of people and opinions involved, the large economic burden, and the interconnected nature of these problems with other problems."
 
 ## Global Waste Facts
 
@@ -101,3 +101,6 @@ These items were referenced from https://www.ozharvest.org/sustainability/food-w
 **3 in 10 Australians experiencing food insecurity had not gone hungry before the pandemic. Young people are being hardest hit by the impact of Covid-19.**
 
 (Source: FoodBank Hunger Report 2020)
+
+These items were referenced from https://www.ozharvest.org/sustainability/food-waste-facts/. 
+
