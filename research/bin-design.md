@@ -70,7 +70,7 @@ Traditional continuous flow worm bins require users to manually inspect the cond
 
 ## a. Current or Existing Solution / Design
 
-*Current solution description* 
+*Current solution description
 
 Continuous flow vermicomposting is a method of vermicomposting where composting worms are fed organic matter from the top and worm castings are 
 eventually harvested from the bottom. 
@@ -81,13 +81,18 @@ eventually harvested from the bottom.
 
 Continuous flow vermicomposting can be considered to be a raised bed or "flow-through" system. 
 
-Here the worms are fed an inch of "worm chow" across the top of the bed, and an inch of castings are harvested from below by pulling a breaker bar across the large mesh screen which forms the base of the bed.
+Here the worms are fed an *inch* of "worm chow" across the top of the bed, and an inch of castings are harvested from below by pulling a breaker bar across the large mesh screen which forms the base of the bed.
 
-*Pros and cons of the current solution*
+<p align="center">
+	  <img src="https://github.com/danielneil/Smart-Worm-Habitat/blob/main/images/cf-bin-grate-underside.jpg?raw=true">
+    <img src="https://github.com/danielneil/Smart-Worm-Bin/blob/main/images/cf-bin-grate.jpg?raw=true">
+</p>
+
+*Pros and cons of the current solution
 
 The cons of the current design is that internal conditions of the bin require manual inspection to ensure they are optimal e.g. not too wet/dry/acidic, which makes using this method of vermiculture resource prohibitive at large scale. 
 
-The pros of this design, is that its method of harvesting is easily automated, unlike Windrow composting, which (1) requires the ground underneath to be sealed, (2) requires machinery (like tractors), and (3) requires the periodically aerating. 
+The pros of this design, is that its method of harvesting is easily automated, unlike Windrow composting, which (1) requires the ground underneath to be sealed, (2) requires machinery (like tractors), and (3) requires periodically aerating the compost. 
 
 ## b. Suggested or Proposed Solution / Design 
 
