@@ -105,13 +105,12 @@ Constants:
 
 Metrics for 1 unit of a scrape. 
 
-`Formula:
+`
+ Formula:
 
-	Volume =  Length x Width x Height 
+	Volume =  Length x Width x Height
 
-1350 
-
-Constants:
+ Constants:
 
  Height: 8cm (Height based on worm behavior) 
 
@@ -122,7 +121,8 @@ Constants:
  Therefore 
 
 
- Volume = 200cm x 150cm X 8cm`
+ Volume = 200cm x 150cm X 8cm
+`
  
  
 *Pros and cons of the current solution
