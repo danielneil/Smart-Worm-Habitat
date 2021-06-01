@@ -58,7 +58,7 @@ The design of the computer and associated software is not in scope of this docum
 
 ## f. Future Goals
 
-* Product and technical requirements slated for a future time
+*Product and technical requirements slated for a future time
 
 ## g. Assumptions
 
@@ -188,7 +188,13 @@ The Habitat also requires regular input (feeding) to ensure the worms have adequ
 ## f. Rollback Plan
 
 * Detailed and specific liabilities 
+
+NA
+
 * Plan to reduce liabilities
+
+NA
+
 * Plan describing how to prevent other components, services, and systems from being affected
 
 ## g. Alternate Solutions / Designs
