@@ -104,7 +104,7 @@ Given that modern computers now come in small configurations and are much more a
 
 *Product and technical requirements that will be disregarded*
 
-NA
+Software specifications, though spoken of at a high level, will not be included in this design. 
 
 ## f. Future Goals
 
