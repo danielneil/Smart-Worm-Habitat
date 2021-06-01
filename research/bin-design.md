@@ -29,7 +29,7 @@
 
 How can one monitor a continuous flow worm system to ensure internal conditions encourage worm procreation and their ability to consume food waste and convert it into vermicast.
 
-Traditional continuous flow worm bins require users to manually inspect the conditions of the bin, this is mutually exclusive with performing vermiculture at large scale. The Smart Worm Habitat will utilise computer technology to monitor and alert users when the conditions of the habtitat are suboptimal. The Smart Worm Habitat will be an improvement on the traditional continuous flow design. 
+Traditional continuous flow worm bins require users to manually inspect the conditions of the bin, this is mutually exclusive with performing vermiculture at large scale. The Smart Worm Habitat will utilise computer technology to monitor and alert users when the conditions of the habtitat are suboptimal. 
 
 ## b. Glossary  or Terminology
 
@@ -70,8 +70,18 @@ Traditional continuous flow worm bins require users to manually inspect the cond
 
 ## a. Current or Existing Solution / Design
 
-* Current solution description
-* Pros and cons of the current solution
+*Current solution description* 
+
+Continuous flow vermicomposting is a method of vermicomposting where composting worms are fed organic matter from the top and worm castings are 
+eventually harvested from the bottom. 
+
+<p align="center">
+  <img src="https://github.com/danielneil/Smart-Worm-Habitat/blob/main/images/cf-bin.jpg?raw=true">
+</p>
+
+*Pros and cons of the current solution*
+
+The cons of the current design is that internal conditions of the bin require manual inspection to ensure they are optimal e.g. not too wet/dry/acidic, which makes using this method of vermiculture resource prohibitive   
 
 ## b. Suggested or Proposed Solution / Design 
 
