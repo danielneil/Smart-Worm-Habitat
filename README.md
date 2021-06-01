@@ -55,5 +55,5 @@ P.s. they always go for the watermelon first.
 
 ## Want to help? 
 
-1. If you wish to participate in R&D, read the [guide](https://github.com/danielneil/Smart-Worm-Habitat/tree/main/research).
-2. Or please consider giving us a donation - [gofund.me campaign](https://gofund.me/1dbc1ac6).
+1. If you wish to participate in R&D, read the [guide](https://github.com/danielneil/Smart-Worm-Habitat/tree/main/engineering).
+2. Or please consider giving a donation - [gofund.me campaign](https://gofund.me/1dbc1ac6).
