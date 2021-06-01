@@ -131,9 +131,20 @@ The cons of the current design is that internal conditions of the bin require ma
 
 ## b. Suggested or Proposed Solution / Design 
 
-The proposed solution is an extension of traditonal continuous flow vermicomposting, but with the inclusion of technology to automate the ardous tasks usually required of humans. 
+The proposed solution is an extension of traditonal continuous flow vermicomposting with the inclusion of technology to automate the ardous tasks usually required of humans. 
 
 *External components that the solution will interact with and that it will alter*
+
+The computer will interact with the worm bin directly 
+
+It will monitor the following specifics of the Habitat:
+* Internal Temp
+* External Temp
+* Habitat Moisture
+* pH level
+
+It will not alter/interfere with the habitat in anyway, it will merely "watch" it. 
+
 *Dependencies of the current solution
 *Pros and cons of the proposed  solution 
 *Data Model / Schema Changes
