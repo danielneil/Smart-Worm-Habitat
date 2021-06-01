@@ -29,7 +29,7 @@ The problem:
 
 How can one monitor a continuous flow worm system to ensure internal conditions encourage worm procreation and their ability to consume food waste and convert it into vermicast.
 
-Traditional continuous flow worm bins require users to manually inspect the conditions of the bin, this is mutually exclusive with performing vermiculture at large scale. The Smart Worm Habitat will utilise computer technology to monitor and alert users when the conditions of the habtitat are suboptimal. 
+Traditional continuous flow worm bins require users to manually inspect the conditions of the bin, this is mutually exclusive with performing vermiculture at large scale. The Smart Worm Habitat will utilise computer technology to monitor and alert users when the conditions of the habtitat are suboptimal. The Smart Worm Habitat will be an improvement on the traditional continuous flow design. 
 
 ## b. Glossary  or Terminology
 
