@@ -2,8 +2,8 @@
 
 ## GoFund Me Campaign (Stage 1) 
 
-- [ ] Create GoFund me campaign
-- [ ] Publish to social media
+- [x] Create GoFund me campaign
+- [x] Publish to social media (facebook, reddit, etc)
 
 ## Engineering Design and Requirements Analysis (Stage 2) 
 
