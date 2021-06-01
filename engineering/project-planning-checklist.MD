@@ -23,7 +23,7 @@
  - [ ] Withdraw funds from GoFund me campaing, and offset the difference (if any) with personal contributions.
  - [ ] Publish projected costs and other financials to Github for community visiability.
  - [ ] Organise delivery/collection of the Smart Worm Habitat upon completion. 
- - [ ] Installation of the Smart Worm Habitat prototype in testing facility.  
+ - [ ] Installation of the Smart Worm Habitat prototype in testing facility (Daniel's Basement).  
 
 ## Computer and Sensor Hardware Procurement (Stage 4)
 
