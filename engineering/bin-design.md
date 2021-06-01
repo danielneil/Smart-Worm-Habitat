@@ -25,7 +25,7 @@
 
 *Summary of the problem (from the perspective of the user), the context, suggested solution, and the stakeholders.*
 
-*The problem: 
+**The problem:** 
 
 How can one monitor a continuous flow worm system to ensure internal conditions encourage worm procreation and their ability to consume food waste and convert it into vermicast.
 
