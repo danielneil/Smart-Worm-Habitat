@@ -1,6 +1,6 @@
 # Why Create a Smart Worm Habitat?
 
-*8% of greenhouse gases heating the planet are caused by food waste. (Source: FAO Food Wastage Footprint Report 2013)
+**8% of greenhouse gases heating the planet are caused by food waste. (Source: FAO Food Wastage Footprint Report 2013)**
 
 We need to move towards circular economies, and away from the take-make-waste model to something far more environmentally responsible/sustainable. 
 
