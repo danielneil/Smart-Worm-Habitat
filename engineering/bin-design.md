@@ -108,7 +108,7 @@ Constants:
 
 	Volume = 200cm x 150cm X 63.5cm 
 
-### Volume of produce produced from a single Scrape  
+#### Volume of product produced from a single scrape  
 
 #### Metrics for 1 unit of a scrape (how much vermicast will a single scrape produce). 
 
