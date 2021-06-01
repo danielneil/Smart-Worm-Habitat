@@ -153,12 +153,14 @@ The Habitat also requires regular input (feeding) to ensure the worms have adequ
 
 *Pros and cons of the proposed solution 
 
-There is no way (other than via ardous process) to monitor temp, pH, moisture.
-
 *User requirements
+
 *Transportation concerns
+
 *How will the solution scale?
+
 *What are the limitations of the solution?
+
 *How will it cope with future requirements?
 
 ## c. Test Plan
