@@ -88,12 +88,12 @@ Here the worms are fed an *inch* of "worm chow" across the top of the bed, and a
 <img src="https://github.com/danielneil/Smart-Worm-Bin/blob/main/images/cf-bin-grate.jpg?raw=true">
 </p>
 
-### Habitat Calculations - (Rectangle Prism)  
+### Habitat Calculations 
 
 #### Metrics for 1 unit of a modular system (how much vermicast will a habitat hold). 
 
 Formula:
-	Volume =  Length x Width x Height 
+	Volume =  Length x Width x Height (Rectangle Prism)  
 
 Constants:
 	Height: 63.5cm (Height based on worm behavior) 
@@ -101,14 +101,14 @@ Constants:
 	Length: 200cm
 	Therefore 
 
-	Volume = 200cm x 150cm X 63.5cm
+	Volume = 200cm x 150cm X 63.5cm 
 
-### Measurements Rectangle Prism Calculations ( Breaker Bar )
+### Breaker Bar Calculations 
 
-#### Metrics for 1 unit of a scrape (how much vermicast will a scrape produce). 
+#### Metrics for 1 unit of a scrape (how much vermicast will a single scrape produce). 
 
 Formula:
-	Volume =  Length x Width x Height 
+	Volume =  Length x Width x Height (Rectangle Prism)  
 
 Constants:
 	Height: 8cm (Height based on worm behavior) 
