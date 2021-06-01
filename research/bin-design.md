@@ -88,7 +88,7 @@ Here the worms are fed an *inch* of "worm chow" across the top of the bed, and a
 
 ### Habitat Calculations - (Rectangle Prism)  
 
-* Metrics for 1 unit of a modular system (how much vermicast will a habitat hold). 
+#### Metrics for 1 unit of a modular system (how much vermicast will a habitat hold). 
 
 Formula:
 	Volume =  Length x Width x Height 
@@ -103,7 +103,7 @@ Constants:
 
 ### Measurements Rectangle Prism Calculations ( Breaker Bar )
 
-* Metrics for 1 unit of a scrape (how much vermicast will a scrape produce). 
+#### Metrics for 1 unit of a scrape (how much vermicast will a scrape produce). 
 
 Formula:
 	Volume =  Length x Width x Height 
