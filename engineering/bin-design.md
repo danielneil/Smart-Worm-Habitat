@@ -95,7 +95,7 @@ The breaker bar is connected via circular length of wire which is driven my an e
 
 The size of a standard continous flow system are used, and are included here for brevity. 
 
-#### Metrics for 1 unit of the habitat (Overall volume of one module of the habitat). 
+#### Metrics for 1 unit of habitat (Overall volume of one module of the habitat). 
 
 Formula:
 	Volume =  Length x Width x Height (Rectangle Prism)  
@@ -116,7 +116,7 @@ Formula:
 	Volume =  Length x Width x Height (Rectangle Prism)  
 
 Constants:
-	Height: 8cm (Height based on worm behavior) 
+	Height: 8cm(?) (Height based on worm behavior) 
 	Width: 150cm 
 	Length: 200cm
 	Therefore 
@@ -133,37 +133,37 @@ The cons of the current design is that internal conditions of the bin require ma
 
 The proposed solution is an extension of traditonal continuous flow vermicomposting, but with the inclusion of technology to automate the ardous tasks usually required of humans. 
 
-* External components that the solution will interact with and that it will alter
-* Dependencies of the current solution
-* Pros and cons of the proposed  solution 
-* Data Model / Schema Changes
-* Schema definitions
-* New data models
-* Modified data models
-* Data validation methods
-* Business Logic
-* API changes
-* Pseudocode
-* Flowcharts
-* Error states
-* Failure scenarios
-* Conditions that lead to errors and failures
-* Limitations
-* Presentation Layer
-* User requirements
-* UX changes
-* UI changes
-* Wireframes with descriptions
-* Links to UI/UX designer’s work
-* Mobile concerns
-* Web concerns
-* UI states
-* Error handling
-* Other questions to answer
-* How will the solution scale?
-* What are the limitations of the solution?
-* How will it recover in the event of a failure?
-* How will it cope with future requirements?
+*External components that the solution will interact with and that it will alter*
+*Dependencies of the current solution
+*Pros and cons of the proposed  solution 
+*Data Model / Schema Changes
+*Schema definitions
+*New data models
+*Modified data models
+*Data validation methods
+*Business Logic
+*API changes
+*Pseudocode
+*Flowcharts
+*Error states
+*Failure scenarios
+*Conditions that lead to errors and failures
+*Limitations
+*Presentation Layer
+*User requirements
+*UX changes
+*UI changes
+*Wireframes with descriptions
+*Links to UI/UX designer’s work
+*Mobile concerns
+*Web concerns
+*UI states
+*Error handling
+*Other questions to answer
+*How will the solution scale?
+*What are the limitations of the solution?
+*How will it recover in the event of a failure?
+*How will it cope with future requirements?
 
 ## c. Test Plan
 
