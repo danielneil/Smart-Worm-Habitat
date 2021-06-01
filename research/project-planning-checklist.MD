@@ -33,11 +33,12 @@
 - [ ] Procure pH sensor.
 - [ ] Procure infred camera. 
 - [ ] Procure appropriate computer->sensor connection mediums (usb cables).
+- [ ] Publish reciepts and/or other financials to Github for community visiability.
 
 ## Software Development - Development Environment (Stage 5)
 
-- [ ] Create of an appropriate virtualised software development environment.
-- [ ] Build raspberry standard pi image.
+- [ ] Create an appropriate virtualised software development environment.
+- [ ] Build raspberry standard raspberry pi image.
 - [ ] Publish build artifacts to github.
 
 ## Software Development - Alert System (Stage 6)
