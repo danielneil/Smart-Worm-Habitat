@@ -83,7 +83,7 @@ Continuous flow vermicomposting can be considered to be a raised bed or "flow-th
 
 Here the worms are fed an *inch(?)* of "worm chow" across the top of the bed, and an *inch(?)* of castings are harvested from below by pulling a breaker bar across the large mesh screen which forms the base of the bed. 
 
-The breaker bar is connected via cicular length of wire which is driven my an electronic winch. 
+The breaker bar is connected via circular length of wire which is driven my an electronic winch. 
 
 <p align="center">
 <img src="https://github.com/danielneil/Smart-Worm-Habitat/blob/main/images/cf-bin-grate-underside.jpg?raw=true">
@@ -95,7 +95,7 @@ The breaker bar is connected via cicular length of wire which is driven my an el
 
 The size of a standard continous flow system are used, and are included here for brevity. 
 
-#### Metrics for 1 unit of a modular system (Overall volume of the habitat). 
+#### Metrics for 1 unit of the habitat (Overall volume of one module of the habitat). 
 
 Formula:
 	Volume =  Length x Width x Height (Rectangle Prism)  
