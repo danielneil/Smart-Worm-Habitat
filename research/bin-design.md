@@ -106,19 +106,25 @@ Constants:
 Metrics for 1 unit of a scrape. 
 
 `Formula:
+
 	Volume =  Length x Width x Height 
+
 1350 
+
 Constants:
-	Height: 8cm (Height based on worm behavior) 
-	Width: 150cm 
-	Length: 200cm
-	Therefore 
 
-	Volume = 200cm x 150cm X 8cm
+ Height: 8cm (Height based on worm behavior) 
 
-** Include the cad designs of the bin
-`
+ Width: 150cm 
 
+ Length: 200cm
+
+ Therefore 
+
+
+ Volume = 200cm x 150cm X 8cm`
+ 
+ 
 *Pros and cons of the current solution
 
 The pros of this design, is that its method of harvesting is easily automated, unlike Windrow composting, which (1) requires the ground underneath to be sealed, (2) requires machinery (like tractors), and (3) requires periodically aerating the compost. 
