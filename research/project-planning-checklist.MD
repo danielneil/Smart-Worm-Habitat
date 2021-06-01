@@ -7,23 +7,23 @@
 
 ## Engineering Design and Requirements Analysis (Stage 2) 
 
-- [ ] Detailed Designs.
- - [ ] Habitat - Detailed Design.
- - [ ] Little Computer (nawwww) - Detailed Design.
- - [ ] Data Entry System - Detailed Design.
- - [ ] Alerting System - Detailed Design.
- - [ ] Sensors - Detailed Design.
-- [ ] Habitat - CAD Drafts.
+- [ ] Habitat - Detailed Design.
+- [ ] Little Computer (nawwww) - Detailed Design.
+- [ ] Data Entry System - Detailed Design.
+- [ ] Alerting System - Detailed Design.
+- [ ] Sensors - Detailed Design.
+- [ ] Habitat - CAD draft production.
 
 ## Smart Worm Habitat Construction (Stage 3)
  
  - [ ] Approach engineering firm with Smart Worm Habitat cad drafts. 
-  - [ ] Obtain quote for time and materials.
-  - [ ] Obtain timelime estimation of construction from engineering firm.
- - [ ] Publish projected timeline for Smart Worm Habitat construction.
- - [ ] Withdraw funds from go fund me campaing, and offset the difference (if any) with personal funds.
+ - [ ] Obtain quote for time and materials from.
+ - [ ] Obtain timelime estimation of construction from engineering firm.
+ - [ ] Publish projected timeline for Smart Worm Habitat construction to GitHub.
+ - [ ] Withdraw funds from GoFund me campaing, and offset the difference (if any) with personal contributions.
  - [ ] Publish projected costs and other financials to Github for community visiability.
  - [ ] Organise delivery/collection of the Smart Worm Habitat upon completion. 
+ - [ ] Installation of the Smart Worm Habitat prototype in testing facility.  
 
 ## Computer and Sensor Hardware Procurement (Stage 4)
 
