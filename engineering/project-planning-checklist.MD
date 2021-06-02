@@ -7,6 +7,7 @@
 
 ## Engineering Design and Requirements Analysis (Stage 2) 
 
+- [ ] Continuous Flow worm bin - Detailed Design.
 - [ ] Smart Worm Habitat - Detailed Design.
 - [ ] Little Computer (nawwww) - Detailed Design.
 - [ ] Data Entry System - Detailed Design.
