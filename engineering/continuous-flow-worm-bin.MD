@@ -1,6 +1,6 @@
-# Detailed Design - Traditional Continous Flow Through (CFT) Worm Bin
+# Detailed Design - Continous Flow Through (CFT) Worm Bin
 
-* Title: Detailed Design for a Traditional Continous Flow Through (CFT) Worm Bin
+* Title: Detailed Design for a Continous Flow Through (CFT) Worm Bin
 * Author(s): Daniel N Hodder
 * Team: NA
 * Reviewer(s):  
@@ -142,11 +142,13 @@ The unit will be supported by legs which effectively raise the bed to allow for 
 	The legs will raise the bed 40cm off the ground.
 	The legs will have wheels on the bottom to assist in movement of the CFT.
 
+The walls of the CFT will 
+
 ##### Materials
 
 	Frame to be contructed of steel square tube  (galvanised or painted) 
 	Mesh/grates to be galvanised steel
-	Walls to be contructed from 
+	Walls to be contructed from polyprolene
 
 #### Dimensions of the breaker bar and cable
 
@@ -161,6 +163,7 @@ Constants:
 ##### Materials 
  
  	Breaker bar to be made of stainless steel  
+	Cable will be made of stainless steel.
  
 #### Winches 
 
@@ -172,6 +175,8 @@ For the prototype, the winches will consist of (2) hand driven winches on either
 </p>
 	
 *Pros and cons of the current solution*
+
+*Pros*
 
 While vermicomposting in buckets or single Rubbermaid bins can be effective, you’re stuck with a problem.
 
