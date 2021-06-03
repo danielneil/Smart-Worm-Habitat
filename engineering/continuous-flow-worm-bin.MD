@@ -241,11 +241,11 @@ N/A
 
 *How will the solution scale?*
 
-The prefab design will hopefully be allow for scalablity. 
+The prefab design will hopefully be allow for scalablity e.g the addition of more CFT units.
 
 *What are the limitations of the solution?*
 
-Weight of the CFT could be significant (especially when full), making mobility troublsome - hence wheels on legs.
+Weight of the CFT could be significant (especially when full), making mobility troublsome - hence wheels (with locks).are on legs.
 
 *How will it cope with future requirements?*
 
@@ -254,7 +254,6 @@ The prefab design will hopefully be allow for a baseline for future development 
 ## e. Transportation / Deployment Plan
 
 CFT will be constructed by local engineering firm and then delivered to testing facility.  
-
 
 <a name="FurtherConsiderations"/>
 
@@ -276,7 +275,7 @@ CFT will be constructed by local engineering firm and then delivered to testing 
 
 *How accessible is the solution?*
 
-The entire project will be under an open source model, with all generated docuemntation stored on Github.
+The entire project will be under an open source model, with all generated documentation stored on Github.
 
 <a name="SuccessEvaluation"/>
 
