@@ -53,13 +53,14 @@ Food waste which is not composted, rots and release methane into the atmosphere,
 
 *Product requirements in the form of user stories*
 
+* What is the most effective method of vermicomposting?  
 * How can I quickly break down food waste prior to its decomposition and resulting methane emissions occurring.  
 * How can I efficiently harvest vermicast from a vermacompost system?
 * How can I keep the disturbance to the worms in the system to the minium (with regards to the above). 
 
 *Technical requirements*
 
-The CFT should be designed to be "prefab" or modular, in that it can be destructed/constructed with tools commonly found in households (e.g. screw drivers/allen keys/shifters). 
+The CFT should be designed to be "prefab" or modular, in that it can be destructed/constructed with tools commonly found in households (e.g. screw drivers/hex & allen keys/shifters etc). 
 
 The CFT should also be able to transported easily e.g. in the back of pickup/utility.
 
@@ -73,7 +74,7 @@ This detailed design only concerns the contruction of the CFT, and all other ite
 
 *Product and technical requirements slated for a future time*
 
-Installation of Smart Worm Habitat (SWH) computing capability to occur after installation in testing facility. 
+Installation of CFT at testing facility. 
 
 ## g. Assumptions
 
