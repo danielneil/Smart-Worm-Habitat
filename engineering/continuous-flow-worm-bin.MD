@@ -49,9 +49,9 @@ Food waste which is not composted, rots and release methane into the atmosphere,
 ## d. Goals or Product and Technical Requirements
 
 *Product requirements in the form of user stories*
-
-* What is the most effective method of vermicomposting?  
+  
 * How can I quickly break down food waste prior to its decomposition and resulting methane emissions occurring.  
+* How can effectively use vermicomposting to break down the most foodwaste (e.g. which vermacomposting method)?
 * How can I efficiently harvest vermicast from a vermacompost system?
 * How can I keep the disturbance to the worms in the system to the minium (with regards to the above). 
 
@@ -59,7 +59,7 @@ Food waste which is not composted, rots and release methane into the atmosphere,
 
 The CFT should be designed to be "prefab" or modular, in that it can be destructed/constructed with tools commonly found in households (e.g. screw drivers/hex & allen keys/shifters etc). 
 
-The CFT should also be able to transported easily e.g. in the back of pickup/utility.
+The (destructed) CFT should also be able to transported easily e.g. in the back of pickup/utility.
 
 ## e. Non-Goals or Out of Scope
 
@@ -71,10 +71,10 @@ This detailed design only concerns the materials and contruction associated with
 
 *Product and technical requirements slated for a future time*
 
-From this detailed design, have a draftsman produce a CAD draft of the CFT.
-Have a CFT constructed by an engineer/fabricator using the above CAD draft.
-Deliver the desconstructed CFT to the testing facility.
-Assembly the CFT in the testing facility. 
+* From this detailed design, have a draftsman produce a CAD draft of the CFT.
+* Have a CFT constructed by an engineer/fabricator using the above CAD draft.
+* Deliver the desconstructed CFT to the testing facility.
+* Assembly the CFT in the testing facility. 
 
 ## g. Assumptions
 
@@ -85,8 +85,10 @@ Assembly the CFT in the testing facility.
 * An engineering firm/fabricator will have the necessary materials to construct the CFT.
 * CFT will be setup/installed at an indoor testing facility (Daniel's basement)
 * CFT will require appropriate environmental conditions (temp, ph, moisture) levels to ensure optimal functionality.
+* CFT will have an appropriate amount of worms in order to compost food waste. 
 * CFT will have an appropriate amount of input (worm food) 
 * CFT will have cointainers underneath to catch harvested product during a "scrape".
+* CFT will not become too wet (with greater moisture required in the "upper levels"
 
 <a name="Solutions"/>
 
@@ -192,7 +194,7 @@ Constants:
 
 The cutting bar should be "raised" 1 inch on top of the mesh, in order to maximise the volume of the harvest (or scrape). 
 
-Maybe "guide bars" can run the length of the CFT, which the cutting bar "rests" on, with these guide bars, one inch in height, resting on the mesh, below.  
+Potentially, "guide bars" could run the length of the CFT, which the cutting bar "rests" on, with these guide bars, one inch in height, resting on the mesh, below.  
 
 ##### Cable 
 Constants:
@@ -210,7 +212,6 @@ For the prototype, the winches will consist of (2) hand driven winches, mounted 
 
 <p align="center">
 <img src="https://github.com/danielneil/Smart-Worm-Habitat/blob/main/images/hand-winches.jpg?raw=true">
-<img src="https://github.com/danielneil/Smart-Worm-Bin/blob/main/images/winch.JPG?raw=true">
 </p>
 	
 The winches will be able to "wind" the cable in, and pull the cutting/bar in both directions, effectively to allow a "scrape" to occur in both directions.
@@ -218,12 +219,6 @@ The winches will be able to "wind" the cable in, and pull the cutting/bar in bot
 *Pros and cons of the current solution*
 
 *Pros*
-
-While vermicomposting in buckets or single Rubbermaid bins can be effective, you’re stuck with a problem.
-
-You have to separate the worms from the worm castings and undigested organic matter, often disturbing the entire ecosystem and having to restart your vermicomposting process all over again.
-
-This is the issue with “batch” methods.
 
 Continuous flow bins are advantageous because they:
 
@@ -236,7 +231,13 @@ Because composting worms tend to stay in the top 6-8 inches of their habitat, a 
 
 But a worm-free harvest – or at least a harvest that isn't chock full of worms – is dependent upon moisture control.
 
+*Cons*
+
 Worms are attracted to moisture and if a CFT is run so wet that this moisture leaches down toward the bottom of the bin, worms will follow.
+
+This solution could be considered bulky (for residential use).
+
+This solution could be considered expensive (for residential use).
 
 *Other questions to answer*
 
@@ -319,8 +320,8 @@ After drafts are produced using this detailed design, engage with an engineering
 
 * List of tasks that will be completed in the future
 
-
 <a name="EndMatter"/>
+
 # 6. End Matter
 
 ## a. Related Work
