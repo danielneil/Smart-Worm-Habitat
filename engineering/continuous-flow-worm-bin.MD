@@ -126,8 +126,8 @@ Constants:
 
 Constants:
 	Height: 2cm 
-	Width: 150cm 
-	Length: 200cm
+	Width: 10cm 
+	Length: 145cm
 	Therefore 
 
 	Volume = 200cm x 150cm X 8cm 
