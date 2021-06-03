@@ -31,33 +31,33 @@
 
 ## c. Context or Background
 
-*Reasons why the problem is worth solving
+*Reasons why the problem is worth solving*
 
-*Origin of the problem
+*Origin of the problem*
 
-*How the problem affects users and company goals
+*How the problem affects users and company goals*
 
-*Past efforts made to solve the solution and why they were not effective
+*Past efforts made to solve the solution and why they were not effective*
 
-*How the product relates to team goals, OKRs
+*How the product relates to team goals, OKRs*
 
-*How the solution fits into the overall product roadmap and strategy
+*How the solution fits into the overall product roadmap and strategy*
 
-*How the solution fits into the technical strategy
+*How the solution fits into the technical strategy*
 
 ## d. Goals or Product and Technical Requirements
 
-*Product requirements in the form of user stories 
+*Product requirements in the form of user stories*
 
-*Technical requirements
+*Technical requirements*
 
 ## e. Non-Goals or Out of Scope
 
-*Product and technical requirements that will be disregarded
+*Product and technical requirements that will be disregarded*
 
 ## f. Future Goals
 
-*Product and technical requirements slated for a future time
+*Product and technical requirements slated for a future time*
 
 ## g. Assumptions
 
@@ -69,125 +69,125 @@
 
 ## a. Current or Existing Solution / Design
 
-*Current solution description
+*Current solution description*
 
-*Pros and cons of the current solution
+*Pros and cons of the current solution*
 
 ## b. Suggested or Proposed Solution / Design 
 
-*External components that the solution will interact with and that it will alter
+*External components that the solution will interact with and that it will alter*
 
-*Dependencies of the current solution
+*Dependencies of the current solution*
 
-*Pros and cons of the proposed  solution 
+*Pros and cons of the proposed  solution*
 
-*Data Model / Schema Changes
+*Data Model / Schema Changes*
 
-*Schema definitions
+*Schema definitions*
 
-*New data models
+*New data models*
 
-*Modified data models
+*Modified data models*
 
-*Data validation methods
+*Data validation methods*
 
-*Business Logic
+*Business Logic*
 
-*API changes
+*API changes*
 
-*Pseudocode
+*Pseudocode*
 
-*Flowcharts
+*Flowcharts*
 
-*Error states
+*Error states*
 
-*Failure scenarios
+*Failure scenarios*
 
-*Conditions that lead to errors and failures
+*Conditions that lead to errors and failures*
 
-*Limitations
+*Limitations*
 
-*Presentation Layer
+*Presentation Layer*
 
-*User requirements
+*User requirements*
 
-*UX changes
+*UX changes*
 
-*UI changes
+*UI changes*
 
-*Wireframes with descriptions
+*Wireframes with descriptions*
 
-*Links to UI/UX designer’s work
+*Links to UI/UX designer’s work*
 
-*Mobile concerns
+*Mobile concerns*
 
-*Web concerns
+*Web concerns*
 
-*UI states
+*UI states*
 
-*Error handling
+*Error handling*
 
-*Other questions to answer
+*Other questions to answer*
 
-*How will the solution scale?
+*How will the solution scale?*
 
-*What are the limitations of the solution?
+*What are the limitations of the solution?*
 
-*How will it recover in the event of a failure?
+*How will it recover in the event of a failure?*
 
-*How will it cope with future requirements?
+*How will it cope with future requirements?*
 
 ## c. Test Plan
 
-*Explanations of how the tests will make sure user requirements are met
+*Explanations of how the tests will make sure user requirements are met*
 
-*Unit tests
+*Unit tests*
 
-*Integrations tests
+*Integrations tests*
 
 *QA
 
 ## d. Monitoring and Alerting Plan 
 
-*Logging plan and tools
+*Logging plan and tools*
 
-*Monitoring plan and tools
+*Monitoring plan and tools*
 
-*Metrics to be used to measure health
+*Metrics to be used to measure health*
 
-*How to ensure observability
+*How to ensure observability*
 
-*Alerting plan and tools
+*Alerting plan and tools*
 
 ## e. Release / Roll-out and Deployment Plan
 
-*Deployment architecture 
+*Deployment architecture*
 
-*Deployment environments
+*Deployment environments*
 
-*Phased roll-out plan e.g. using feature flags
+*Phased roll-out plan e.g. using feature flags*
 
-*Plan outlining how to communicate changes to the users, for example, with release notes
+*Plan outlining how to communicate changes to the users, for example, with release notes*
 
 ## f. Rollback Plan
 
-*Detailed and specific liabilities 
+*Detailed and specific liabilities* 
 
-*Plan to reduce liabilities
+*Plan to reduce liabilities*
 
-*Plan describing how to prevent other components, services, and systems from being affected
+*Plan describing how to prevent other components, services, and systems from being affected*
 
 ## g. Alternate Solutions / Designs
 
-*Short summary statement for each alternative solution
+*Short summary statement for each alternative solution*
 
-*Pros and cons for each alternative
+*Pros and cons for each alternative*
 
-*Reasons why each solution couldn’t work 
+*Reasons why each solution couldn’t work* 
 
-*Ways in which alternatives were inferior to the proposed solution
+*Ways in which alternatives were inferior to the proposed solution*
 
-*Migration plan to next best alternative in case the proposed solution falls through
+*Migration plan to next best alternative in case the proposed solution falls through*
 
 <a name="FurtherConsiderations"/>
 
@@ -199,83 +199,83 @@
 
 ## b. Third-party services and platforms considerations
 
-*Is it really worth it compared to building the service in-house?
+*Is it really worth it compared to building the service in-house?*
 
-*What are some of the security and privacy concerns associated with the services/platforms?
+*What are some of the security and privacy concerns associated with the services/platforms?*
 
-*How much will it cost?
+*How much will it cost?*
 
-*How will it scale?
+*How will it scale?*
 
-*What possible future issues are anticipated? 
+*What possible future issues are anticipated?* 
 
 ## c. Cost analysis
 
-*What is the cost to run the solution per day?
+*What is the cost to run the solution per day?*
 
-*What does it cost to roll it out? 
+*What does it cost to roll it out?*
 
 ## d. Security considerations
 
-*What are the potential threats?
+*What are the potential threats?*
 
-*How will they be mitigated?
+*How will they be mitigated?*
 
-*How will the solution affect the security of other components, services, and systems?
+*How will the solution affect the security of other components, services, and systems?*
 
 ## e. Privacy considerations
 
-*Does the solution follow local laws and legal policies on data privacy?
+*Does the solution follow local laws and legal policies on data privacy?*
 
-*How does the solution protect users’ data privacy?
+*How does the solution protect users’ data privacy?*
 
-*What are some of the tradeoffs between personalization and privacy in the solution? 
+*What are some of the tradeoffs between personalization and privacy in the solution?*
 
 ## f. Regional considerations
 
-*What is the impact of internationalization and localization on the solution?
+*What is the impact of internationalization and localization on the solution?*
 
-*What are the latency issues?
+*What are the latency issues?*
 
-*What are the legal concerns?
+*What are the legal concerns?*
 
-*What is the state of service availability?
+*What is the state of service availability?*
 
-*How will data transfer across regions be achieved and what are the concerns here? 
+*How will data transfer across regions be achieved and what are the concerns here?* 
 
 ## g. Accessibility considerations
 
-*How accessible is the solution?
+*How accessible is the solution?*
 
-*What tools will you use to evaluate its accessibility? 
+*What tools will you use to evaluate its accessibility?* 
 
 ## h. Operational considerations
 
-*Does this solution cause adverse aftereffects?
+*Does this solution cause adverse aftereffects?*
 
-*How will data be recovered in case of failure?
+*How will data be recovered in case of failure?*
 
-*How will the solution recover in case of a failure?
+*How will the solution recover in case of a failure?*
 
-*How will operational costs be kept low while delivering increased value to the users? 
+*How will operational costs be kept low while delivering increased value to the users?*
 
 ## i. Risks
 
-*What risks are being undertaken with this solution?
+*What risks are being undertaken with this solution?*
 
-*Are there risks that once taken can’t be walked back?
+*Are there risks that once taken can’t be walked back?*
 
-*What is the cost-benefit analysis of taking these risks? 
+*What is the cost-benefit analysis of taking these risks?*
 
 ## j. Support considerations
 
-*How will the support team get across information to users about common issues they may face while interacting with the changes?
+*How will the support team get across information to users about common issues they may face while interacting with the changes?*
 
-*How will we ensure that the users are satisfied with the solution and can interact with it with minimal support?
+*How will we ensure that the users are satisfied with the solution and can interact with it with minimal support?*
 
-*Who is responsible for the maintenance of the solution?
+*Who is responsible for the maintenance of the solution?*
 
-*How will knowledge transfer be accomplished if the project owner is unavailable? 
+*How will knowledge transfer be accomplished if the project owner is unavailable?*
 
 <a name="SuccessEvaluation"/>
 
@@ -283,19 +283,19 @@
 
 ## a. Impact
 
-*Security impact
+*Security impact*
 
-*Performance impact
+*Performance impact*
 
-*Cost impact
+*Cost impact*
 
-*Impact on other components and services
+*Impact on other components and services*
 
 ## b. Metrics
 
-*List of metrics to capture
+*List of metrics to capture*
 
-*Tools to capture and measure metrics
+*Tools to capture and measure metrics*
 
 <a name="Work"/>
 
@@ -303,25 +303,25 @@
 
 ## a. Work estimates and timelines
 
-*List of specific, measurable, and time-bound tasks
+*List of specific, measurable, and time-bound tasks*
 
-*Resources needed to finish each task
+*Resources needed to finish each task*
 
-*Time estimates for how long each task needs to be completed
+*Time estimates for how long each task needs to be completed*
 
 ## b. Prioritization
 
-*Categorization of tasks by urgency and impact
+*Categorization of tasks by urgency and impact*
 
 ## c. Milestones
 
-*Dated checkpoints when significant chunks of work will have been completed
+*Dated checkpoints when significant chunks of work will have been completed*
 
-*Metrics to indicate the passing of the milestone
+*Metrics to indicate the passing of the milestone*
 
 ## d. Future work
 
-*List of tasks that will be completed in the future
+*List of tasks that will be completed in the future*
 
 <a name="Deliberation"/>
 
@@ -329,7 +329,7 @@
 
 ## a. Discussion
 
-*Elements of the solution that members of the team do not agree on and need to be debated further to reach a consensus.
+*Elements of the solution that members of the team do not agree on and need to be debated further to reach a consensus.*
 
 ## b. Open Questions
 
@@ -345,8 +345,8 @@
 
 ## b. References
 
-*Links to documents and resources that you used when coming up with your design and wish to credit. 
+*Links to documents and resources that you used when coming up with your design and wish to credit.*
 
 ## c. Acknowledgments
 
-*Credit people who have contributed to the design that you wish to recognize.
+*Credit people who have contributed to the design that you wish to recognize.*
