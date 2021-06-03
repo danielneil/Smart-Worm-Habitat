@@ -112,7 +112,7 @@ All commercial-scale beds are essentially rigid, single-compartment structures w
 
 A cutting bar or “breaker” bar is pushed or pulled just above the mesh, releasing the bottom 1-2 inches of finished vermicompost through the mesh to the floor or conveyor below.
 
-This cutting bar is powered electrically, hydraulically, or through the use of a manual winch for smaller systems. 
+This cutting bar is powered electrically, hydraulically, or through the use of a manual winch for smaller systems. The winches exist on both ends of the CFT, and are able to pull the cutting bar back and forth.
 
 <p align="center">
 <img src="https://github.com/danielneil/Smart-Worm-Habitat/blob/main/images/cf-bin-both-ends.jpg" />
