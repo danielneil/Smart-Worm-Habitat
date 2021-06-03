@@ -56,9 +56,7 @@ Therefore, a definition of the problem is;
 
 ## e. Non-Goals or Out of Scope
 
-* Product and technical requirements that will be disregarded
-
-The design of the computer and associated software is not in scope of this document.
+*Product and technical requirements that will be disregarded
 
 ## f. Future Goals
 
@@ -73,6 +71,8 @@ The design of the computer and associated software is not in scope of this docum
 # 2. Solutions
 
 ## a. Current or Existing Solution / Design
+
+NA
 
 ## b. Suggested or Proposed Solution / Design 
 
@@ -157,18 +157,15 @@ The current solution requires an appropriate environment in regards to its optim
 The Habitat also requires regular input (feeding) to ensure the worms have adequate nutrition in regards to their replication characteristics.  
 
 *Pros and cons of the proposed solution 
-
 *User requirements
-
 *Transportation concerns
-
 *How will the solution scale?
-
 *What are the limitations of the solution?
-
 *How will it cope with future requirements?
 
 ## c. Test Plan
+
+NA
 
 * Explanations of how the tests will make sure user requirements are met
 * Unit tests
@@ -176,6 +173,8 @@ The Habitat also requires regular input (feeding) to ensure the worms have adequ
 * QA
 
 ## d. Monitoring and Alerting Plan 
+
+N/A
 
 * Logging plan and tools
 * Monitoring plan and tools
@@ -185,6 +184,8 @@ The Habitat also requires regular input (feeding) to ensure the worms have adequ
 
 ## e. Release / Roll-out and Deployment Plan
 
+N/A
+
 * Deployment architecture 
 * Deployment environments
 * Phased roll-out plan e.g. using feature flags
@@ -192,19 +193,15 @@ The Habitat also requires regular input (feeding) to ensure the worms have adequ
 
 ## f. Rollback Plan
 
+N/A
+
 *Detailed and specific liabilities 
-
-NA
-
 *Plan to reduce liabilities
-
-NA
-
 *Plan describing how to prevent other components, services, and systems from being affected
 
-NA
-
 ## g. Alternate Solutions / Designs
+
+N/A
 
 * Short summary statement for each alternative solution
 * Pros and cons for each alternative
@@ -219,6 +216,8 @@ NA
 ## a. Impact on other teams
 
 *How will this increase the work of other people?*
+
+N/A
 
 ## b. Third-party services and platforms considerations
 
@@ -235,17 +234,23 @@ NA
 
 ## d. Security considerations
 
+N/A
+
 * What are the potential threats?
 * How will they be mitigated?
 * How will the solution affect the security of other components, services, and systems?
 
 ## e. Privacy considerations
 
+N/A
+
 * Does the solution follow local laws and legal policies on data privacy?
 * How does the solution protect users’ data privacy?
 * What are some of the tradeoffs between personalization and privacy in the solution? 
 
 ## f. Regional considerations
+
+N/A
 
 * What is the impact of internationalization and localization on the solution?
 * What are the latency issues?
@@ -256,9 +261,16 @@ NA
 ## g. Accessibility considerations
 
 * How accessible is the solution?
+
+The entire project will be under an open source model. 
+
 * What tools will you use to evaluate its accessibility? 
 
+N/A
+
 ## h. Operational considerations
+
+N/A
 
 * Does this solution cause adverse aftereffects?
 * How will data be recovered in case of failure?
@@ -267,11 +279,15 @@ NA
 
 ## i. Risks
 
+N/A
+
 * What risks are being undertaken with this solution?
 * Are there risks that once taken can’t be walked back?
 * What is the cost-benefit analysis of taking these risks? 
 
 ## j. Support considerations
+
+N/A
 
 * How will the support team get across information to users about common issues they may face while interacting with the changes?
 * How will we ensure that the users are satisfied with the solution and can interact with it with minimal support?
@@ -283,6 +299,8 @@ NA
 # 5. Success Evaluation
 
 ## a. Impact
+
+N/A
 
 * Security impact
 * Performance impact
