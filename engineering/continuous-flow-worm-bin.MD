@@ -90,16 +90,17 @@ NA
 
 Continuous flow is a method of vermicomposting where composting worms are fed organic matter from the top and worm castings are eventually harvested from the bottom or removed from a bottom tray. This bottom-to-top flow requires one of two things:
 
-a container or bin that allows for harvesting from the bottom to allow the worms working in the top layers of the bin to remain undisturbed.
-removable trays with perforated bottoms that allow for for upward migration, the assumption being that the top trays can be removed periodically to allow for the removal of lower trays that are filled with finished vermicompost.
+* a container or bin that allows for harvesting from the bottom to allow the worms working in the top layers of the bin to remain undisturbed.
+
+* removable trays with perforated bottoms that allow for for upward migration, the assumption being that the top trays can be removed periodically to allow for the removal of lower trays that are filled with finished vermicompost.
 
 <p align="center">
   <img src="https://github.com/danielneil/Smart-Worm-Habitat/blob/main/images/cf-bin.jpg?raw=true">
 </p>
 
-Continuous flow vermicomposting can be considered to be a "raised bed" or "flow-through" system. 
+A cutting bar or “breaker” bar is pushed or pulled just above the mesh, releasing the bottom 1-2 inches of finished vermicompost through the mesh to the floor or conveyor below.
 
-Here the worms are fed an *inch(?)* of "worm chow" across the top of the bed, and an *inch(?)* of castings are harvested from below by pulling a breaker bar across the large mesh screen which forms the base of the bed. 
+This cutting bar is powered electrically, hydraulically, or through the use of a manual winch for smaller systems.
 
 <p align="center">
 <img src="https://github.com/danielneil/Smart-Worm-Habitat/blob/main/images/cf-bin-grate-underside.jpg?raw=true">
@@ -107,8 +108,7 @@ Here the worms are fed an *inch(?)* of "worm chow" across the top of the bed, an
 <img src="https://github.com/danielneil/Smart-Worm-Bin/blob/main/images/winch.JPG?raw=true">
 </p>
 
-
-The breaker bar is connected via circular length of wire which is driven my a hand winch. 
+All industrial-scale CFTs feature materials that should be highly-resistant or impervious to the moisture that is constantly present in a worm composting bin.
 
 ### Dimensions
 
@@ -147,24 +147,26 @@ There will be winches that
  
 *Pros and cons of the current solution*
 
-The pros of this design, is that its method of harvesting is easily automated, unlike Windrow composting, which (1) requires the ground underneath to be sealed, (2) requires machinery (like tractors), and (3) requires periodically aerating the compost. 
+While vermicomposting in buckets or single Rubbermaid bins can be effective, you’re stuck with a problem.
 
-The cons of the current design is that internal conditions of the bin require manual inspection to ensure they are optimal e.g. not too wet/dry/acidic, which makes using this method of vermiculture resource prohibitive at large scale. 
+You have to separate the worms from the worm castings and undigested organic matter, often disturbing the entire ecosystem and having to restart your vermicomposting process all over again.
 
+This is the issue with “batch” methods.
 
-The proposed solution is an extension of traditonal continuous flow vermicomposting with the inclusion of technology to automate the ardous tasks usually required of humans. 
+Continuous flow bins are advantageous because they:
+
+* ease the separation of worms from castings
+* save labor
+* can maintain more constant conditions than outdoor systems
+* allow for greater efficiency
+
+Because composting worms tend to stay in the top 6-8 inches of their habitat, a continuous flow system with an approximate depth of 20 inches or more will produce more homogenous, relatively worm-free worm castings harvest.
+
+But a worm-free harvest – or at least a harvest that isn't chock full of worms – is dependent upon moisture control.
+
+Worms are attracted to moisture and if a CFT is run so wet that this moisture leaches down toward the bottom of the bin, worms will follow.
 
 *External components that the solution will interact with and that it will alter*
-
-The computer will interact with the worm bin directly 
-
-It will monitor the following specifics of the Habitat:
-* Internal Temp
-* External Temp
-* Habitat Moisture
-* pH level
-
-It will not alter/interfere with the habitat in anyway, it will merely "watch" it. 
 
 *External components that the solution will interact with and that it will alter*
 
