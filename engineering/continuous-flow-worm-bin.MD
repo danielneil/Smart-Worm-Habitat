@@ -124,7 +124,9 @@ Constants:
 
 	Volume = 200cm x 150cm X 63.5cm 
 	
-The unit will be supported by metal legs which effectively raise the "bed"  
+The unit will be supported by metal legs which effectively raise the "bed":
+
+	The legs will raise the bed 40cm off the ground. 
 
 #### Dimensions of the breaker bar
 
@@ -137,6 +139,8 @@ Constants:
 	Volume = 200cm x 150cm X 8cm 
  
 #### Winches 
+
+There will be winches that
  
 *Pros and cons of the current solution*
 
