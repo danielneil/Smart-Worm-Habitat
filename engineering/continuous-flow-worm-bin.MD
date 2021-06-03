@@ -25,7 +25,15 @@
 
 *Summary of the problem (from the perspective of the user), the context, suggested solution, and the stakeholders.*
 
-**The problem:** 
+8% of greenhouse gases heating the planet are caused by food waste. (Source: FAO Food Wastage Footprint Report 2013).
+
+Once in landfill, food waste breaks down and emits greenhouse gases, including not only carbon dioxide (CO2) but methane (CH4) – a gas 25 times more potent than CO2. each year is equivalent to the emissions of Australia's steel and iron ore industries combined! (Source: Watch My Waste, 2021)
+
+Not only is a food waste-to-landfill diversion program needed, but it is also necessary to couple such a program with a waste processing mechanism prior to the natural organic breakdown and resulting greenhouse gas emission.   
+
+Therefore, a definition of the problem is; 
+
+* what is an appropriate mechanism to inhibit the natural breakdown of organics prior to the resulting greenhouses gases escaping into the atmosphere? 
 
 ## b. Glossary  or Terminology
 
