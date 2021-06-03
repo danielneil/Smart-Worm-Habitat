@@ -107,7 +107,7 @@ The breaker bar is connected via circular length of wire which is driven my an e
 
 ### Dimensions
 
-#### Metrics for a single bin unit.
+#### Dimensions for a single "bin" unit.
 
 Formula:
 
@@ -122,10 +122,10 @@ Constants:
 
 	Volume = 200cm x 150cm X 63.5cm 
 
-#### Metrics for a breaker bar 
+#### Dimensions of the breaker bar
 
 Constants:
-	Height: 8cm(?) (Height based on worm behavior) 
+	Height: 2cm 
 	Width: 150cm 
 	Length: 200cm
 	Therefore 
