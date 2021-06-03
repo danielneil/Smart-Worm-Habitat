@@ -74,14 +74,18 @@ This detailed design only concerns the contruction of the CFT, and all other ite
 
 *Product and technical requirements slated for a future time*
 
-Installation of CFT at testing facility. 
+From this detailed design, have a draftsman produce a CAD draft of the CFT.
+Have a CFT constructed by an engineer/fabricator using the above CAD draft.
+Deliver the desconstructed CFT to the testing facility.
+Assembly the CFT in the testing facility. 
 
 ## g. Assumptions
 
 *Conditions and resources that need to be present and accessible for the solution to work as described.*
 
 * An appropriately qualified draftsman will be required to draft the CFT design
-* An engineering firm will be required to use the drafts (as above) to construct the CFT. 
+* An engineering firm/fabricator will be required to use the drafts (as above) to construct the CFT. 
+* An engineering firm/fabricator will have the necessary materials to construct the CFT.
 * CFT will be setup/installed at an indoor testing facility (Daniel's basement)
 * CFT will require appropriate environmental conditions (temp, ph, moisture) levels to ensure optimal functionality.
 * CFT will have an appropriate amount of input (worm food) 
@@ -95,11 +99,11 @@ Installation of CFT at testing facility.
 
 *Current solution description*
 
-NA
+N/A
 
 *Pros and cons of the current solution*
 
-NA
+N/A
 
 ## b. Suggested or Proposed Solution / Design 
 
