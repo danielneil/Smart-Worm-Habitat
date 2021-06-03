@@ -164,9 +164,9 @@ Constants:
 
 	Volume = 200cm x 150cm X 75cm 
 	
-The unit will be supported by legs which effectively raise the bed to allow for the collection of vermicompost underneath:
+The unit will be supported by legs which effectively raise the CFT to allow for the collection of vermicompost underneath:
 
-	The legs will raise the bed 40cm off the ground (therefore the CFT have a height of legs(40cm) + frame height(75cm), 115cm).
+	The legs will raise the CFT 40cm off the ground (therefore the CFT have a height of legs(40cm) + frame height(75cm), 115cm).
 	The legs will have wheels (with locks) to assist with movement of the CFT.
 	The legs will need support the CFT (and mesh) should its volume were full of vermicompost.
 
@@ -209,7 +209,7 @@ Constants:
  
 #### Winches 
 
-For the prototype, the winches will consist of (2) hand driven winches, mounted to each far side of the bed.     
+For the prototype, the winches will consist of (2) hand driven winches, mounted to each far side of the CFT.     
 
 <p align="center">
 <img src="https://github.com/danielneil/Smart-Worm-Habitat/blob/main/images/hand-winches.jpg?raw=true">
