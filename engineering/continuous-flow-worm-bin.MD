@@ -176,6 +176,10 @@ The mesh should completely cover the bottom of the CFT, and have perforation (ho
 
 ####  Cutting Bar and Cable - Dimensions
 
+<p align="center">
+	<img src="https://github.com/danielneil/Smart-Worm-Bin/blob/main/images/cf-bin-grate.jpg?raw=true">
+</p>
+
 ##### Cutting Bar
 Constants:
 
