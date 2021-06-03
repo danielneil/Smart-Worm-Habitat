@@ -41,18 +41,18 @@ Therefore, a definition of the problem is;
 
 ## c. Context or Background
 
-* Reasons why the problem is worth solving
-* Origin of the problem
-* How the problem affects users and company goals
-* Past efforts made to solve the solution and why they were not effective
-* How the product relates to team goals, OKRs
-* How the solution fits into the overall product roadmap and strategy
-* How the solution fits into the technical strategy
+*Reasons why the problem is worth solving*
+*Origin of the problem*
+*How the problem affects users and company goals*
+*Past efforts made to solve the solution and why they were not effective*
+*How the product relates to team goals, OKRs*
+*How the solution fits into the overall product roadmap and strategy*
+*How the solution fits into the technical strategy*
 
 ## d. Goals or Product and Technical Requirements
 
-* Product requirements in the form of user stories 
-* Technical requirements
+*Product requirements in the form of user stories* 
+*Technical requirements*
 
 ## e. Non-Goals or Out of Scope
 
