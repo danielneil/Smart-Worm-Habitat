@@ -88,8 +88,10 @@ NA
 
 ## b. Suggested or Proposed Solution / Design 
 
-Continuous flow vermicomposting is a method of vermicomposting where composting worms are fed organic matter from the top and worm castings are 
-eventually harvested from the bottom. 
+Continuous flow is a method of vermicomposting where composting worms are fed organic matter from the top and worm castings are eventually harvested from the bottom or removed from a bottom tray. This bottom-to-top flow requires one of two things:
+
+a container or bin that allows for harvesting from the bottom to allow the worms working in the top layers of the bin to remain undisturbed.
+removable trays with perforated bottoms that allow for for upward migration, the assumption being that the top trays can be removed periodically to allow for the removal of lower trays that are filled with finished vermicompost.
 
 <p align="center">
   <img src="https://github.com/danielneil/Smart-Worm-Habitat/blob/main/images/cf-bin.jpg?raw=true">
@@ -99,13 +101,14 @@ Continuous flow vermicomposting can be considered to be a "raised bed" or "flow-
 
 Here the worms are fed an *inch(?)* of "worm chow" across the top of the bed, and an *inch(?)* of castings are harvested from below by pulling a breaker bar across the large mesh screen which forms the base of the bed. 
 
-The breaker bar is connected via circular length of wire which is driven my an electronic winch. 
-
 <p align="center">
 <img src="https://github.com/danielneil/Smart-Worm-Habitat/blob/main/images/cf-bin-grate-underside.jpg?raw=true">
 <img src="https://github.com/danielneil/Smart-Worm-Bin/blob/main/images/cf-bin-grate.jpg?raw=true">
 <img src="https://github.com/danielneil/Smart-Worm-Bin/blob/main/images/winch.JPG?raw=true">
 </p>
+
+
+The breaker bar is connected via circular length of wire which is driven my a hand winch. 
 
 ### Dimensions
 
