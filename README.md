@@ -10,9 +10,9 @@ An open [source design](https://github.com/danielneil/Smart-Worm-Habitat/blob/ma
 
 The Smart Worm Habitat (SWH) is a [continuous flow through (CFT)](https://urbanwormcompany.com/complete-guide-to-continuous-flow-vermicomposting/) vermicompost system that converts foodwaste into the best fertiliser known to mankind, vermicast! 
 
-CFT systems vastly improves the efficiency of the harvesting process, as they allow the worms to remain undisturbed in the layers above, while the vermicast is collected (harvested) from below.   
+CFT systems vastly improves the efficiency of harvesting vermicast, as they allow the worms to remain undisturbed in the layers above, while the vermicast is collected (harvested) from below.   
 
-The SWH uses a computer to monitor the health of itself using several sensors, namely moisture, PH level and temperature.
+Also, the SWH uses a computer to monitor the health of itself using several sensors, namely moisture, PH level and temperature.
 
 It might end up looking like this..
 
