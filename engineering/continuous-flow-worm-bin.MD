@@ -131,7 +131,7 @@ Further Reference: [Video](https://www.youtube.com/watch?v=JM24ybDSopg)
 
 ### Dimensions and Materials
 
-#### Dimensions of the CFT.
+#### CFT - Dimensions 
 
 Formula:
 
@@ -154,22 +154,27 @@ The unit will be supported by legs which effectively raise the bed to allow for 
 
 The walls of the CFT will comprise of solid material impervous to moisture, strong enough to withstand the volume weight of the CFT should it be full of vermicompost. 
 
-##### Materials
+###### CFT - Materials
 
 	Frame to be contructed of steel square tube  (galvanised or painted) 
 	Mesh/grates to be galvanised steel
 	Walls to be contructed from polyprolene
 
-#### Dimensions of the breaker bar and cable
+####  Breaker/Cutting bar and cable - Dimensions
 
+#### Breaker/Cutting Bar
 Constants:
 
 	Height: 2cm 
 	Width: 10cm 
 	Length: 145cm
-	Therefore 
- 
-##### Materials 
+
+#### Cable 
+Constants:
+
+	Length: 220?cm
+
+#####  Breaker/Cutting bar and cable - Materials 
  
  	Breaker bar to be made of stainless steel  
 	Cable will be made of stainless steel.
@@ -183,7 +188,7 @@ For the prototype, the winches will consist of (2) hand driven winches, mounted 
 <img src="https://github.com/danielneil/Smart-Worm-Bin/blob/main/images/winch.JPG?raw=true">
 </p>
 	
-The winches will be able to pull the cable in both directions, effectively to allow a "scrape" to occur in both directions.
+The winches will be able to "wind in", and pull the cable in both directions, effectively to allow a "scrape" to occur in both directions.
 	
 *Pros and cons of the current solution*
 
