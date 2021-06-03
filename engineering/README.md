@@ -8,10 +8,10 @@ This doc is to help with R&D of the Smart Worm Habitat, so this should be your f
 
 ## Techinical Design Considerations.
 
-### Continuous Flow Worm Bin
+### Continuous Flow Through (CFT) Worm Bin
 [Detailed Design](https://github.com/danielneil/Smart-Worm-Habitat/blob/main/engineering/continuous-flow-worm-bin.MD).
 
-### Smart Worm Habitat
+### Smart Worm Habitat (SWH)
 [Detailed Design](https://github.com/danielneil/Smart-Worm-Habitat/blob/main/engineering/bin-design.md).
 
 ### Little Computer (nawwww)
