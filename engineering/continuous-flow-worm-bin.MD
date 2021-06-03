@@ -88,6 +88,8 @@ NA
 
 ## b. Suggested or Proposed Solution / Design 
 
+### Overview 
+
 Continuous flow is a method of vermicomposting where composting worms are fed organic matter from the top and worm castings are eventually harvested from the bottom or removed from a bottom tray. This bottom-to-top flow requires one of two things:
 
 * a container or bin that allows for harvesting from the bottom to allow the worms working in the top layers of the bin to remain undisturbed.
