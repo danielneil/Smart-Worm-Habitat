@@ -7,7 +7,7 @@
 
 ## Engineering Design and Requirements Analysis (Stage 2) 
 
-- [ ] Continuous Flow worm bin - [Detailed Design](https://github.com/danielneil/Smart-Worm-Habitat/blob/main/engineering/continuous-flow-worm-bin.MD).
+- [ ] Continuous Flow Through (CFT) worm bin - [Detailed Design](https://github.com/danielneil/Smart-Worm-Habitat/blob/main/engineering/continuous-flow-worm-bin.MD).
 - [ ] Smart Worm Habitat - Detailed Design.
 - [ ] Little Computer (nawwww) - Detailed Design.
 - [ ] Data Entry System - Detailed Design.
@@ -17,7 +17,8 @@
 
 ## Smart Worm Habitat Construction (Stage 3)
  
- - [ ] Approach local engineering firm with Traditional Continuous Flow Worm Bin cad drafts. 
+ - [ ] Engage with draftsman to digitally produce the CFT (based on the detailed design) using CAD. 
+ - [ ] Engage with engineering firm and submit CFT CAD drafts. 
  - [ ] Obtain quote for time and materials from engineering firm.
  - [ ] Obtain timelime estimation of construction from engineering firm.
  - [ ] Publish projected timeline for Smart Worm Habitat construction to GitHub.
