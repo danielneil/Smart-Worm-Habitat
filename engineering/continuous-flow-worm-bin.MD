@@ -43,6 +43,8 @@ Therefore, a definition of the problem is;
 
 *Reasons why the problem is worth solving*
 
+To reduce the greenhouse gases caused by food waste and its flow on affects in climate change. 
+
 *Origin of the problem*
 
 *How the problem affects users and company goals*
