@@ -117,7 +117,7 @@ The cutting bar will effectively "slice off" the bottom inch of vermicompost, re
 
 All industrial-scale CFTs feature materials that should be highly-resistant or impervious to the moisture that is constantly present in a worm composting bin.
 
-Further Reference: [Video Reference](https://www.youtube.com/watch?v=JM24ybDSopg)
+Further Reference: [Video](https://www.youtube.com/watch?v=JM24ybDSopg)
 
 ### Dimensions and Materials
 
