@@ -90,15 +90,18 @@ NA
 
 ### Overview 
 
-Continuous flow is a method of vermicomposting where composting worms are fed organic matter from the top and worm castings are eventually harvested from the bottom or removed from a bottom tray. This bottom-to-top flow requires one of two things:
+Continuous flow is a method of vermicomposting where composting worms are fed organic matter from the top and worm castings are eventually harvested from the bottom or removed from a bottom tray. This bottom-to-top flow requires:
 
-* a container or bin that allows for harvesting from the bottom to allow the worms working in the top layers of the bin to remain undisturbed.
-
-* removable trays with perforated bottoms that allow for for upward migration, the assumption being that the top trays can be removed periodically to allow for the removal of lower trays that are filled with finished vermicompost.
+* a container or bed that allows for harvesting from the bottom to allow the worms working in the top layers of the bin to remain undisturbed.
 
 <p align="center">
   <img src="https://github.com/danielneil/Smart-Worm-Habitat/blob/main/images/cf-bin.jpg?raw=true">
 </p>
+
+
+#### Characteristics of Commercial Continuous Flow Worm Farms
+
+All commercial-scale beds are essentially rigid, single-compartment structures with mesh bottoms.
 
 A cutting bar or “breaker” bar is pushed or pulled just above the mesh, releasing the bottom 1-2 inches of finished vermicompost through the mesh to the floor or conveyor below.
 
@@ -122,14 +125,14 @@ Formula:
 
 Constants:
 
-	Height: 63.5cm (Height based on worm behavior) 
+	Height: 75cm (Height based on worm behavior) 
 	Width: 150cm 
 	Length: 200cm
 	Therefore 
 
 	Volume = 200cm x 150cm X 63.5cm 
 	
-The unit will be supported by metal legs which effectively raise the "bed":
+The unit will be supported by metal legs which effectively raise the bed to allow for the collection of product underneath:
 
 	The legs will raise the bed 40cm off the ground. 
 
@@ -145,7 +148,7 @@ Constants:
  
 #### Winches 
 
-There will be winches that
+For the prototype, the winches will consist of hand driven 
  
 *Pros and cons of the current solution*
 
