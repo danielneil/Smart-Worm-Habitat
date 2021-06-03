@@ -8,9 +8,11 @@ An open [source design](https://github.com/danielneil/Smart-Worm-Habitat/blob/ma
 
 ## What is a Smart Worm Habitat? 
 
-The Smart Worm Habitat is a [continuous flow through (CFT)](https://urbanwormcompany.com/complete-guide-to-continuous-flow-vermicomposting/) vermicompost system that converts foodwaste into the best fertiliser known to mankind, vermicast! The CFT system vastly improves the efficiency of the harvesting process, and allowing the worms to remain undisturbed in the layers above, while the vermicast is collect (harvested) from below.   
+The Smart Worm Habitat(SWH) is a [continuous flow through (CFT)](https://urbanwormcompany.com/complete-guide-to-continuous-flow-vermicomposting/) vermicompost system that converts foodwaste into the best fertiliser known to mankind, vermicast! 
 
-The habitat uses a computer to monitor the health of itself using several sensors, namely moisture, PH level and temperature.
+CFT systems vastly improves the efficiency of the harvesting process, as they allow the worms to remain undisturbed in the layers above, while the vermicast is collected (harvested) from below.   
+
+The SWH uses a computer to monitor the health of itself using several sensors, namely moisture, PH level and temperature.
 
 It might end up looking like this..
 
@@ -22,7 +24,7 @@ It might end up looking like this..
 
 ## How is it "smart"? 
 
-Well, you know how your smart phone is "smart" because it has a computer inside it, same dealio with the Smart Worm Habitat - it uses a computer to monitor the following: 
+Well, you know how your smart phone is "smart" because it has a computer inside it, same dealio with the SWH - it uses a computer to monitor the following: 
 
 * Outside Temperature
 * Inside Temperature 
@@ -33,9 +35,9 @@ Well, you know how your smart phone is "smart" because it has a computer inside 
 
 ## Emissions Reduction 
 
-The primary purpose of the habitat is to be able to efficiently covert captured food waste into vermicast, and reduce the associated greenhouse gases should that food waste had of ended up in landfill.
+The primary purpose of the SWH is to be able to efficiently covert captured food waste into vermicast, and reduce the associated greenhouse gases should that food waste had of ended up in landfill.
 
-The habitat will stop **5,198.40kg** of CO2-e entering the atmosphere (equivalent to 11.24 petrol tanks), every single month, and that's just one unit - imagine if we had lots of them!
+The SWH will stop **5,198.40kg** of CO2-e entering the atmosphere (equivalent to 11.24 petrol tanks), every single month, and that's just one unit - imagine if we had lots of them!
 
 The software will also provide a data entry tool to record the weights of input to calculate total emission savings.
 
@@ -51,10 +53,9 @@ An infrared camera will takes a happy snap every 30 minutes, with its primary pu
 
 P.s. they always go for the watermelon first. 
 
-## Want to help? 
+## Want to help? What is this about?
 
-1. If you wish to participate in R&D, read the [guide](https://github.com/danielneil/Smart-Worm-Habitat/tree/main/engineering).
-2. Or please consider giving a donation - [gofund.me campaign](https://gofund.me/1dbc1ac6).
-
-[What is the purpose of doing this?](https://github.com/danielneil/Smart-Worm-Habitat/blob/main/doc/mantra.md)
+* If you wish to participate in R&D, read the [guide](https://github.com/danielneil/Smart-Worm-Habitat/tree/main/engineering).
+* Please consider giving a donation - [gofund.me campaign](https://gofund.me/1dbc1ac6).
+* [What is the purpose of doing this?](https://github.com/danielneil/Smart-Worm-Habitat/blob/main/doc/mantra.md)
 
