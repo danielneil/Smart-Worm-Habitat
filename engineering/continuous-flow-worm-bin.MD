@@ -412,6 +412,8 @@ N/A
 
 ## b. Metrics
 
+N/A
+
 * List of metrics to capture
 * Tools to capture and measure metrics
 
@@ -424,6 +426,8 @@ N/A
 * List of specific, measurable, and time-bound tasks
 * Resources needed to finish each task
 * Time estimates for how long each task needs to be completed
+
+After drafts are produced using this detailed design, engage with an engineering firm to obtain work estimates and a timeline.
 
 ## b. Prioritization
 
