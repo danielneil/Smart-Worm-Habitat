@@ -96,18 +96,18 @@ NA
 
 ### Overview 
 
-Continuous Flow Through (CFT) is a method of vermicomposting where composting worms are fed organic matter from the top and worm castings are eventually harvested from the bottom or removed from a bottom tray. 
+Continuous Flow Through (CFT) vermicomposting is a method of vermicomposting where composting worms are fed organic matter from the top and worm castings are eventually harvested from the bottom or removed from a bottom tray. 
 
 This bottom-to-top flow requires:
 
 * a container or "bed" that allows for harvesting from the bottom to allow the worms working in the top layers of the bin to remain undisturbed.
 
-#### Characteristics of Commercial Continuous Flow Worm Farms
+#### Characteristics of Continuous Flow Through (CFT) Vermicomposting Systems 
 
 All commercial-scale beds are essentially rigid, single-compartment structures with mesh bottoms.
 
 <p align="center">
-  <img src="https://github.com/danielneil/Smart-Worm-Habitat/blob/main/images/cf-bin.jpg?raw=true">
+	<img src="https://github.com/danielneil/Smart-Worm-Habitat/blob/main/images/cf-bin.jpg?raw=true">
 </p>
 
 A cutting bar or “breaker” bar is pushed or pulled just above the mesh, releasing the bottom 1-2 inches of finished vermicompost through the mesh to the floor or conveyor below.
@@ -115,14 +115,14 @@ A cutting bar or “breaker” bar is pushed or pulled just above the mesh, rele
 This cutting bar is powered electrically, hydraulically, or through the use of a manual winch for smaller systems. The winches exist on both ends of the CFT, and are able to pull the cutting bar back and forth.
 
 <p align="center">
-<img src="https://github.com/danielneil/Smart-Worm-Habitat/blob/main/images/cf-bin-both-ends.jpg" />
+	<img src="https://github.com/danielneil/Smart-Worm-Habitat/blob/main/images/cf-bin-both-ends.jpg" />
 </p>
 
 The cutting bar will effectively "slice off" the bottom inch of vermicompost, resulting in it falling through the mesh, onto the ground below (probably into containers). 
 
 <p align="center">
-<img src="https://github.com/danielneil/Smart-Worm-Habitat/blob/main/images/cf-bin-grate-underside.jpg?raw=true">
-<img src="https://github.com/danielneil/Smart-Worm-Bin/blob/main/images/cf-bin-grate.jpg?raw=true">
+	<img src="https://github.com/danielneil/Smart-Worm-Habitat/blob/main/images/cf-bin-grate-underside.jpg?raw=true">
+	<img src="https://github.com/danielneil/Smart-Worm-Bin/blob/main/images/cf-bin-grate.jpg?raw=true">
 </p>
 
 All industrial-scale CFTs feature materials that should be highly-resistant or impervious to the moisture that is constantly present in a worm composting bin.
