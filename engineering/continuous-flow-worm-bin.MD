@@ -161,10 +161,13 @@ Constants:
 	
 The unit will be supported by legs which effectively raise the bed to allow for the collection of vermicompost underneath:
 
-	The legs will raise the bed 40cm off the ground.
-	The legs will have wheels on the bottom to assist in movement of the CFT.
+	The legs will raise the bed 40cm off the ground (therefore the CFT have a height of legs(40cm) + frame height(75cm), 115cm).
+	The legs will have wheels (with locks) to assist with movement of the CFT.
+	The legs will need support the CFT (and mesh) should its volume were full of vermicompost.
 
 The walls of the CFT will comprise of solid material impervous to moisture, strong enough to withstand the volume weight of the CFT should it be full of vermicompost. 
+
+The mesh should completely cover the bottom of the CFT, and have perforation (holes/gaps) of 2-3 inches. 
 
 ###### CFT - Materials
 
@@ -172,23 +175,25 @@ The walls of the CFT will comprise of solid material impervous to moisture, stro
 	Mesh/grates to be galvanised steel
 	Walls to be contructed from polyprolene
 
-####  Breaker/Cutting bar and cable - Dimensions
+####  Cutting Bar and Cable - Dimensions
 
-#### Breaker/Cutting Bar
+##### Cutting Bar
 Constants:
 
 	Height: 2cm 
 	Width: 10cm 
 	Length: 145cm
 
-#### Cable 
+The cutting bar should be "raised" 1-2 inches off the mesh, in order to maximise the volume of the harvest (or scrape). Maybe "guide bars" can run the length of the CFT, which the cutting bar "rests" on.  
+
+##### Cable 
 Constants:
 
 	Length: 220?cm
 
-#####  Breaker/Cutting bar and cable - Materials 
+#####  Cutting Bar and Cable - Materials 
  
- 	Breaker bar to be made of stainless steel  
+ 	Cutting bar to be made of stainless steel  
 	Cable will be made of stainless steel.
  
 #### Winches 
@@ -200,7 +205,7 @@ For the prototype, the winches will consist of (2) hand driven winches, mounted 
 <img src="https://github.com/danielneil/Smart-Worm-Bin/blob/main/images/winch.JPG?raw=true">
 </p>
 	
-The winches will be able to "wind in", and pull the cable in both directions, effectively to allow a "scrape" to occur in both directions.
+The winches will be able to "wind" the cable in, and pull the cutting/bar in both directions, effectively to allow a "scrape" to occur in both directions.
 	
 *Pros and cons of the current solution*
 
