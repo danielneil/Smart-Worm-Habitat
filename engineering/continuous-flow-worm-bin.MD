@@ -142,7 +142,7 @@ The unit will be supported by legs which effectively raise the bed to allow for 
 	The legs will raise the bed 40cm off the ground.
 	The legs will have wheels on the bottom to assist in movement of the CFT.
 
-The walls of the CFT will 
+The walls of the CFT will comprise of solid material impervous to moisture, strong enough to withstand the volume weight of the CFT should it be full of vermicompost. 
 
 ##### Materials
 
@@ -153,12 +153,11 @@ The walls of the CFT will
 #### Dimensions of the breaker bar and cable
 
 Constants:
+
 	Height: 2cm 
 	Width: 10cm 
 	Length: 145cm
 	Therefore 
-
-	Volume = 200cm x 150cm X 8cm 
  
 ##### Materials 
  
@@ -167,12 +166,14 @@ Constants:
  
 #### Winches 
 
-For the prototype, the winches will consist of (2) hand driven winches on either side of the bed. 
+For the prototype, the winches will consist of (2) hand driven winches, mounted to each far side of the bed.     
 
 <p align="center">
 <img src="https://github.com/danielneil/Smart-Worm-Habitat/blob/main/images/hand-winches.jpg?raw=true">
 <img src="https://github.com/danielneil/Smart-Worm-Bin/blob/main/images/winch.JPG?raw=true">
 </p>
+	
+The winches will be able to pull the cable in both directions, effectively to allow a "scrape" to occur in both directions.
 	
 *Pros and cons of the current solution*
 
