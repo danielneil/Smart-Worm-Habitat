@@ -43,11 +43,11 @@ The software will also provide a data entry tool to record the weights of input 
 
 ## It sends alerts, too!
 
-The system will monitor specific items and alert workers whenever they go above or below the declared thresholds.
+The SWH will monitor and send alerts whenever it suspects the worms are in trouble! 
 
-The alerts will be a pretty WebUI  coupled with email notification. 
+The alerts will be a pretty WebUI coupled with email notification. 
 
-## And it can watch them ;)
+## And...it can watch them ;)
 
 An infrared camera will takes a happy snap every 30 minutes, with its primary purpose to monitor worm feeding and migration patterns.
 
