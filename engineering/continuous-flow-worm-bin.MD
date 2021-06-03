@@ -78,7 +78,12 @@ Installation of Smart Worm Habitat (SWH) computing capability to occur after ins
 
 *Conditions and resources that need to be present and accessible for the solution to work as described.*
 
-N/A
+* An appropriately qualified draftsman will be required to draft the CFT design
+* An engineering firm will be required to use the drafts (as above) to construct the CFT. 
+* CFT will be setup/installed at an indoor testing facility (Daniel's basement)
+* CFT will require appropriate environmental conditions (temp, ph, moisture) levels to ensure optimal functionality.
+* CFT will have an appropriate amount of input (worm food) 
+* CFT will have cointainers underneath to catch harvested product during a "scrape".
 
 <a name="Solutions"/>
 
