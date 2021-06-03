@@ -1,9 +1,9 @@
 # Detailed Design - Continous Flow Worm Bin
 
 * Title: Detailed Design for a Traditional Continous Flow Worm Bin
-* Author(s): Daniel N
+* Author(s): Daniel N Hodder
 * Team: NA
-* Reviewer(s): Anthony 
+* Reviewer(s):  
 * Created on: 01/06/2021
 * Last updated: NA
 * Epic, ticket, issue, or task tracker reference link: NA
