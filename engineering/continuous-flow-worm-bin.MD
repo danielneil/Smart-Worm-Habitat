@@ -114,7 +114,11 @@ A cutting bar or “breaker” bar is pushed or pulled just above the mesh, rele
 
 This cutting bar is powered electrically, hydraulically, or through the use of a manual winch for smaller systems. 
 
-The cutting bar will effectively "slice off" the bottom inch of vermicompost, resulting in it falling through the mesh, onto the ground below (into containers). 
+<p align="center">
+<img src="https://github.com/danielneil/Smart-Worm-Habitat/blob/main/images/cf-bin-both-ends.jpg" />
+</p>
+
+The cutting bar will effectively "slice off" the bottom inch of vermicompost, resulting in it falling through the mesh, onto the ground below (probably into containers). 
 
 <p align="center">
 <img src="https://github.com/danielneil/Smart-Worm-Habitat/blob/main/images/cf-bin-grate-underside.jpg?raw=true">
