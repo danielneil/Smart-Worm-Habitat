@@ -117,6 +117,8 @@ The cutting bar will effectively "slice off" the bottom inch of vermicompost, re
 
 All industrial-scale CFTs feature materials that should be highly-resistant or impervious to the moisture that is constantly present in a worm composting bin.
 
+Further Reference: [Video Reference](https://www.youtube.com/watch?v=JM24ybDSopg)
+
 ### Dimensions and Materials
 
 #### Dimensions of the CFT.
@@ -143,10 +145,10 @@ The unit will be supported by legs which effectively raise the bed to allow for 
 ##### Materials
 
 	Frame to be contructed of steel square tube  (galvanised or painted) 
-	Mesh to be steel (stainless)
+	Mesh/grates to be galvanised steel
 	Walls to be contructed from 
 
-#### Dimensions of the breaker bar
+#### Dimensions of the breaker bar and cable
 
 Constants:
 	Height: 2cm 
