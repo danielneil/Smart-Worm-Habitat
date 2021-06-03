@@ -67,9 +67,13 @@ To reduce the greenhouse gases associated with food waste and its correlation to
 
 *Product and technical requirements that will be disregarded*
 
+This detailed design only concerns the contruction of the CFT, and all other items (computer, software), are out of scope. 
+
 ## f. Future Goals
 
 *Product and technical requirements slated for a future time*
+
+Installation of Smart Worm Habitat (SWH) computing capability to occur after installation in testing facility. 
 
 ## g. Assumptions
 
