@@ -63,7 +63,15 @@ Food waste which is not composted, rots and release methane into the atmosphere,
 
 *Product requirements in the form of user stories*
 
+* How can I quickly break down food waste prior to its decomposition and resulting methane emissions occurring.  
+* How can I efficiently harvest vermicast from a vermacompost system?
+* How can I keep the disturbance to the worms in the system to the minium (with regards to the above). 
+
 *Technical requirements*
+
+The CFT should be designed to be "prefab" or modular, in that it can be destructed/constructed with tools commonly found in households (e.g. screw drivers/allen keys/shifters). 
+
+The CFT should also be able to transported easily e.g. in the pack of pickup/utility.
 
 ## e. Non-Goals or Out of Scope
 
@@ -129,10 +137,6 @@ The cutting bar will effectively "slice off" the bottom inch of vermicompost, re
 All industrial-scale CFTs feature materials that should be highly-resistant or impervious to the moisture that is constantly present in a worm composting bin.
 
 Further Reference: [Video](https://www.youtube.com/watch?v=JM24ybDSopg)
-
-The CFT should be designed to be "prefab" or modular, in that it can be destructed/constructed with tools commonly found in households (e.g. screw drivers/allen keys/shifters). 
-
-The CFT should also be able to transported easily e.g. in the pack of pickup/utility.
 
 ### Dimensions and Materials
 
