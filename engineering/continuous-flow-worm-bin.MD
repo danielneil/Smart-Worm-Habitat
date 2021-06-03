@@ -105,12 +105,11 @@ All commercial-scale beds are essentially rigid, single-compartment structures w
 
 A cutting bar or “breaker” bar is pushed or pulled just above the mesh, releasing the bottom 1-2 inches of finished vermicompost through the mesh to the floor or conveyor below.
 
-This cutting bar is powered electrically, hydraulically, or through the use of a manual winch for smaller systems.
+This cutting bar is powered electrically, hydraulically, or through the use of a manual winch for smaller systems. The cutting bar will effectively slice through the bottom "inch" of vermicast. 
 
 <p align="center">
 <img src="https://github.com/danielneil/Smart-Worm-Habitat/blob/main/images/cf-bin-grate-underside.jpg?raw=true">
 <img src="https://github.com/danielneil/Smart-Worm-Bin/blob/main/images/cf-bin-grate.jpg?raw=true">
-<img src="https://github.com/danielneil/Smart-Worm-Bin/blob/main/images/winch.JPG?raw=true">
 </p>
 
 All industrial-scale CFTs feature materials that should be highly-resistant or impervious to the moisture that is constantly present in a worm composting bin.
@@ -148,8 +147,13 @@ Constants:
  
 #### Winches 
 
-For the prototype, the winches will consist of hand driven 
- 
+For the prototype, the winches will consist of (2) hand driven winches on either side of the bed. 
+
+<p align="center">
+<img src="https://github.com/danielneil/Smart-Worm-Habitat/blob/main/images/hand-winches.jpg?raw=true">
+<img src="https://github.com/danielneil/Smart-Worm-Bin/blob/main/images/winch.JPG?raw=true">
+</p>
+	
 *Pros and cons of the current solution*
 
 While vermicomposting in buckets or single Rubbermaid bins can be effective, you’re stuck with a problem.
