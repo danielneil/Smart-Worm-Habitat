@@ -8,7 +8,7 @@
 ## Engineering Design and Requirements Analysis (Stage 2) 
 
 - [ ] Continuous Flow Through (CFT) worm bin - [Detailed Design](https://github.com/danielneil/Smart-Worm-Habitat/blob/main/engineering/continuous-flow-worm-bin.MD).
-- [ ] Smart Worm Habitat - Detailed Design.
+- [ ] Smart Worm Habitat (SWH) - Detailed Design.
 - [ ] Little Computer (nawwww) - Detailed Design.
 - [ ] Data Entry System - Detailed Design.
 - [ ] Alerting System - Detailed Design.
