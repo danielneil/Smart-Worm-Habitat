@@ -112,7 +112,7 @@ This bottom-to-top flow requires:
 
 #### Characteristics of Continuous Flow Through (CFT) Vermicomposting Systems 
 
-All commercial-scale beds are essentially rigid, single-compartment structures with mesh bottoms.
+All CFTs are essentially rigid, single-compartment structures with mesh bottoms.
 
 <p align="center">
 	<img src="https://github.com/danielneil/Smart-Worm-Habitat/blob/main/images/cf-bin.jpg?raw=true">
@@ -120,7 +120,7 @@ All commercial-scale beds are essentially rigid, single-compartment structures w
 	 (<a href ="https://urbanwormcompany.com/complete-guide-to-continuous-flow-vermicomposting">Image Reference</a>)
 </p>
 
-A cutting bar or “breaker” bar is pushed or pulled just above the mesh, releasing the bottom 1-2 inches of finished vermicompost through the mesh to the floor or conveyor below.
+A "cutting bar" (or “breaker bar") is pushed or pulled just above the mesh, releasing the bottom inch of finished vermicompost through the mesh to the floor or conveyor below.
 
 This cutting bar is powered electrically, hydraulically, or through the use of a manual winch for smaller systems. The winches exist on both ends of the CFT, and are able to pull the cutting bar back and forth.
 
@@ -171,7 +171,7 @@ The mesh should completely cover the bottom of the CFT, and have perforation (ho
 
 ###### CFT - Materials
 
-	Frame to be contructed of steel square tube  (galvanised or painted) 
+	Frame (and legs) to be contructed of steel square tube  (galvanised or painted) 
 	Mesh/grates to be galvanised steel
 	Walls to be contructed from polyprolene
 
@@ -184,7 +184,7 @@ Constants:
 	Width: 10cm 
 	Length: 145cm
 
-The cutting bar should be "raised" 1-2 inches off the mesh, in order to maximise the volume of the harvest (or scrape). Maybe "guide bars" can run the length of the CFT, which the cutting bar "rests" on, with these guide bars resting on the mesh.  
+The cutting bar should be "raised" 1 inch on top of the mesh, in order to maximise the volume of the harvest (or scrape). Maybe "guide bars" can run the length of the CFT, which the cutting bar "rests" on, with these guide bars, one inch in height, resting on the mesh, below.  
 
 ##### Cable 
 Constants:
