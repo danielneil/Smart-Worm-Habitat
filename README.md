@@ -56,6 +56,5 @@ P.s. they always go for the watermelon first.
 1. If you wish to participate in R&D, read the [guide](https://github.com/danielneil/Smart-Worm-Habitat/tree/main/engineering).
 2. Or please consider giving a donation - [gofund.me campaign](https://gofund.me/1dbc1ac6).
 
-# What is the purpose of this project?
-[Mantra](https://github.com/danielneil/Smart-Worm-Habitat/blob/main/doc/mantra.md)
+[What is the purpose of doing this?](https://github.com/danielneil/Smart-Worm-Habitat/blob/main/doc/mantra.md)
 
