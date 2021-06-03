@@ -187,7 +187,9 @@ Constants:
 	Width: 10cm 
 	Length: 145cm
 
-The cutting bar should be "raised" 1 inch on top of the mesh, in order to maximise the volume of the harvest (or scrape). Maybe "guide bars" can run the length of the CFT, which the cutting bar "rests" on, with these guide bars, one inch in height, resting on the mesh, below.  
+The cutting bar should be "raised" 1 inch on top of the mesh, in order to maximise the volume of the harvest (or scrape). 
+
+Maybe "guide bars" can run the length of the CFT, which the cutting bar "rests" on, with these guide bars, one inch in height, resting on the mesh, below.  
 
 ##### Cable 
 Constants:
