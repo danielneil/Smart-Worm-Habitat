@@ -68,7 +68,7 @@ The CFT should also be able to transported easily e.g. in the back of pickup/uti
 
 *Product and technical requirements that will be disregarded*
 
-This detailed design only concerns the contruction of the CFT, and all other items (computer, software), are out of scope. 
+This detailed design only concerns the materials and contruction associated with the CFT, and all other items (electronics, software), are out of scope. 
 
 ## f. Future Goals
 
