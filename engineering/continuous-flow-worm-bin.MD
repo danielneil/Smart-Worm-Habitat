@@ -116,6 +116,7 @@ All commercial-scale beds are essentially rigid, single-compartment structures w
 
 <p align="center">
 	<img src="https://github.com/danielneil/Smart-Worm-Habitat/blob/main/images/cf-bin.jpg?raw=true">
+	<br />
 	 (<a href ="https://urbanwormcompany.com/complete-guide-to-continuous-flow-vermicomposting">Image Reference</a>)
 </p>
 
@@ -125,6 +126,8 @@ This cutting bar is powered electrically, hydraulically, or through the use of a
 
 <p align="center">
 	<img src="https://github.com/danielneil/Smart-Worm-Habitat/blob/main/images/cf-bin-both-ends.jpg" />
+		<br />
+	 (<a href ="http://dirtmaker.com/">Image Reference</a>)
 </p>
 
 The cutting bar will effectively "slice off" the bottom inch of vermicompost, resulting in it falling through the mesh, onto the ground below (probably into containers). 
