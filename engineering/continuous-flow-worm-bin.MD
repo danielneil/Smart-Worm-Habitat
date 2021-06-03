@@ -130,6 +130,10 @@ All industrial-scale CFTs feature materials that should be highly-resistant or i
 
 Further Reference: [Video](https://www.youtube.com/watch?v=JM24ybDSopg)
 
+The CFT should be designed to be "prefab" or modular, in that it can be destructed/constructed with tools commonly found in households (e.g. screw drivers/allen keys/shifters). 
+
+The CFT should also be able to transported easily e.g. in the pack of pickup/utility.
+
 ### Dimensions and Materials
 
 #### CFT - Dimensions 
