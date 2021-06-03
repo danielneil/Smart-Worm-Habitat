@@ -1,12 +1,12 @@
-# Detailed Design - Smart Worm Habitat
+# Detailed Design - Document Template
 
-* Title: Detailed Design for Smart Worm Habitat
-* Author(s): Daniel N
-* Team: NA
-* Reviewer(s): Anthony 
-* Created on: 01/06/2021
-* Last updated: NA
-* Epic, ticket, issue, or task tracker reference link: NA
+* Title 
+* Author(s)
+* Team
+* Reviewer(s)
+* Created on
+* Last updated
+* Epic, ticket, issue, or task tracker reference link
 
 # Table of Contents
 * [1. Introduction](#Introduction)
@@ -24,12 +24,6 @@
 ## a. Overview - Problem Description / Summary / Abstract
 
 *Summary of the problem (from the perspective of the user), the context, suggested solution, and the stakeholders.*
-
-**The problem:** 
-
-How can one monitor a continuous flow worm system to ensure internal conditions encourage worm procreation and their ability to consume food waste and convert it into vermicast.
-
-Traditional continuous flow worm bins require users to manually inspect the conditions of the bin, this is mutually exclusive with performing vermiculture at large scale. The Smart Worm Habitat will utilise computer technology to monitor and alert users when the conditions of the habtitat are suboptimal. 
 
 ## b. Glossary  or Terminology
 
@@ -54,11 +48,9 @@ Traditional continuous flow worm bins require users to manually inspect the cond
 
 * Product and technical requirements that will be disregarded
 
-The design of the computer and associated software is not in scope of this document.
-
 ## f. Future Goals
 
-*Product and technical requirements slated for a future time
+* Product and technical requirements slated for a future time
 
 ## g. Assumptions
 
@@ -70,98 +62,42 @@ The design of the computer and associated software is not in scope of this docum
 
 ## a. Current or Existing Solution / Design
 
-*Current solution description*
-
-Continuous flow vermicomposting is a method of vermicomposting where composting worms are fed organic matter from the top and worm castings are 
-eventually harvested from the bottom. 
-
-<p align="center">
-  <img src="https://github.com/danielneil/Smart-Worm-Habitat/blob/main/images/cf-bin.jpg?raw=true">
-</p>
-
-Continuous flow vermicomposting can be considered to be a raised bed or "flow-through" system. 
-
-Here the worms are fed an *inch(?)* of "worm chow" across the top of the bed, and an *inch(?)* of castings are harvested from below by pulling a breaker bar across the large mesh screen which forms the base of the bed. 
-
-The breaker bar is connected via circular length of wire which is driven my an electronic winch. 
-
-<p align="center">
-<img src="https://github.com/danielneil/Smart-Worm-Habitat/blob/main/images/cf-bin-grate-underside.jpg?raw=true">
-<img src="https://github.com/danielneil/Smart-Worm-Bin/blob/main/images/cf-bin-grate.jpg?raw=true">
-<img src="https://github.com/danielneil/Smart-Worm-Bin/blob/main/images/winch.JPG?raw=true">
-</p>
-
-### Habitat Size Calculations 
-
-The size of a standard continous flow system are used, and are included here for brevity. 
-
-#### Metrics for 1 unit of habitat (Overall volume of one module of the habitat). 
-
-Formula:
-	Volume =  Length x Width x Height (Rectangle Prism)  
-
-Constants:
-	Height: 63.5cm (Height based on worm behavior) 
-	Width: 150cm 
-	Length: 200cm
-	Therefore 
-
-	Volume = 200cm x 150cm X 63.5cm 
-
-#### Volume of product produced from a single scrape  
-
-#### Metrics for 1 unit of a scrape (how much vermicast will a single scrape produce). 
-
-Formula:
-	Volume =  Length x Width x Height (Rectangle Prism)  
-
-Constants:
-	Height: 8cm(?) (Height based on worm behavior) 
-	Width: 150cm 
-	Length: 200cm
-	Therefore 
-
-	Volume = 200cm x 150cm X 8cm 
- 
-*Pros and cons of the current solution*
-
-The pros of this design, is that its method of harvesting is easily automated, unlike Windrow composting, which (1) requires the ground underneath to be sealed, (2) requires machinery (like tractors), and (3) requires periodically aerating the compost. 
-
-The cons of the current design is that internal conditions of the bin require manual inspection to ensure they are optimal e.g. not too wet/dry/acidic, which makes using this method of vermiculture resource prohibitive at large scale. 
+* Current solution description
+* Pros and cons of the current solution
 
 ## b. Suggested or Proposed Solution / Design 
 
-The proposed solution is an extension of traditonal continuous flow vermicomposting with the inclusion of technology to automate the ardous tasks usually required of humans. 
-
-*External components that the solution will interact with and that it will alter*
-
-The computer will interact with the worm bin directly 
-
-It will monitor the following specifics of the Habitat:
-* Internal Temp
-* External Temp
-* Habitat Moisture
-* pH level
-
-It will not alter/interfere with the habitat in anyway, it will merely "watch" it. 
-
-*Dependencies of the current solution
-
-The current solution requires an appropriate environment in regards to its optimal operation. Namely temp, pH, moisture.
-
-The Habitat also requires regular input (feeding) to ensure the worms have adequate nutrition in regards to their replication characteristics.  
-
-*Pros and cons of the proposed solution 
-
-*User requirements
-
-*Transportation concerns
-
-*How will the solution scale?
-
-*What are the limitations of the solution?
-
-*How will it cope with future requirements?
+* External components that the solution will interact with and that it will alter
+* Dependencies of the current solution
+* Pros and cons of the proposed  solution 
+* Data Model / Schema Changes
+* Schema definitions
+* New data models
+* Modified data models
+* Data validation methods
+* Business Logic
+* API changes
+* Pseudocode
+* Flowcharts
+* Error states
+* Failure scenarios
+* Conditions that lead to errors and failures
+* Limitations
+* Presentation Layer
+* User requirements
+* UX changes
+* UI changes
+* Wireframes with descriptions
+* Links to UI/UX designer’s work
+* Mobile concerns
+* Web concerns
+* UI states
+* Error handling
+* Other questions to answer
+* How will the solution scale?
+* What are the limitations of the solution?
+* How will it recover in the event of a failure?
+* How will it cope with future requirements?
 
 ## c. Test Plan
 
@@ -187,17 +123,9 @@ The Habitat also requires regular input (feeding) to ensure the worms have adequ
 
 ## f. Rollback Plan
 
-*Detailed and specific liabilities 
-
-NA
-
-*Plan to reduce liabilities
-
-NA
-
-*Plan describing how to prevent other components, services, and systems from being affected
-
-NA
+* Detailed and specific liabilities 
+* Plan to reduce liabilities
+* Plan describing how to prevent other components, services, and systems from being affected
 
 ## g. Alternate Solutions / Designs
 
