@@ -43,7 +43,7 @@ Therefore, a definition of the problem is;
 
 *Reasons why the problem is worth solving*
 
-To reduce the greenhouse gases caused by food waste and its flow on affects in climate change. 
+To reduce the greenhouse gases associated with food waste and its correlation to climate change. 
 
 *Origin of the problem*
 
