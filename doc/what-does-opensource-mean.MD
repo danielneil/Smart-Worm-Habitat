@@ -1,3 +1,9 @@
 # What does "open source" mean?
 
-Traditionally the term "open source" applied to software, which meant **"denoting software for which the original source code is made freely available and may be redistributed and modified."**
+
+The term open source refers to something people can modify and share because its design is publicly accessible.
+
+The term originated in the context of software development to designate a specific approach to creating computer programs. Today, however, "open source" designates a broader set of values—what we call "the open source way." Open source projects, products, or initiatives embrace and celebrate principles of open exchange, collaborative participation, rapid prototyping, transparency, meritocracy, and community-oriented development.
+
+Reference:
+* https://opensource.com/resources/what-open-source
