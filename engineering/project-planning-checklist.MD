@@ -2,7 +2,7 @@
 
 ## GoFund Me Campaign (Stage 1) 
 
-- [x] Create GoFund me campaign
+- [x] Create [GoFund me](https://www.gofundme.com/manage/smart-worm-farm) campaign
 - [x] Publish to social media (facebook, reddit, etc)
 
 ## Engineering Design and Requirements Analysis (Stage 2) 
