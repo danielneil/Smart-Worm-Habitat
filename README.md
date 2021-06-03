@@ -2,8 +2,6 @@
 
 An open [source design](https://github.com/danielneil/Smart-Worm-Habitat/blob/main/what-does-opensource-mean.md) for a modular worm habitat that efficiently converts food waste into vermicast, and monitors the health of itself using a little computer (nawww). 
 
-[What is the purpose of this project?](https://github.com/danielneil/Smart-Worm-Habitat/blob/main/doc/mantra.md)
-
 <p align="center">
   <img src="https://github.com/danielneil/Smart-Worm-Habitat/blob/main/images/cad-concept2.png?raw=true">
 </p>
@@ -57,3 +55,7 @@ P.s. they always go for the watermelon first.
 
 1. If you wish to participate in R&D, read the [guide](https://github.com/danielneil/Smart-Worm-Habitat/tree/main/engineering).
 2. Or please consider giving a donation - [gofund.me campaign](https://gofund.me/1dbc1ac6).
+
+# What is the purpose of this project?
+[Mantra](https://github.com/danielneil/Smart-Worm-Habitat/blob/main/doc/mantra.md)
+
