@@ -4,6 +4,8 @@ An open source design for a modular worm habitat that efficiently converts food 
 
 [What is the purpose of this project?](https://github.com/danielneil/Smart-Worm-Habitat/blob/main/mantra.md)
 
+[What does open souce mean?]((https://github.com/danielneil/Smart-Worm-Habitat/blob/main/what-is-opensource.md)
+
 <p align="center">
   <img src="https://github.com/danielneil/Smart-Worm-Habitat/blob/main/images/cad-concept2.png?raw=true">
 </p>
