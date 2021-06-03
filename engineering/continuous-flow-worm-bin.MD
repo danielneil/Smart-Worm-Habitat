@@ -63,11 +63,11 @@ Therefore, a definition of the problem is;
 
 ## e. Non-Goals or Out of Scope
 
-*Product and technical requirements that will be disregarded
+*Product and technical requirements that will be disregarded*
 
 ## f. Future Goals
 
-*Product and technical requirements slated for a future time
+*Product and technical requirements slated for a future time*
 
 ## g. Assumptions
 
