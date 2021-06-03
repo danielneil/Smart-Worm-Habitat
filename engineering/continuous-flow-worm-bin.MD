@@ -1,6 +1,6 @@
 # Detailed Design - Continous Flow Worm Bin
 
-* Title: Detailed Design for Continous Flow Worm Bin
+* Title: Detailed Design for a Traditional Continous Flow Worm Bin
 * Author(s): Daniel N
 * Team: NA
 * Reviewer(s): Anthony 
@@ -26,10 +26,6 @@
 *Summary of the problem (from the perspective of the user), the context, suggested solution, and the stakeholders.*
 
 **The problem:** 
-
-How can one monitor a continuous flow worm system to ensure internal conditions encourage worm procreation and their ability to consume food waste and convert it into vermicast.
-
-Traditional continuous flow worm bins require users to manually inspect the conditions of the bin, this is mutually exclusive with performing vermiculture at large scale. The Smart Worm Habitat will utilise computer technology to monitor and alert users when the conditions of the habtitat are suboptimal. 
 
 ## b. Glossary  or Terminology
 
@@ -69,6 +65,8 @@ The design of the computer and associated software is not in scope of this docum
 # 2. Solutions
 
 ## a. Current or Existing Solution / Design
+
+## b. Suggested or Proposed Solution / Design 
 
 *Current solution description*
 
@@ -129,7 +127,6 @@ The pros of this design, is that its method of harvesting is easily automated, u
 
 The cons of the current design is that internal conditions of the bin require manual inspection to ensure they are optimal e.g. not too wet/dry/acidic, which makes using this method of vermiculture resource prohibitive at large scale. 
 
-## b. Suggested or Proposed Solution / Design 
 
 The proposed solution is an extension of traditonal continuous flow vermicomposting with the inclusion of technology to automate the ardous tasks usually required of humans. 
 
