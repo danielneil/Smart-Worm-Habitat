@@ -2,11 +2,8 @@
 
 * Title:
 * Author(s):
-* Team:
 * Reviewer(s):
 * Created on:
-* Last updated:
-* Epic, ticket, issue, or task tracker reference link:
 
 # Table of Contents
 * [1. Introduction](#Introduction)
