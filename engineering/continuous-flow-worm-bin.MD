@@ -110,7 +110,7 @@ The breaker bar is connected via circular length of wire which is driven my an e
 #### Metrics for a single bin unit.
 
 Formula:
-	*standard calculation of a rectangular prism:
+
 	Volume =  Length x Width x Height (Rectangle Prism)  
 
 Constants:
