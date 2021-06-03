@@ -95,7 +95,7 @@ eventually harvested from the bottom.
   <img src="https://github.com/danielneil/Smart-Worm-Habitat/blob/main/images/cf-bin.jpg?raw=true">
 </p>
 
-Continuous flow vermicomposting can be considered to be a raised bed or "flow-through" system. 
+Continuous flow vermicomposting can be considered to be a "raised bed" or "flow-through" system. 
 
 Here the worms are fed an *inch(?)* of "worm chow" across the top of the bed, and an *inch(?)* of castings are harvested from below by pulling a breaker bar across the large mesh screen which forms the base of the bed. 
 
@@ -109,7 +109,7 @@ The breaker bar is connected via circular length of wire which is driven my an e
 
 ### Dimensions
 
-#### Dimensions for a single "bin" unit.
+#### Dimensions for a single "bed" unit.
 
 Formula:
 
@@ -123,6 +123,8 @@ Constants:
 	Therefore 
 
 	Volume = 200cm x 150cm X 63.5cm 
+	
+The unit will be supported by metal legs which effectively raise the "bed"  
 
 #### Dimensions of the breaker bar
 
@@ -133,6 +135,8 @@ Constants:
 	Therefore 
 
 	Volume = 200cm x 150cm X 8cm 
+ 
+#### Winches 
  
 *Pros and cons of the current solution*
 
