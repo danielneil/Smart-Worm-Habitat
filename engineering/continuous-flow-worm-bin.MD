@@ -47,6 +47,8 @@ To reduce the greenhouse gases associated with food waste and its correlation to
 
 *Origin of the problem*
 
+Food waste which is not composted, rots and release methane into the atmosphere, contributing to climate change. 
+
 *How the problem affects users and company goals*
 
 *Past efforts made to solve the solution and why they were not effective*
