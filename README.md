@@ -2,9 +2,9 @@
 
 An open source design for a modular worm habitat that efficiently converts food waste into vermicast, and monitors the health of itself using a little computer (nawww). 
 
-[What is the purpose of this project?](https://github.com/danielneil/Smart-Worm-Habitat/blob/main/mantra.md)
+[What is the purpose of this project?](https://github.com/danielneil/Smart-Worm-Habitat/blob/main/doc/mantra.md)
 
-[What does open souce mean?]((https://github.com/danielneil/Smart-Worm-Habitat/blob/main/what-is-opensource.md)
+[What does open souce mean?]((https://github.com/danielneil/Smart-Worm-Habitat/blob/main/what-does-opensource-mean.md)
 
 <p align="center">
   <img src="https://github.com/danielneil/Smart-Worm-Habitat/blob/main/images/cad-concept2.png?raw=true">
