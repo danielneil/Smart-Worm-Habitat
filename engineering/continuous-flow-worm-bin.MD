@@ -1,6 +1,6 @@
-# Detailed Design - Traditional Continous Flow Worm Bin
+# Detailed Design - Traditional Continous Flow Through (CFT) Worm Bin
 
-* Title: Detailed Design for a Traditional Continous Flow Worm Bin
+* Title: Detailed Design for a Traditional Continous Flow Through (CFT) Worm Bin
 * Author(s): Daniel N Hodder
 * Team: NA
 * Reviewer(s):  
@@ -90,24 +90,25 @@ NA
 
 ### Overview 
 
-Continuous flow is a method of vermicomposting where composting worms are fed organic matter from the top and worm castings are eventually harvested from the bottom or removed from a bottom tray. 
+Continuous Flow Through (CFT) is a method of vermicomposting where composting worms are fed organic matter from the top and worm castings are eventually harvested from the bottom or removed from a bottom tray. 
 
 This bottom-to-top flow requires:
 
 * a container or "bed" that allows for harvesting from the bottom to allow the worms working in the top layers of the bin to remain undisturbed.
 
-<p align="center">
-  <img src="https://github.com/danielneil/Smart-Worm-Habitat/blob/main/images/cf-bin.jpg?raw=true">
-</p>
-
-
 #### Characteristics of Commercial Continuous Flow Worm Farms
 
 All commercial-scale beds are essentially rigid, single-compartment structures with mesh bottoms.
 
+<p align="center">
+  <img src="https://github.com/danielneil/Smart-Worm-Habitat/blob/main/images/cf-bin.jpg?raw=true">
+</p>
+
 A cutting bar or “breaker” bar is pushed or pulled just above the mesh, releasing the bottom 1-2 inches of finished vermicompost through the mesh to the floor or conveyor below.
 
-This cutting bar is powered electrically, hydraulically, or through the use of a manual winch for smaller systems. The cutting bar will effectively slice through the bottom "inch" of vermicast. 
+This cutting bar is powered electrically, hydraulically, or through the use of a manual winch for smaller systems. 
+
+The cutting bar will effectively "slice off" the bottom inch of vermicompost, resulting in it falling through the mesh, onto the ground below (into containers). 
 
 <p align="center">
 <img src="https://github.com/danielneil/Smart-Worm-Habitat/blob/main/images/cf-bin-grate-underside.jpg?raw=true">
@@ -116,9 +117,9 @@ This cutting bar is powered electrically, hydraulically, or through the use of a
 
 All industrial-scale CFTs feature materials that should be highly-resistant or impervious to the moisture that is constantly present in a worm composting bin.
 
-### Dimensions
+### Dimensions and Materials
 
-#### Dimensions for a single "bed" unit.
+#### Dimensions of the CFT.
 
 Formula:
 
@@ -126,16 +127,24 @@ Formula:
 
 Constants:
 
-	Height: 75cm (Height based on worm behavior) 
-	Width: 150cm 
-	Length: 200cm
+	Frame Height: 75cm (Height based on worm behavior) 
+	Frame Width: 150cm 
+	Frame Length: 200cm
+	
 	Therefore 
 
-	Volume = 200cm x 150cm X 63.5cm 
+	Volume = 200cm x 150cm X 75cm 
 	
-The unit will be supported by metal legs which effectively raise the bed to allow for the collection of product underneath:
+The unit will be supported by legs which effectively raise the bed to allow for the collection of vermicompost underneath:
 
-	The legs will raise the bed 40cm off the ground. 
+	The legs will raise the bed 40cm off the ground.
+	The legs will have wheels on the bottom to assist in movement of the CFT.
+
+##### Materials
+
+	Frame to be contructed of steel square tube  (galvanised or painted) 
+	Mesh to be steel (stainless)
+	Walls to be contructed from 
 
 #### Dimensions of the breaker bar
 
@@ -146,6 +155,10 @@ Constants:
 	Therefore 
 
 	Volume = 200cm x 150cm X 8cm 
+ 
+##### Materials 
+ 
+ 	Breaker bar to be made of stainless steel  
  
 #### Winches 
 
