@@ -105,16 +105,16 @@ The breaker bar is connected via circular length of wire which is driven my an e
 <img src="https://github.com/danielneil/Smart-Worm-Bin/blob/main/images/winch.JPG?raw=true">
 </p>
 
-### Habitat Size Calculations 
+### Dimensions
 
-The size of a standard continous flow system are used, and are included here for brevity. 
-
-#### Metrics for 1 unit of habitat (Overall volume of one module of the habitat). 
+#### Metrics for a single bin unit.
 
 Formula:
+	*standard calculation of a rectangular prism:
 	Volume =  Length x Width x Height (Rectangle Prism)  
 
 Constants:
+
 	Height: 63.5cm (Height based on worm behavior) 
 	Width: 150cm 
 	Length: 200cm
@@ -122,12 +122,7 @@ Constants:
 
 	Volume = 200cm x 150cm X 63.5cm 
 
-#### Volume of product produced from a single scrape  
-
-#### Metrics for 1 unit of a scrape (how much vermicast will a single scrape produce). 
-
-Formula:
-	Volume =  Length x Width x Height (Rectangle Prism)  
+#### Metrics for a breaker bar 
 
 Constants:
 	Height: 8cm(?) (Height based on worm behavior) 
