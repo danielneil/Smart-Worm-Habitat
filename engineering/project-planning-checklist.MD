@@ -17,7 +17,7 @@
 
 ## Smart Worm Habitat Construction (Stage 3)
  
- - [ ] Approach engineering firm with Smart Worm Habitat cad drafts. 
+ - [ ] Approach local engineering firm with Traditional Continuous Flow Worm Bin cad drafts. 
  - [ ] Obtain quote for time and materials from engineering firm.
  - [ ] Obtain timelime estimation of construction from engineering firm.
  - [ ] Publish projected timeline for Smart Worm Habitat construction to GitHub.
