@@ -60,7 +60,7 @@ Food waste which is not composted, rots and release methane into the atmosphere,
 
 The CFT should be designed to be "prefab" or modular, in that it can be destructed/constructed with tools commonly found in households (e.g. screw drivers/allen keys/shifters). 
 
-The CFT should also be able to transported easily e.g. in the pack of pickup/utility.
+The CFT should also be able to transported easily e.g. in the back of pickup/utility.
 
 ## e. Non-Goals or Out of Scope
 
