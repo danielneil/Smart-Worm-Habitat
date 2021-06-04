@@ -65,7 +65,7 @@ The (destructed) CFT should also be able to transported easily e.g. in the back 
 
 *Product and technical requirements that will be disregarded*
 
-This detailed design only concerns the materials and contruction associated with the CFT, and all other items (electronics, software), are out of scope. 
+This detailed design only concerns the materials and contruction associated with the CFT, and all other items (electronics, software), are out of scope.
 
 ## f. Future Goals
 
@@ -75,6 +75,9 @@ This detailed design only concerns the materials and contruction associated with
 * Have a CFT constructed by an engineer/fabricator using the above CAD draft.
 * Deliver the desconstructed CFT to the testing facility.
 * Assembly the CFT in the testing facility. 
+
+TBD:
+Discuss the volume (weight) of weekly vermicast production, namely worm species, food input requirements, scrape dimensions, gas emissions calcuations and yada yada. 
 
 ## g. Assumptions
 
