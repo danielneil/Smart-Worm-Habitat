@@ -189,12 +189,12 @@ The mesh should completely cover the bottom of the CFT, and have perforation (ho
 Constants:
 
 	Height: 2cm 
-	Width: 10cm 
+	Width: 5cm 
 	Length: 145cm
 
 The cutting bar should be "raised" 1 inch on top of the mesh, in order to maximise the volume of the harvest (or scrape). 
 
-Potentially, "guide bars" could run the length of the CFT, which the cutting bar "rests" on, with these guide bars, one inch in height, resting on the mesh, below.  
+Potentially, "guide bars" could run the length of the CFT, which the cutting bar "rests" on, with these guide bars, two(2) inches in height, resting on the mesh, below.  
 
 ##### Cable 
 Constants:
