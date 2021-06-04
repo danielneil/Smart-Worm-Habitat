@@ -37,7 +37,7 @@ Well, you know how your smart phone is "smart" because it has a computer inside 
 
 The primary purpose of the SWH is to be able to efficiently covert captured food waste into vermicast, and reduce the associated greenhouse gases should that food waste had of ended up in landfill.
 
-The SWH will stop **3,249kg** of CO2-e entering the atmosphere (equivalent to 11.24 petrol tanks), every single month, and that's just one unit - imagine if we had lots of them!
+The SWH will stop **3,249kg** of CO2-e entering the atmosphere (equivalent to 7.02 petrol tanks), every single month, and that's just one unit - imagine if we had lots of them!
 
 The software will also provide a data entry tool to record the weights of input to calculate total emission savings.
 
