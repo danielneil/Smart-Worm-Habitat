@@ -44,14 +44,14 @@ To reduce the greenhouse gases associated with food waste and its correlation to
 
 *Origin of the problem*
 
-Food waste which is not composted, rots and release methane into the atmosphere, contributing to climate change. 
+Food waste which is not composted, rots and releases methane into the atmosphere, contributing to climate change. 
 
 ## d. Goals or Product and Technical Requirements
 
 *Product requirements in the form of user stories*
   
 * How can I quickly break down food waste prior to its decomposition and resulting methane emissions occurring.  
-* How can effectively use vermicomposting to break down the most foodwaste (e.g. which vermacomposting method)?
+* How can I effectively use vermicomposting to break down the most foodwaste (e.g. which vermacomposting method)?
 * How can I efficiently harvest vermicast from a vermacompost system?
 * How can I keep the disturbance to the worms in the system to the minium (with regards to the above). 
 
@@ -59,7 +59,7 @@ Food waste which is not composted, rots and release methane into the atmosphere,
 
 The CFT should be designed to be "prefab" or modular, in that it can be destructed/constructed with tools commonly found in households (e.g. screw drivers/hex & allen keys/shifters etc). 
 
-The (destructed) CFT should also be able to transported easily e.g. in the back of pickup/utility.
+The (deconstructed) CFT should also be able to transported easily e.g. in the back of pickup/utility.
 
 ## e. Non-Goals or Out of Scope
 
