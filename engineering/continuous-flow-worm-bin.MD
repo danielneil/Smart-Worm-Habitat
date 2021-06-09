@@ -2,7 +2,7 @@
 
 * Title: Detailed Design for a Continuous Flow Through (CFT) Worm Bin
 * Author(s): Daniel N Hodder
-* Reviewer(s): Packo, Carl
+* Reviewer(s): Packo, Boris, Sean
 * Created on: 01/06/2021
 * Version: 0.1
 
@@ -170,6 +170,7 @@ The unit will be supported by legs which effectively raise the CFT to allow for 
 
 	The legs will raise the CFT 40cm off the ground (therefore the CFT have a height of legs(40cm) + frame height(75cm), 115cm).
 	The legs will have wheels (with locks) to assist with movement of the CFT.
+	The wheels will be strong enough to support the weight of the CFT should it be completely full. 
 	The legs will need support the CFT (and mesh) should its volume were full of vermicompost.
 
 The walls of the CFT will comprise of solid material impervous to moisture, strong enough to withstand the volume weight of the CFT should it be full of vermicompost. 
@@ -252,7 +253,7 @@ The prefab design will hopefully be allow for scalablity e.g the addition of mor
 
 *What are the limitations of the solution?*
 
-Weight of the CFT could be significant (especially when full), making mobility troublsome - hence wheels (with locks).are on legs.
+Weight of the CFT could be significant (especially when full), making mobility troublsome - hence wheels (with locks) are on legs.
 
 *How will it cope with future requirements?*
 
