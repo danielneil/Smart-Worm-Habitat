@@ -18,7 +18,7 @@ Details are as per below:
 
 The Smart Worm Habitat is a continuous flow through (CFT) vermicompost system that converts food waste into vermicast.
 
-The primary purpose of the design is to be able to efficiently convert captured food waste into vermicast and reduce the associated greenhouse gases should that food waste have of ended up in landfill.
+The primary purpose of the design is to be able to efficiently convert captured food waste into vermicast and reduce the associated greenhouse gases should that food waste have ended up in landfill.
 
 The project is aiming to use open-source initiatives of open exchange, collaborative participation, rapid prototyping, transparency, meritocracy, and community-oriented development in the interests of combating  climate change. 
 
