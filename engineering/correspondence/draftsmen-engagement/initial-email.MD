@@ -6,7 +6,7 @@
 ### To:	     
 ### From:    
 	
-### Subject: Request for quotation for CAD draft for prototype of a Continuous Flow Through (CFT) Worm Bin.
+### Subject: Request for quotation of CAD draft for prototype of a Continuous Flow Through (CFT) Worm Bin.
 
 Hello, 
 	
