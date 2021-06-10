@@ -4,6 +4,7 @@
 
 - [x] Create [GoFund me](https://www.gofundme.com/manage/smart-worm-farm) campaign
 - [x] Publish to social media (facebook, reddit, etc)
+- [ ] Nominate third party to manage funds (treasurer).
 
 ## Engineering Design and Requirements Analysis (Stage 2) 
 
