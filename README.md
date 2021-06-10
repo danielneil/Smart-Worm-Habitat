@@ -8,26 +8,26 @@ An [open source](https://github.com/danielneil/Smart-Worm-Habitat/blob/main/doc/
 
 ## What is a Smart Worm Habitat? 
 
-The Smart Worm Habitat (SWH) is a [continuous flow through (CFT)](https://urbanwormcompany.com/complete-guide-to-continuous-flow-vermicomposting/) vermicompost system that converts foodwaste into the best fertiliser known to mankind, vermicast.
+The Smart Worm Habitat is a [continuous flow through (CFT)](https://urbanwormcompany.com/complete-guide-to-continuous-flow-vermicomposting/) vermicompost system that converts foodwaste into the best fertiliser known to mankind, vermicast.
 
 CFT systems vastly improves the efficiency of harvesting vermicast, as they allow the worms to remain undisturbed in the layers above, while the vermicast is collected (harvested) from below.   
 
-Also, the SWH uses a computer to monitor the health of itself using several sensors, namely moisture, PH level and temperature.
+Also, the Smart Worm Habitat uses a computer to monitor the health of itself using several sensors, namely moisture, PH level and temperature.
 
 ## How is it "smart"? 
 
-Well, you know how your smart phone is "smart" because it has a computer inside it, same dealio with the SWH - it uses a computer to monitor the following: 
+Well, you know how your smart phone is "smart" because it has a computer inside it? the Smart Worm Habitat does too - it uses computer sensors to monitor the following: 
 
 * Outside Temperature
 * Inside Temperature 
 * Soil Moisture level
 * Soil PH level 
 
-& with pretty graphs!
+With all generated data sent to the cloud.
 
 ## Emissions Reduction 
 
-The primary purpose of the SWH is to be able to efficiently covert captured food waste into vermicast, and reduce the associated greenhouse gases should that food waste had of ended up in landfill.
+The primary purpose of the Smart Worm Habitat is to be able to efficiently covert captured food waste into vermicast, and reduce the associated greenhouse gases should that food waste had of ended up in landfill.
 
 The SWH will stop **1,368kg** of CO2-e entering the atmosphere (equivalent to 5.62 petrol tanks), every single month, and that's just one unit - imagine if we had lots of them!
 
@@ -35,9 +35,7 @@ The software will also provide a data entry tool to record the weights of input 
 
 ## It sends alerts, too!
 
-The SWH will monitor and send alerts whenever it suspects the worms are in trouble! 
-
-The alerts will be a pretty WebUI coupled with email notification. 
+The Smart Worm Habitat will monitor and send alerts whenever it suspects the worms are in trouble! 
 
 ## And...it can watch them ;)
 
