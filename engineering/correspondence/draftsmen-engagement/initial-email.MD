@@ -12,17 +12,19 @@ Hello,
 	
 I am writing to request your services to produce a CAD draft/design for a prototype of a Continuous Flow Through (CFT) Worm Bin.
 
-## 1.	Overview of the CFT Design
+Details are as per below:
+
+## 1. Overview
 
 The Smart Worm Habitat is a continuous flow through (CFT) vermicompost system that converts food waste into vermicast.
 
-CFT systems vastly improve the efficiency of harvesting vermicast, as they allow the worms to remain undisturbed in the layers above, while the vermicast is collected (harvested) from below.
-	
-The primary purpose of the project is to be able to efficiently covert captured food waste into vermicast and reduce the associated greenhouse gases should that food waste had of ended up in landfill.
+The primary purpose of the design is to be able to efficiently covert captured food waste into vermicast and reduce the associated greenhouse gases should that food waste had of ended up in landfill.
 
-The project aimes to use open-source initiatives of open exchange, collaborative participation, rapid prototyping, transparency, meritocracy, and community-oriented development in the interests of combatting climate change. 
+The project is aiming to use open-source initiatives of open exchange, collaborative participation, rapid prototyping, transparency, meritocracy, and community-oriented development in the interests of combatting climate change. 
 
-## 2.	Please find specifiations of the prototype at the web link:
+## 2.	Prototype specification
+
+Please find the engineering specification of the prototype upon which to base the CAD design/draft at the following Github link: 
 	
 https://github.com/danielneil/Smart-Worm-Habitat/blob/main/engineering/continuous-flow-worm-bin.MD
 	
