@@ -17,7 +17,7 @@
 
 ## Smart Worm Habitat Construction (Stage 3)
  
- - [ ] Engage with three (3) draftsman to obtain quote for CFT CAD design - publish correspondence to github for community visiability. 
+ - [ ] Engage with three (3) draftsmen to obtain competitive quotes for CFT CAD design - publish correspondence to github for community visiability. 
  - [ ] Withdraw funds from GoFund me campaign to pay draftsmen for services, and offset the difference (if any) with personal contributions.
  - [ ] Engage with draftsman to digitally produce the CFT (based on the detailed design) using CAD. 
  - [ ] Engage with engineering firm/fabricator and submit CFT CAD drafts. 
