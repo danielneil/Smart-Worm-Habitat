@@ -4,7 +4,7 @@
 This doc is to help with R&D of the Smart Worm Habitat, so this should be your first point of reference for getting your hands dirty in the engineering design. 
 
 ## Battle Plan 
-[Project Timeline Document](https://github.com/danielneil/Smart-Worm-Habitat/blob/main/engineering/project-planning-checklist.MD).
+[Project Timeline](https://github.com/danielneil/Smart-Worm-Habitat/blob/main/engineering/project-planning-checklist.MD).
 
 ## Techinical Design Considerations.
 
