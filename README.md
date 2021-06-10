@@ -1,6 +1,6 @@
 # Smart-Worm-Habitat
 
-An [open source](https://github.com/danielneil/Smart-Worm-Habitat/blob/main/doc/what-does-opensource-mean.MD) design for a modular worm habitat that efficiently converts food waste into vermicast, and monitors the health of itself using a little computer (nawww). 
+An [open source](https://github.com/danielneil/Smart-Worm-Habitat/blob/main/doc/what-does-opensource-mean.MD) design for a vermicomposting system that efficiently converts food waste into vermicast, and monitors the health of itself using cloud technology. 
 
 <p align="center">
   <img src="https://github.com/danielneil/Smart-Worm-Habitat/blob/main/images/cad-concept2.png?raw=true">
@@ -8,7 +8,7 @@ An [open source](https://github.com/danielneil/Smart-Worm-Habitat/blob/main/doc/
 
 ## What is a Smart Worm Habitat? 
 
-The Smart Worm Habitat (SWH) is a [continuous flow through (CFT)](https://urbanwormcompany.com/complete-guide-to-continuous-flow-vermicomposting/) vermicompost system that converts foodwaste into the best fertiliser known to mankind, vermicast! 
+The Smart Worm Habitat (SWH) is a [continuous flow through (CFT)](https://urbanwormcompany.com/complete-guide-to-continuous-flow-vermicomposting/) vermicompost system that converts foodwaste into the best fertiliser known to mankind, vermicast.
 
 CFT systems vastly improves the efficiency of harvesting vermicast, as they allow the worms to remain undisturbed in the layers above, while the vermicast is collected (harvested) from below.   
 
