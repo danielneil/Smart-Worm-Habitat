@@ -17,12 +17,13 @@
 
 ## Smart Worm Habitat Construction (Stage 3)
  
+ - [ ] Engage with three (3) draftsman to obtain quote for CFT CAD design - publish correspondence to github for community visiability. 
+ - [ ] Withdraw funds from GoFund me campaign to pay draftsmen for services, and offset the difference (if any) with personal contributions.
  - [ ] Engage with draftsman to digitally produce the CFT (based on the detailed design) using CAD. 
  - [ ] Engage with engineering firm/fabricator and submit CFT CAD drafts. 
  - [ ] Obtain quote for time and materials from engineering firm/fabricator.
  - [ ] Obtain timelime estimation of construction from engineering firm/fabricator.
  - [ ] Publish projected timeline for Smart Worm Habitat construction to GitHub.
- - [ ] Withdraw funds from GoFund me campaing, and offset the difference (if any) with personal contributions.
  - [ ] Publish projected costs and other financials to Github for community visiability.
  - [ ] Organise delivery/collection of the Smart Worm Habitat upon completion. 
  - [ ] Installation of the Smart Worm Habitat prototype in testing facility (Daniel's Basement).  
