@@ -14,14 +14,6 @@ CFT systems vastly improves the efficiency of harvesting vermicast, as they allo
 
 Also, the SWH uses a computer to monitor the health of itself using several sensors, namely moisture, PH level and temperature.
 
-It might end up looking like this..
-
-<p align="center">
-  <img src="https://github.com/danielneil/Smart-Worm-Habitat/blob/main/images/cf-bin.jpg?raw=true">
-  <br />
-  (<a href ="https://urbanwormcompany.com/complete-guide-to-continuous-flow-vermicomposting">Image Reference</a>)
-</p>
-
 ## How is it "smart"? 
 
 Well, you know how your smart phone is "smart" because it has a computer inside it, same dealio with the SWH - it uses a computer to monitor the following: 
