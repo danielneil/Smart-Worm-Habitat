@@ -3,31 +3,26 @@
 
 ## Request for Quotation
 
-### To:	<Company, Address>
+### To:	     <address>
+### From:    <daniel> 
+	
+### Subject: Request for quotation for CAD design 
 
-### From:	Daniel H - Smart Worm Habitat 
-
-### Subject:	Request for quotation 
-
+Hello, 
+	
+I am writing to request a CAD design for a prototype of a Continuous Flow Through (CFT) Worm Bin.
+	
+Please, find details as per below;
 
 Part A – Standard Covering Information
 
-
 1.	The Requirement:
 
-The [insert name of company] has identified a requirement for Customer Management Relationship software
+An open source CAD design for a Continuous Flow Through (CFT) Worm Bin.
 
+2.	Overview of the Proejct
 
-2.	Overview of the [insert name of company]
-
-Objectives
-
-Primary aims and objectives of the company.
-
-Functions
-
-The purpose of the company.
-
+The Smart Worm Habitat is an open source design of a vermiculture 
 
 Organisation
 
@@ -36,18 +31,7 @@ Organisational structure, including Divisions and relevant Branches, and regiona
 
 3.	Terms and Conditions
 
-  
-
-
-4.	Information Required in Each Response
-
-A cover sheet must include the following minimum information:
-•	Company name
-•	Company contact person details
-•	Rates to [name of company] 
-
-5.	Formalities of Engagement
-
+Please not all correspondence will be in the public domain.  
 
 
 6.	Contact Details
@@ -57,46 +41,9 @@ A cover sheet must include the following minimum information:
 The contact person for each particular position is nominated in the table in Part B
 
 
-7.	The Service Specification
+7.	The detailed design specification
 
 The service specification is attached at Part B.
 
-8.	Feedback
-
-Informal feedback from the requesting company can be given over the phone upon request. 
-
-Part B – The Contract Performance Specification
-
-
-1.	Service Parameters
-
-Service Required :	
-Date of Issue:	
-Response Deadline:	
-Scheduled Service Start Date 	
-Duration of Contract:	
-Company Contact Person:	
-
-	
-2.	Body of Service Specification
-
-Background
-
-
-Service Level Required  
-
-Service Level Required.
-
-
-Any restrictions that may affect the delivery or pickup of the service required.
-
- 
-Detail the period the service will be required. ie On going.
-
-
-
-
-
-
-
-
+Regards,
+Daniel Hodder
