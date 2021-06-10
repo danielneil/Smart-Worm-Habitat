@@ -32,9 +32,8 @@ Further design suggestions or engineering advice is welcome.
 	
 ## 3.	Terms and Conditions
 	
-All correspondence will be in the public domain.
-	
-All drafts and designs will be open sourced (in the public domain).
+All submitted CAD drafts/designs will be in the public domain (open source).
+All invoices and receipts will made available in the public domain.
 
 Regards,
-Daniel H
+<probably-daniel>
