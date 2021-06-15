@@ -179,7 +179,7 @@ The mesh should completely cover the bottom of the CFT, and have perforation (ho
 
 ###### CFT - Materials
 
-	Frame (and legs) to be contructed of steel square tube  (galvanised or painted) 
+	Frame (and legs) to be contructed of steel square tube  (to be painted) 
 	Mesh/grates to be galvanised steel
 	Walls to be contructed from polyprolene
 
