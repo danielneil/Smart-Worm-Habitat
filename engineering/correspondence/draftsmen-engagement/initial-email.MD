@@ -1,12 +1,10 @@
 
 # Request for Quote
 
-## Request for Quotation
-
 ### To:	     
 ### From:    
 	
-### Subject: Request for quotation of CAD design for a Continuous Flow Through (CFT) Worm Bin prototype.
+### Subject: Quote request for CAD design of a Continuous Flow Through (CFT) Worm Bin prototype.
 
 Hello, 
 	
@@ -27,4 +25,3 @@ https://github.com/danielneil/Smart-Worm-Habitat/blob/main/engineering/continuou
 Further design suggestions or engineering advice is welcome.
 	
 Regards,
-<probably-daniel>
