@@ -4,7 +4,7 @@
 * Author(s): Daniel N Hodder
 * Reviewer(s): Packo, Boris, Sean
 * Created on: 01/06/2021
-* Version: 0.1
+* Version: 0.2
 
 # Table of Contents
 * [1. Introduction](#Introduction)
