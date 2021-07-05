@@ -21,7 +21,7 @@
  - [X] Engage with engineering firm to obtain quote for CFT CAD design. 
  - [ ] Withdraw funds from GoFund me campaign to pay draftsmen for services, and offset the difference (if any) with personal contributions.
  - [ ] Publish projected costs and other financials community visiability.
- - [ ] Approach engineering firm to fabricate CFT and produce CAD drafts. 
+ - [X] Approach engineering firm to fabricate CFT and produce CAD drafts. 
  - [ ] Obtain quote for time and materials from engineering firm.
  - [ ] Obtain timelime estimation of construction from engineering firm .
  - [ ] Publish projected timeline for Smart Worm Habitat construction to GitHub.
@@ -41,7 +41,7 @@
 
 ## Software Development - Development Environment (Stage 5)
 
-- [ ] Create an appropriate virtualised software development environment.
+- [X] Create an appropriate virtualised software development environment.
 - [ ] Build raspberry standard raspberry pi image.
 - [ ] Publish build artifacts to github.
 
