@@ -164,7 +164,7 @@ Constants:
 	
 	Therefore 
 
-	Volume = 200cm x 150cm X 75cm 
+	Volume = 450cm x 200cm X 75cm 
 	
 The unit will be supported by legs which effectively raise the CFT to allow for the collection of vermicompost underneath:
 
