@@ -159,8 +159,8 @@ Formula:
 Constants:
 
 	Frame Height: 75cm (Height based on worm behavior) 
-	Frame Width: 150cm 
-	Frame Length: 200cm
+	Frame Width: 200cm 
+	Frame Length: 450cm
 	
 	Therefore 
 
