@@ -203,7 +203,7 @@ Potentially, "guide bars" could run the length of the CFT, which the cutting bar
 ##### Cable 
 Constants:
 
-	Length: 220(?)cm
+	Length: 450(?)cm
 
 #####  Cutting Bar and Cable - Materials 
  
