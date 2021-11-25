@@ -194,7 +194,7 @@ Constants:
 
 	Height: 2cm 
 	Width: 5cm 
-	Length: 145cm
+	Length: 200cm
 
 The cutting bar should be "raised" 1 inch on top of the mesh, in order to maximise the volume of the harvest (or scrape). 
 
