@@ -154,17 +154,17 @@ Further Reference: [Video](https://www.youtube.com/watch?v=JM24ybDSopg)
 
 Formula:
 
-	Volume =  Length x Width x Height (Rectangle Prism)  
+	Volume =  Length x Width x Depth (Rectangle Prism)  
 
 Constants:
 
-	Frame Height: 75cm (Height based on worm behavior) 
-	Frame Width: 200cm 
-	Frame Length: 450cm
+	Frame Depth: 75cm (Depth based on worm behavior) 
+	Frame Width: 100cm 
+	Frame Length: 400cm
 	
 	Therefore 
 
-	Volume = 450cm x 200cm X 75cm 
+	Volume = 400cm x 100cm X 75cm 
 	
 The unit will be supported by legs which effectively raise the CFT to allow for the collection of vermicompost underneath:
 
