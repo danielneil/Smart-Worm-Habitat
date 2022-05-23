@@ -35,12 +35,6 @@ The software will also provide a data entry tool to record the weights of input 
 
 The Smart Worm Habitat will monitor and send alerts whenever it suspects the worms are in trouble! 
 
-## And...it can watch them ;)
-
-An infrared camera will takes a happy snap every 30 minutes, with its primary purpose to monitor worm feeding and migration patterns.
-
-P.s. they always go for the watermelon first. 
-
 ## Want to help? What is this about?
 
 * If you wish to participate in R&D, read the [guide](https://github.com/danielneil/Smart-Worm-Habitat/tree/main/engineering).
