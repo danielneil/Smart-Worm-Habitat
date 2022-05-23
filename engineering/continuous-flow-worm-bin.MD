@@ -1,6 +1,6 @@
 # Detailed Design - Continuous Flow Through (CFT) Worm Bin
 
-* Title: Detailed Design for a Continuous Flow Through (CFT) Worm Bin
+* Title: Detailed Design for a Continuous Flow Through (CFT) Worm Bin Construction
 * Author(s): Daniel N Hodder
 * Reviewer(s): Packo, Boris, Sean
 * Created on: 01/06/2021
