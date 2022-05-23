@@ -158,13 +158,13 @@ Formula:
 
 Constants:
 
-	Frame Depth: 75cm (Depth based on worm behavior) 
+	Frame Depth: 100cm (Depth based on worm behavior) 
 	Frame Width: 100cm 
 	Frame Length: 400cm
 	
 	Therefore 
 
-	Volume = 400cm x 100cm X 75cm 
+	Volume = 400cm x 100cm X 100cm 
 	
 The unit will be supported by legs which effectively raise the CFT to allow for the collection of vermicompost underneath:
 
