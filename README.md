@@ -1,6 +1,6 @@
 # Smart-Worm-Habitat
 
-In the interest of combating climate change, an [open source](https://github.com/danielneil/Smart-Worm-Habitat/blob/main/doc/what-does-opensource-mean.MD) research project to develop a design for a vermicomposting system that efficiently converts food waste into vermicast, that is able to monitor the health of itself using software. 
+In the interest of combating climate change, this is an [open source](https://github.com/danielneil/Smart-Worm-Habitat/blob/main/doc/what-does-opensource-mean.MD) research project to develop a product to efficiently convert food waste into vermicompost, that is able to monitor the health of itself using software. 
 
 <p align="center">
   <img src="https://github.com/danielneil/Smart-Worm-Habitat/blob/main/images/cad-concept2.png?raw=true">
