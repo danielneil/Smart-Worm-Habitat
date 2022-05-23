@@ -29,8 +29,5 @@ This doc is to help with R&D of the Smart Worm Habitat, so this should be your f
 * [Soil PH Sensor - Detailed Design](https://github.com/danielneil/Smart-Worm-Habitat/blob/main/engineering/data-entry-design.md).
 * [Soil Moisture Sensor - Detailed Design](https://github.com/danielneil/Smart-Worm-Habitat/blob/main/engineering/data-entry-design.md).
 
-### Imagery System
-* [Camera - Detailed Design](https://github.com/danielneil/Smart-Worm-Habitat/blob/main/engineering/camera-design.md).
-
 ## Document Templates 
 [Detailed Design](https://github.com/danielneil/Smart-Worm-Habitat/blob/main/engineering/detailed-design-document-template.md).
